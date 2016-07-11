@@ -1,2002 +1,2002 @@
-﻿movie	iheartmovies	genre
-2000	1974	4641	21
-0000	2	Drama	Romance
-0001	1	Drama
-0002	2	Adventure	Drama
-0003	2	Comedy	Romance
-0004	2	Crime	Drama
-0005	1	Thriller
-0006	2	Drama	Musical
-0007	1	Comedy
-0008	4	Adventure	Mystery	Scifi	Thriller
-0009	1	Drama
-0010	2	Comedy	Romance
-0011	3	Horror	Scifi	Thriller
-0012	2	Horror	Thriller
-0013	3	Action	Adventure	Drama
-0014	5	Action	Comedy	Crime	Drama	Thriller
-0015	2	Drama	Romance
-0016	4	Crime	Horror	Mystery	Thriller
-0017	3	Drama	Musical	Romance
-0018	1	Drama
-0019	3	Biography	Drama	Sport
-0020	1	Animation
-0021	2	Comedy	Family
-0022	1	Comedy
-0023	1	Drama
-0024	3	Comedy	Drama	Romance
-0025	5	Adventure	Animation	Comedy	Musical	Romance
-0026	2	Crime	Drama
-0027	2	Comedy	Romance
-0028	2	Comedy	Musical
-0029	3	Adventure	Comedy	Fantasy
-0030	3	Crime	Mystery	Thriller
-0031	3	Comedy	Drama	Sport
-0032	2	Drama	Thriller
-0033	3	Comedy	Drama	Sport
-0034	2	Drama	Thriller
-0035	1	Comedy
-0036	1	Comedy
-0037	2	Action	Drama
-0038	2	Drama	Romance
-0039	6	Action	Adventure	Drama	Fantasy	Scifi	Thriller
-0040	1	Thriller
-0041	2	Drama	War
-0042	1	Comedy
-0043	1	Horror
-0044	2	Comedy	Romance
-0045	2	Drama	Thriller
-0046	2	Drama	Romance
-0047	1	Comedy
-0048	2	Biography	Drama
-0049	2	Scifi	Thriller
-0050	3	Comedy	Drama	Romance
-0051	4	Comedy	Drama	Fantasy	Scifi
-0052	2	Comedy	Drama
-0053	4	Comedy	Drama	Romance	Sport
-0054	4	Crime	Drama	Romance	Thriller
-0055	2	Mystery	Thriller
-0056	4	Action	Drama	Romance	Thriller
-0057	3	Biography	Drama	Sport
-0058	2	Drama	Sport
-0059	2	Drama	Mystery
-0060	3	Comedy	Horror	Scifi
-0061	2	Adventure	Fantasy
-0062	3	Comedy	Drama	Romance
-0063	0	<NULL>
-0064	2	Musical	Romance
-0065	1	Comedy
-0066	2	Comedy	Sport
-0067	2	Comedy	Sport
-0068	1	Documentary
-0069	1	Drama
-0070	3	Comedy	Drama	Scifi
-0071	2	Drama	Thriller
-0072	2	Adventure	Scifi
-0073	1	Comedy
-0074	4	Comedy	Crime	Drama	Thriller
-0075	1	Comedy
-0076	3	Drama	Horror	Thriller
-0077	4	Comedy	Drama	Romance	Sport
-0078	3	Action	Adventure	Comedy
-0079	3	Crime	Drama	Thriller
-0080	2	Mystery	Thriller
-0081	2	Horror	Mystery
-0082	3	Comedy	Drama	Romance
-0083	2	Drama	Romance
-0084	6	Adventure	Biography	Comedy	Crime	Drama	Romance
-0085	3	Comedy	Drama	Romance
-0086	2	Comedy	Romance
-0087	4	Animation	Comedy	Fantasy	Scifi
-0088	2	Action	Drama
-0089	4	Comedy	Crime	Drama	Horror
-0090	2	Comedy	Drama
-0091	2	Horror	Thriller
-0092	2	Drama	Musical
-0093	3	Comedy	Drama	Romance
-0094	2	Comedy	Drama
-0095	2	Comedy	Romance
-0096	1	Adventure
-0097	3	Comedy	Drama	Musical
-0098	2	Horror	Thriller
-0099	1	Comedy
-0100	1	Documentary
-0101	3	Action	Adventure	Drama
-0102	2	Adventure	Drama
-0103	1	Comedy
-0104	4	Action	Crime	Drama	Thriller
-0105	2	Comedy	Romance
-0106	3	Drama	Horror	Thriller
-0107	1	Horror
-0108	2	Drama	Romance
-0109	4	Action	Adventure	Drama	Scifi
-0110	1	Comedy
-0111	2	Action	Comedy
-0112	2	Comedy	Drama
-0113	2	Crime	Drama
-0114	4	Biography	Crime	Drama	Mystery
-0115	2	Drama	Thriller
-0116	3	Comedy	Drama	Romance
-0117	1	Adventure
-0118	2	Drama	Scifi
-0119	3	Comedy	Drama	Fantasy
-0120	1	Comedy
-0121	2	Comedy	Romance
-0122	1	Comedy
-0123	2	Action	Scifi
-0124	2	Comedy	Scifi
-0125	4	Comedy	Crime	Drama	Musical
-0126	2	Drama	Romance
-0127	1	Horror
-0128	2	Comedy	Drama
-0129	4	Action	Comedy	Horror	Scifi
-0130	3	Comedy	Drama	Romance
-0131	1	Horror
-0132	2	Comedy	Romance
-0133	2	Comedy	Family
-0134	3	Crime	Drama	Thriller
-0135	5	Animation	Fantasy	Family	Musical	Romance
-0136	3	Animation	Fantasy	Romance
-0137	4	Adventure	Drama	Fantasy	Scifi
-0138	4	Crime	Drama	Mystery	Thriller
-0139	2	Drama	Thriller
-0140	2	Adventure	Fantasy
-0141	1	Comedy
-0142	4	Action	Adventure	Fantasy	Romance
-0143	1	Comedy
-0144	3	Crime	Drama	Thriller
-0145	3	Action	Drama	Thriller
-0146	1	Action
-0147	3	Adventure	Drama	Scifi
-0148	3	Action	Scifi	Thriller
-0149	3	Comedy	Crime	Mystery
-0150	2	Biography	Drama
-0151	3	Comedy	Drama	Romance
-0152	2	Biography	Drama
-0153	3	Comedy	Drama	Scifi
-0154	2	Comedy	Drama
-0155	3	Drama	Horror	Thriller
-0156	2	Drama	Romance
-0157	2	Comedy	Drama
-0158	1	Comedy
-0159	1	Comedy
-0160	1	Horror
-0161	4	Drama	Mystery	Romance	Thriller
-0162	0	<NULL>
-0163	2	Drama	Thriller
-0164	2	Comedy	Drama
-0165	1	Comedy
-0166	2	Action	Adventure
-0167	2	Drama	Romance
-0168	1	Comedy
-0169	3	Action	Adventure	Fantasy
-0170	3	Action	Adventure	Fantasy
-0171	4	Action	Adventure	Mystery	Scifi
-0172	2	Comedy	Crime
-0173	1	Drama
-0174	5	Action	Drama	Fantasy	Horror	Thriller
-0175	2	Biography	Drama
-0176	2	Adventure	Drama
-0177	4	Comedy	Drama	Family	Sport
-0178	5	Action	Animation	Comedy	Fantasy	Mystery
-0179	4	Action	Crime	Drama	Thriller
-0180	2	Comedy	Musical
-0181	5	Crime	Drama	Horror	Mystery	Thriller
-0182	2	Animation	Fantasy
-0183	2	Comedy	Crime
-0184	4	Crime	Drama	Horror	Thriller
-0185	2	Adventure	Comedy
-0186	2	Comedy	Drama
-0187	2	Comedy	Drama
-0188	1	Documentary
-0189	1	Horror
-0190	2	Drama	Romance
-0191	3	Horror	Scifi	Thriller
-0192	2	Animation	Fantasy
-0193	1	Drama
-0194	2	Comedy	Drama
-0195	2	Crime	Drama
-0196	4	Drama	Horror	Mystery	Thriller
-0197	2	Crime	Thriller
-0198	1	Documentary
-0199	1	Drama
-0200	2	Musical	Romance
-0201	2	Action	Scifi
-0202	1	Comedy
-0203	5	Biography	Crime	Drama	Horror	Thriller
-0204	2	Comedy	Drama
-0205	1	Drama
-0206	1	Comedy
-0207	3	Comedy	Drama	Romance
-0208	2	Action	Comedy
-0209	2	Crime	Drama
-0210	2	Comedy	Drama
-0211	3	Comedy	Musical	Romance
-0212	2	Drama	Romance
-0213	1	Comedy
-0214	4	Crime	Drama	Romance	Thriller
-0215	3	Action	Adventure	Drama
-0216	4	Fantasy	Mystery	Scifi	Thriller
-0217	2	Drama	Romance
-0218	3	Drama	Horror	Thriller
-0219	3	Action	Comedy	Romance
-0220	2	Drama	Romance
-0221	4	Action	Adventure	Drama	Thriller
-0222	2	Drama	Romance
-0223	2	Comedy	Horror
-0224	2	Horror	Thriller
-0225	2	Horror	Thriller
-0226	2	Crime	Drama
-0227	3	Action	Comedy	Horror
-0228	1	Horror
-0229	3	Action	Crime	Drama
-0230	3	Animation	Horror	Scifi
-0231	2	Comedy	Drama
-0232	2	Horror	Thriller
-0233	3	Drama	Mystery	Thriller
-0234	3	Drama	Romance	Thriller
-0235	4	Action	Adventure	Scifi	Thriller
-0236	2	Adult	Comedy
-0237	3	Action	Drama	Thriller
-0238	3	Comedy	Drama	Romance
-0239	1	Adult
-0240	3	Comedy	Crime	Drama
-0241	2	Comedy	Romance
-0242	2	Crime	Documentary
-0243	3	Adventure	Drama	Thriller
-0244	3	Comedy	Drama	Thriller
-0245	3	Action	Adventure	Comedy
-0246	1	Documentary
-0247	3	Drama	Fantasy	Romance
-0248	2	Drama	Thriller
-0249	2	Horror	Thriller
-0250	1	Adult
-0251	3	Comedy	Drama	Romance
-0252	4	Adventure	Crime	Horror	Mystery
-0253	4	Adventure	Crime	Horror	Mystery
-0254	4	Crime	Drama	Mystery	Thriller
-0255	1	Comedy
-0256	1	Comedy
-0257	1	Horror
-0258	3	Adventure	Biography	Drama
-0259	3	Comedy	Drama	Romance
-0260	1	Comedy
-0261	1	Comedy
-0262	3	Action	Crime	Thriller
-0263	4	Action	Biography	Crime	Drama
-0264	2	Comedy	Drama
-0265	4	Action	Crime	Drama	Thriller
-0266	1	Drama
-0267	2	Drama	Romance
-0268	1	Comedy
-0269	1	Comedy
-0270	2	Horror	Thriller
-0271	1	Drama
-0272	3	Action	Adventure	Thriller
-0273	2	Drama	Romance
-0274	2	Drama	Thriller
-0275	3	Drama	Mystery	Thriller
-0276	3	Comedy	Fantasy	Scifi
-0277	4	Comedy	Horror	Romance	Scifi
-0278	1	Comedy
-0279	1	Comedy
-0280	2	Action	Comedy
-0281	4	Action	Adventure	Comedy	Drama
-0282	2	Musical	Romance
-0283	2	Drama	Thriller
-0284	1	Comedy
-0285	2	Comedy	Romance
-0286	1	Comedy
-0287	3	Biography	Drama	Sport
-0288	1	Comedy
-0289	6	Action	Adventure	Comedy	Crime	Romance	Thriller
-0290	4	Action	Fantasy	Horror	Thriller
-0291	2	Drama	Romance
-0292	0	<NULL>
-0293	2	Comedy	Sport
-0294	3	Comedy	Drama	Romance
-0295	4	Crime	Drama	Mystery	Thriller
-0296	1	Drama
-0297	2	Drama	Thriller
-0298	4	Drama	Horror	Mystery	Thriller
-0299	2	Mystery	Thriller
-0300	1	Comedy
-0301	2	Action	Thriller
-0302	1	Drama
-0303	1	Comedy
-0304	1	Comedy
-0305	2	Comedy	Drama
-0306	1	Comedy
-0307	3	Comedy	Fantasy	Romance
-0308	3	Drama	Horror	Scifi
-0309	3	Comedy	Drama	Romance
-0310	2	Horror	Romance
-0311	3	Comedy	Drama	Romance
-0312	1	Comedy
-0313	3	Comedy	Drama	Romance
-0314	3	Action	Drama	Sport
-0315	2	Comedy	Drama
-0316	2	Comedy	Drama
-0317	2	Comedy	Fantasy
-0318	1	Comedy
-0319	1	Adventure
-0320	3	Comedy	Fantasy	Scifi
-0321	3	Animation	Drama	Musical
-0322	3	Action	Adventure	Fantasy
-0323	1	Documentary
-0324	4	Comedy	Musical	Romance	Scifi
-0325	1	Drama
-0326	2	Comedy	Romance
-0327	3	Comedy	Drama	Romance
-0328	1	Horror
-0329	1	Comedy
-0330	2	Comedy	Romance
-0331	3	Biography	Comedy	Drama
-0332	2	Comedy	Documentary
-0333	3	Comedy	Drama	Romance
-0334	3	Crime	Drama	Thriller
-0335	2	Drama	Thriller
-0336	1	Drama
-0337	3	Action	Animation	Scifi
-0338	3	Comedy	Drama	Fantasy
-0339	3	Adventure	Drama	Romance
-0340	2	Drama	Romance
-0341	3	Comedy	Drama	Romance
-0342	2	Comedy	Horror
-0343	1	Comedy
-0344	6	Adventure	Animation	Comedy	Fantasy	Musical	Romance
-0345	1	Documentary
-0346	2	Drama	Romance
-0347	2	Drama	Thriller
-0348	3	Action	Drama	Thriller
-0349	2	Drama	Scifi
-0350	1	Drama
-0351	1	Drama
-0352	2	Adventure	Comedy
-0353	3	Drama	Horror	Mystery
-0354	3	Action	Adventure	Fantasy
-0355	2	Comedy	Horror
-0356	2	Comedy	Fantasy
-0357	4	Action	Adventure	Scifi	Thriller
-0358	3	Adventure	Fantasy	Scifi
-0359	2	Comedy	Drama
-0360	4	Action	Animation	Anime	Scifi
-0361	1	Drama
-0362	3	Adventure	Comedy	Drama
-0363	2	Comedy	Fantasy
-0364	4	Action	Crime	Drama	Thriller
-0365	2	Drama	Romance
-0366	1	Adventure
-0367	2	Drama	Sport
-0368	3	Comedy	Drama	Romance
-0369	2	Comedy	Crime
-0370	3	Adventure	Animation	Comedy
-0371	1	Comedy
-0372	4	Action	Adventure	Fantasy	Scifi
-0373	2	Comedy	Drama
-0374	1	Comedy
-0375	2	Drama	Romance
-0376	1	Comedy
-0377	2	Comedy	Fantasy
-0378	1	Drama
-0379	2	Drama	Thriller
-0380	1	Comedy
-0381	3	Drama	Horror	Thriller
-0382	4	Action	Comedy	Horror	Thriller
-0383	2	Drama	Romance
-0384	1	Animation
-0385	4	Adventure	Animation	Comedy	Fantasy
-0386	2	Action	Drama
-0387	4	Fantasy	Horror	Mystery	Thriller
-0388	2	Crime	Drama
-0389	2	Action	Comedy
-0390	2	Action	Thriller
-0391	3	Action	Drama	Thriller
-0392	3	Comedy	Drama	Romance
-0393	4	Drama	Horror	Romance	Scifi
-0394	2	Comedy	Crime
-0395	3	Comedy	Crime	Mystery
-0396	2	Biography	Drama
-0397	3	Adventure	Family	Scifi
-0398	1	Adventure
-0399	2	Comedy	Fantasy
-0400	2	Adventure	Drama
-0401	2	Adventure	Animation
-0402	4	Action	Adventure	Drama	Romance
-0403	3	Comedy	Musical	Romance
-0404	1	Documentary
-0405	4	Action	Adventure	Comedy	Romance
-0406	1	Comedy
-0407	2	Comedy	Drama
-0408	3	Drama	Scifi	Thriller
-0409	2	Drama	Sport
-0410	2	Comedy	Romance
-0411	3	Comedy	Drama	Romance
-0412	2	Comedy	Thriller
-0413	1	Comedy
-0414	3	Drama	Fantasy	Scifi
-0415	4	Drama	Fantasy	Romance	Thriller
-0416	4	Action	Crime	Drama	Thriller
-0417	3	Comedy	Drama	Fantasy
-0418	2	Comedy	Fantasy
-0419	2	Adventure	Drama
-0420	4	Crime	Horror	Romance	Thriller
-0421	2	Comedy	Crime
-0422	3	Action	Drama	Sport
-0423	3	Horror	Mystery	Thriller
-0424	1	Horror
-0425	1	Adventure
-0426	1	Horror
-0427	2	Drama	Romance
-0428	1	Drama
-0429	3	Horror	Mystery	Thriller
-0430	2	Comedy	Drama
-0431	1	Comedy
-0432	3	Comedy	Musical	Romance
-0433	1	Comedy
-0434	2	Horror	Thriller
-0435	4	Comedy	Drama	Musical	Romance
-0436	2	Comedy	Drama
-0437	2	Biography	Drama
-0438	4	Adventure	Animation	Comedy	Scifi
-0439	2	Crime	Drama
-0440	3	Action	Adventure	Fantasy
-0441	3	Comedy	Musical	Romance
-0442	3	Adventure	Animation	Fantasy
-0443	2	Biography	Drama
-0444	3	Crime	Drama	Thriller
-0445	1	Drama
-0446	1	Comedy
-0447	1	Comedy
-0448	1	Comedy
-0449	4	Action	Crime	Drama	Thriller
-0450	1	Comedy
-0451	3	Comedy	Musical	Romance
-0452	2	Crime	Drama
-0453	3	Action	Comedy	Crime
-0454	2	Comedy	Drama
-0455	5	Comedy	Drama	Mystery	Romance	Thriller
-0456	4	Action	Comedy	Fantasy	Scifi
-0457	5	Action	Adventure	Comedy	Horror	Scifi
-0458	1	Documentary
-0459	3	Action	Horror	Scifi
-0460	1	Drama
-0461	1	Drama
-0462	2	Comedy	Romance
-0463	3	Comedy	Musical	Romance
-0464	3	Comedy	Crime	Romance
-0465	3	Drama	Romance	Thriller
-0466	3	Drama	Horror	Thriller
-0467	2	Drama	Sport
-0468	1	Drama
-0469	3	Action	Adventure	Drama
-0470	1	Comedy
-0471	3	Drama	Horror	Thriller
-0472	3	Comedy	Drama	Musical
-0473	1	Comedy
-0474	2	Comedy	Romance
-0475	2	Crime	Drama
-0476	2	Drama	Mystery
-0477	2	Comedy	Sport
-0478	1	Drama
-0479	2	Comedy	Documentary
-0480	2	Comedy	Drama
-0481	1	Drama
-0482	1	Drama
-0483	4	Action	Adventure	Mystery	Romance
-0484	3	Horror	Mystery	Thriller
-0485	2	Drama	Romance
-0486	2	Drama	War
-0487	2	Drama	Romance
-0488	2	Crime	Drama
-0489	2	Comedy	Drama
-0490	3	Comedy	Fantasy	Horror
-0491	2	Biography	Drama
-0492	2	Drama	Sport
-0493	1	Comedy
-0494	3	Crime	Horror	Mystery
-0495	1	Drama
-0496	1	Adventure
-0497	2	Drama	Musical
-0498	3	Adventure	Fantasy	Family
-0499	4	Crime	Drama	Scifi	Thriller
-0500	2	Adventure	Fantasy
-0501	1	Drama
-0502	2	Animation	Drama
-0503	1	Documentary
-0504	3	Comedy	Fantasy	Romance
-0505	2	Horror	Thriller
-0506	2	Horror	Scifi
-0507	1	Comedy
-0508	3	Action	Horror	Thriller
-0509	3	Horror	Scifi	Thriller
-0510	2	Action	Comedy
-0511	3	Animation	Comedy	Romance
-0512	2	Comedy	Drama
-0513	4	Comedy	Crime	Drama	Thriller
-0514	2	Comedy	Romance
-0515	1	Drama
-0516	1	Comedy
-0517	4	Crime	Drama	Romance	Thriller
-0518	0	<NULL>
-0519	2	Drama	Romance
-0520	4	Comedy	Crime	Musical	Romance
-0521	4	Biography	Comedy	Drama	Musical
-0522	1	Drama
-0523	2	Comedy	Crime
-0524	1	Horror
-0525	2	Comedy	Romance
-0526	1	Drama
-0527	2	Action	Drama
-0528	2	Comedy	Drama
-0529	2	Drama	Thriller
-0530	3	Horror	Mystery	Thriller
-0531	2	Comedy	Drama
-0532	2	Drama	Sport
-0533	4	Action	Crime	Drama	Thriller
-0534	2	Drama	Thriller
-0535	4	Action	Crime	Drama	Thriller
-0536	2	Adventure	Comedy
-0537	2	Comedy	Romance
-0538	1	Comedy
-0539	3	Adventure	Drama	Romance
-0540	4	Adventure	Fantasy	Family	Mystery
-0541	3	Action	Crime	Drama
-0542	2	Comedy	Thriller
-0543	1	Drama
-0544	3	Comedy	Crime	Romance
-0545	3	Comedy	Drama	Romance
-0546	6	Action	Adventure	Animation	Fantasy	Horror	Scifi
-0547	5	Action	Adventure	Animation	Fantasy	Scifi
-0548	1	Documentary
-0549	2	Horror	Thriller
-0550	5	Action	Adventure	Comedy	Horror	Scifi
-0551	1	Comedy
-0552	1	Documentary
-0553	4	Adventure	Comedy	Fantasy	Sport
-0554	4	Action	Adventure	Comedy	Romance
-0555	4	Adventure	Animation	Comedy	Musical
-0556	2	Animation	Comedy
-0557	3	Comedy	Drama	Romance
-0558	2	Drama	Fantasy
-0559	2	Comedy	Drama
-0560	3	Adventure	Animation	Comedy
-0561	3	Comedy	Drama	Romance
-0562	3	Action	Adventure	Romance
-0563	3	Comedy	Horror	Romance
-0564	1	Drama
-0565	2	Crime	Drama
-0566	3	Crime	Drama	Thriller
-0567	1	Drama
-0568	2	Drama	Thriller
-0569	3	Comedy	Drama	Romance
-0570	3	Comedy	Fantasy	Horror
-0571	3	Comedy	Drama	Romance
-0572	4	Action	Horror	Scifi	Thriller
-0573	3	Comedy	Drama	Romance
-0574	2	Drama	Sport
-0575	2	Comedy	Drama
-0576	3	Comedy	Drama	Romance
-0577	2	Action	Drama
-0578	4	Horror	Mystery	Scifi	Thriller
-0579	1	Comedy
-0580	1	Horror
-0581	2	Action	Comedy
-0582	1	Comedy
-0583	2	Crime	Drama
-0584	1	Horror
-0585	3	Horror	Mystery	Thriller
-0586	3	Fantasy	Horror	Scifi
-0587	3	Fantasy	Horror	Scifi
-0588	5	Action	Drama	Horror	Mystery	Thriller
-0589	4	Crime	Horror	Mystery	Thriller
-0590	0	<NULL>
-0591	3	Comedy	Drama	Romance
-0592	1	Drama
-0593	4	Adventure	Fantasy	Romance	Scifi
-0594	1	Drama
-0595	2	Comedy	Drama
-0596	2	Horror	Scifi
-0597	1	Comedy
-0598	1	Horror
-0599	4	Drama	Horror	Mystery	Thriller
-0600	3	Action	Drama	Scifi
-0601	1	Drama
-0602	1	Comedy
-0603	2	Drama	Thriller
-0604	2	Comedy	Romance
-0605	1	Comedy
-0606	2	Comedy	Crime
-0607	1	Comedy
-0608	1	Drama
-0609	3	Horror	Mystery	Thriller
-0610	1	Comedy
-0611	3	Comedy	Drama	Romance
-0612	1	Animation
-0613	2	Comedy	Scifi
-0614	3	Crime	Drama	Thriller
-0615	2	Documentary	Musical
-0616	2	Drama	Romance
-0617	1	Comedy
-0618	3	Action	Drama	Thriller
-0619	4	Drama	Horror	Mystery	Thriller
-0620	1	Drama
-0621	2	Comedy	Horror
-0622	1	Drama
-0623	2	Comedy	Drama
-0624	2	Animation	Comedy
-0625	2	Comedy	Drama
-0626	3	Comedy	Drama	Romance
-0627	2	Crime	Drama
-0628	3	Action	Drama	Thriller
-0629	2	Comedy	Drama
-0630	3	Mystery	Romance	Thriller
-0631	3	Comedy	Drama	Romance
-0632	4	Fantasy	Horror	Mystery	Thriller
-0633	1	Documentary
-0634	4	Drama	Fantasy	Mystery	Romance
-0635	3	Drama	Romance	Thriller
-0636	4	Drama	Mystery	Scifi	Thriller
-0637	2	Drama	Romance
-0638	1	Drama
-0639	2	Action	Adventure
-0640	1	Drama
-0641	2	Drama	Mystery
-0642	2	Mystery	Thriller
-0643	4	Action	Adventure	Comedy	Scifi
-0644	1	Drama
-0645	2	Drama	Thriller
-0646	3	Crime	Drama	Thriller
-0647	2	Drama	Romance
-0648	2	Adventure	Drama
-0649	2	Action	Scifi
-0650	3	Comedy	Drama	Romance
-0651	2	Adventure	Drama
-0652	3	Comedy	Drama	Romance
-0653	2	Comedy	Romance
-0654	4	Drama	Fantasy	Family	Romance
-0655	1	Drama
-0656	1	Drama
-0657	3	Comedy	Fantasy	Horror
-0658	1	Horror
-0659	2	Comedy	Drama
-0660	3	Adventure	Crime	Drama
-0661	2	Drama	Romance
-0662	0	<NULL>
-0663	1	Drama
-0664	3	Action	Adventure	Fantasy
-0665	2	Horror	Thriller
-0666	3	Comedy	Crime	Drama
-0667	2	Horror	Thriller
-0668	4	Comedy	Horror	Scifi	Thriller
-0669	4	Action	Crime	Drama	Romance
-0670	3	Comedy	Drama	Romance
-0671	1	Drama
-0672	1	Documentary
-0673	3	Comedy	Drama	Romance
-0674	2	Biography	Drama
-0675	3	Crime	Drama	Thriller
-0676	2	Crime	Drama
-0677	3	Action	Adventure	Comedy
-0678	0	<NULL>
-0679	4	Action	Crime	Drama	Thriller
-0680	1	Drama
-0681	2	Horror	Thriller
-0682	2	Drama	Romance
-0683	3	Action	Crime	Scifi
-0684	2	Action	Comedy
-0685	1	Drama
-0686	2	Comedy	Drama
-0687	2	Comedy	Drama
-0688	5	Action	Crime	Drama	Mystery	Thriller
-0689	2	Comedy	Romance
-0690	3	Comedy	Fantasy	Romance
-0691	2	Comedy	Romance
-0692	3	Animation	Fantasy	Scifi
-0693	0	<NULL>
-0694	2	Drama	Thriller
-0695	3	Action	Comedy	Crime
-0696	2	Horror	Romance
-0697	2	Drama	Romance
-0698	3	Crime	Drama	Thriller
-0699	3	Crime	Drama	Mystery
-0700	2	Comedy	Fantasy
-0701	3	Action	Comedy	Drama
-0702	2	Comedy	Drama
-0703	2	Comedy	Drama
-0704	3	Action	Comedy	Romance
-0705	3	Crime	Drama	Thriller
-0706	6	Action	Adventure	Fantasy	Horror	Romance	Thriller
-0707	3	Adventure	Drama	Romance
-0708	1	Comedy
-0709	2	Comedy	Sport
-0710	2	Biography	Drama
-0711	0	<NULL>
-0712	3	Action	Comedy	Thriller
-0713	5	Action	Comedy	Crime	Drama	Thriller
-0714	1	Documentary
-0715	1	Comedy
-0716	3	Action	Comedy	Crime
-0717	4	Action	Drama	Thriller	War
-0718	6	Action	Adventure	Animation	Comedy	Fantasy	Romance
-0719	1	Drama
-0720	4	Crime	Drama	Horror	Thriller
-0721	1	Drama
-0722	2	Animation	Drama
-0723	2	Action	Comedy
-0724	1	Comedy
-0725	1	Documentary
-0726	1	Comedy
-0727	1	Horror
-0728	2	Drama	Romance
-0729	1	Comedy
-0730	4	Drama	Horror	Mystery	Thriller
-0731	4	Adventure	Animation	Drama	Musical
-0732	1	Drama
-0733	2	Comedy	Romance
-0734	2	Comedy	Crime
-0735	1	Thriller
-0736	6	Adventure	Animation	Comedy	Drama	Fantasy	Musical
-0737	2	Horror	Thriller
-0738	2	Drama	Romance
-0739	3	Horror	Mystery	Thriller
-0740	3	Comedy	Fantasy	Romance
-0741	4	Crime	Drama	Mystery	Thriller
-0742	3	Comedy	Fantasy	Sport
-0743	1	Comedy
-0744	1	Romance
-0745	2	Crime	Drama
-0746	1	Comedy
-0747	1	Drama
-0748	1	Musical
-0749	2	Comedy	Drama
-0750	2	Adventure	Fantasy
-0751	2	Crime	Drama
-0752	1	Comedy
-0753	2	Biography	Drama
-0754	3	Adventure	Fantasy	Romance
-0755	4	Action	Comedy	Horror	Thriller
-0756	2	Comedy	Drama
-0757	3	Comedy	Drama	Romance
-0758	1	Drama
-0759	4	Action	Crime	Drama	Thriller
-0760	2	Action	Horror
-0761	1	Drama
-0762	2	Comedy	Romance
-0763	2	Biography	Drama
-0764	2	Comedy	Romance
-0765	4	Comedy	Drama	Romance	Sport
-0766	2	Drama	Thriller
-0767	4	Comedy	Crime	Drama	Thriller
-0768	1	Drama
-0769	1	Comedy
-0770	2	Biography	Drama
-0771	2	Comedy	Horror
-0772	3	Action	Comedy	Horror
-0773	3	Comedy	Drama	Romance
-0774	3	Adventure	Animation	Drama
-0775	5	Drama	Fantasy	Horror	Romance	Thriller
-0776	1	Drama
-0777	3	Comedy	Drama	Romance
-0778	2	Comedy	Romance
-0779	2	Comedy	Drama
-0780	3	Comedy	Drama	Romance
-0781	2	Comedy	Fantasy
-0782	3	Crime	Drama	Thriller
-0783	1	Drama
-0784	2	Comedy	Drama
-0785	2	Crime	Drama
-0786	1	Comedy
-0787	2	Drama	Musical
-0788	3	Adventure	Comedy	Fantasy
-0789	2	Drama	Thriller
-0790	3	Comedy	Drama	Romance
-0791	2	Drama	Romance
-0792	4	Action	Adventure	Crime	Thriller
-0793	3	Action	Adventure	Thriller
-0794	2	Action	Comedy
-0795	2	Crime	Drama
-0796	1	Drama
-0797	2	Drama	Romance
-0798	3	Comedy	Drama	Romance
-0799	2	Action	Thriller
-0800	5	Action	Adventure	Animation	Comedy	Fantasy
-0801	3	Fantasy	Horror	Thriller
-0802	2	Action	Drama
-0803	1	Drama
-0804	1	Comedy
-0805	5	Crime	Drama	Horror	Mystery	Thriller
-0806	5	Adventure	Drama	Fantasy	Mystery	Scifi
-0807	2	Adventure	Comedy
-0808	3	Action	Adventure	Scifi
-0809	2	Comedy	Drama
-0810	3	Comedy	Drama	Romance
-0811	3	Comedy	Drama	Romance
-0812	2	Comedy	Romance
-0813	2	Drama	Romance
-0814	1	Comedy
-0815	2	Comedy	Romance
-0816	1	Comedy
-0817	3	Comedy	Drama	Romance
-0818	3	Crime	Drama	Thriller
-0819	1	Drama
-0820	1	Animation
-0821	2	Drama	Romance
-0822	1	Adventure
-0823	4	Action	Adventure	Crime	Thriller
-0824	2	Drama	Romance
-0825	4	Action	Adventure	Animation	Comedy
-0826	2	Fantasy	Romance
-0827	1	Comedy
-0828	1	Comedy
-0829	0	<NULL>
-0830	0	<NULL>
-0831	0	<NULL>
-0832	4	Drama	Horror	Romance	Thriller
-0833	2	Adventure	Fantasy
-0834	2	Comedy	Romance
-0835	1	Drama
-0836	2	Drama	Thriller
-0837	2	Biography	Drama
-0838	4	Crime	Horror	Mystery	Thriller
-0839	2	Comedy	Drama
-0840	1	Musical
-0841	1	Drama
-0842	2	Drama	Romance
-0843	5	Adventure	Comedy	Drama	Musical	Romance
-0844	2	Comedy	Romance
-0845	2	Comedy	Romance
-0846	1	Drama
-0847	3	Comedy	Fantasy	Romance
-0848	2	Biography	Drama
-0849	2	Comedy	Drama
-0850	1	Drama
-0851	2	Biography	Drama
-0852	2	Crime	Drama
-0853	4	Drama	Mystery	Romance	Thriller
-0854	3	Action	Adventure	Drama
-0855	5	Action	Adventure	Comedy	Fantasy	Scifi
-0856	2	Drama	Romance
-0857	2	Drama	Thriller
-0858	2	Comedy	Drama
-0859	1	Comedy
-0860	4	Action	Crime	Drama	Thriller
-0861	3	Drama	Horror	Thriller
-0862	2	Comedy	Drama
-0863	2	Crime	Drama
-0864	1	Comedy
-0865	4	Drama	Fantasy	Mystery	Romance
-0866	1	Documentary
-0867	1	Drama
-0868	1	Comedy
-0869	4	Action	Adventure	Romance	Scifi
-0870	1	Comedy
-0871	4	Comedy	Drama	Fantasy	Romance
-0872	3	Biography	Drama	Thriller
-0873	2	Animation	Comedy
-0874	4	Animation	Comedy	Drama	Fantasy
-0875	3	Crime	Drama	Mystery
-0876	5	Action	Adventure	Comedy	Crime	Thriller
-0877	2	Action	Drama
-0878	3	Adventure	Fantasy	Thriller
-0879	3	Crime	Drama	Thriller
-0880	2	Drama	Sport
-0881	6	Action	Crime	Drama	Mystery	Scifi	Thriller
-0882	2	Drama	Sport
-0883	1	Drama
-0884	1	Comedy
-0885	2	Action	Drama
-0886	1	Drama
-0887	2	Drama	Romance
-0888	1	Comedy
-0889	1	Drama
-0890	4	Drama	Horror	Scifi	Thriller
-0891	4	Adventure	Anime	Drama	Fantasy
-0892	2	Action	Horror
-0893	4	Animation	Comedy	Fantasy	Mystery
-0894	2	Drama	Romance
-0895	3	Drama	Scifi	Thriller
-0896	3	Comedy	Drama	Romance
-0897	3	Comedy	Drama	Romance
-0898	2	Comedy	Drama
-0899	1	Documentary
-0900	1	Drama
-0901	0	<NULL>
-0902	5	Action	Drama	Horror	Mystery	Thriller
-0903	2	Drama	Thriller
-0904	3	Crime	Drama	Thriller
-0905	3	Drama	Musical	Romance
-0906	1	Drama
-0907	2	Action	Comedy
-0908	1	Comedy
-0909	1	Comedy
-0910	1	Comedy
-0911	3	Crime	Drama	Thriller
-0912	1	Drama
-0913	3	Adventure	Comedy	Romance
-0914	1	Comedy
-0915	2	Comedy	Drama
-0916	3	Comedy	Crime	Drama
-0917	2	Comedy	Romance
-0918	3	Crime	Drama	Thriller
-0919	3	Adventure	Comedy	Scifi
-0920	4	Action	Crime	Drama	Thriller
-0921	2	Drama	Thriller
-0922	2	Documentary	Sport
-0923	3	Crime	Horror	Mystery
-0924	2	Comedy	Romance
-0925	2	Comedy	Romance
-0926	2	Comedy	Drama
-0927	1	Comedy
-0928	2	Comedy	Romance
-0929	1	Comedy
-0930	3	Comedy	Drama	Romance
-0931	2	Biography	Drama
-0932	3	Horror	Mystery	Thriller
-0933	4	Action	Comedy	Romance	Thriller
-0934	3	Adventure	Animation	Fantasy
-0935	1	Comedy
-0936	1	Drama
-0937	2	Horror	Thriller
-0938	2	Comedy	Drama
-0939	2	Comedy	Scifi
-0940	1	Comedy
-0941	3	Comedy	Drama	Romance
-0942	3	Crime	Drama	Mystery
-0943	1	Comedy
-0944	1	Comedy
-0945	2	Comedy	Drama
-0946	4	Action	Comedy	Crime	Thriller
-0947	3	Adventure	Crime	Thriller
-0948	4	Action	Comedy	Crime	Thriller
-0949	2	Action	Adventure
-0950	4	Action	Drama	Scifi	Thriller
-0951	3	Adventure	Animation	Fantasy
-0952	1	Drama
-0953	4	Crime	Horror	Mystery	Thriller
-0954	2	Drama	Romance
-0955	2	Drama	Musical
-0956	3	Action	Comedy	Crime
-0957	3	Action	Crime	Thriller
-0958	2	Drama	Thriller
-0959	1	Drama
-0960	3	Crime	Drama	Thriller
-0961	1	Drama
-0962	2	Action	Comedy
-0963	2	Crime	Scifi
-0964	2	Fantasy	Horror
-0965	2	Drama	Romance
-0966	5	Action	Crime	Drama	Romance	Thriller
-0967	1	Comedy
-0968	4	Drama	Romance	Scifi	Thriller
-0969	0	<NULL>
-0970	1	Horror
-0971	4	Action	Crime	Drama	Thriller
-0972	3	Drama	Mystery	Thriller
-0973	1	Drama
-0974	1	Drama
-0975	4	Crime	Horror	Mystery	Thriller
-0976	2	Drama	Thriller
-0977	2	Comedy	Drama
-0978	4	Action	Adventure	Comedy	Crime
-0979	1	Comedy
-0980	2	Drama	Romance
-0981	3	Comedy	Drama	Romance
-0982	2	Drama	Thriller
-0983	2	Crime	Thriller
-0984	3	Drama	Romance	Thriller
-0985	1	Drama
-0986	2	Action	Comedy
-0987	2	Drama	Thriller
-0988	3	Comedy	Crime	Thriller
-0989	3	Adventure	Drama	Romance
-0990	5	Comedy	Crime	Drama	Mystery	Romance
-0991	1	Horror
-0992	2	Drama	Thriller
-0993	2	Animation	Comedy
-0994	1	Comedy
-0995	3	Action	Scifi	Thriller
-0996	5	Action	Adventure	Animation	Scifi	Thriller
-0997	2	Comedy	Thriller
-0998	2	Comedy	Drama
-0999	3	Comedy	Drama	Romance
-1000	1	Comedy
-1001	4	Action	Adventure	Animation	Comedy
-1002	0	<NULL>
-1003	1	Drama
-1004	1	Drama
-1005	3	Action	Adventure	Drama
-1006	1	Comedy
-1007	1	Drama
-1008	1	Comedy
-1009	1	Comedy
-1010	3	Action	Mystery	Thriller
-1011	3	Animation	Comedy	Musical
-1012	3	Adventure	Crime	Drama
-1013	2	Drama	Scifi
-1014	3	Comedy	Musical	Romance
-1015	2	Drama	Romance
-1016	2	Comedy	Horror
-1017	4	Action	Crime	Drama	Thriller
-1018	2	Drama	Thriller
-1019	2	Drama	Romance
-1020	2	Drama	Romance
-1021	1	Drama
-1022	4	Action	Adventure	Comedy	Drama
-1023	2	Comedy	Drama
-1024	1	Drama
-1025	1	Drama
-1026	4	Drama	Horror	Mystery	Thriller
-1027	3	Drama	Romance	Thriller
-1028	1	Drama
-1029	7	Action	Animation	Comedy	Crime	Drama	Romance	Thriller
-1030	0	<NULL>
-1031	2	Drama	Thriller
-1032	2	Comedy	Sport
-1033	3	Biography	Drama	Romance
-1034	3	Drama	Scifi	Thriller
-1035	2	Comedy	Drama
-1036	4	Action	Crime	Scifi	Thriller
-1037	2	Action	Drama
-1038	2	Drama	Romance
-1039	1	Drama
-1040	1	Fantasy
-1041	3	Comedy	Crime	Drama
-1042	4	Drama	Fantasy	Horror	Thriller
-1043	1	Drama
-1044	1	Drama
-1045	1	Horror
-1046	2	Comedy	Crime
-1047	1	Drama
-1048	3	Comedy	Romance	Sport
-1049	3	Crime	Horror	Thriller
-1050	2	Drama	War
-1051	1	Comedy
-1052	2	Comedy	Drama
-1053	1	Comedy
-1054	3	Drama	Musical	Romance
-1055	2	Drama	Romance
-1056	2	Drama	Romance
-1057	4	Biography	Comedy	Drama	Romance
-1058	4	Adventure	Animation	Fantasy	Musical
-1059	3	Adventure	Comedy	Fantasy
-1060	3	Drama	Horror	Thriller
-1061	3	Horror	Mystery	Thriller
-1062	3	Crime	Drama	Thriller
-1063	2	Drama	Romance
-1064	2	Drama	Mystery
-1065	4	Action	Comedy	Crime	Drama
-1066	3	Crime	Drama	Romance
-1067	3	Animation	Fantasy	Musical
-1068	1	Drama
-1069	3	Comedy	Drama	Sport
-1070	1	Comedy
-1071	4	Animation	Drama	Musical	Romance
-1072	2	Animation	Musical
-1073	5	Action	Crime	Drama	Romance	Thriller
-1074	2	Drama	Thriller
-1075	2	Comedy	Crime
-1076	0	<NULL>
-1077	3	Adventure	Animation	Musical
-1078	1	Animation
-1079	4	Drama	Fantasy	Mystery	Romance
-1080	3	Comedy	Drama	Romance
-1081	3	Drama	Mystery	Romance
-1082	4	Comedy	Drama	Fantasy	Romance
-1083	1	Drama
-1084	3	Crime	Drama	Thriller
-1085	1	Drama
-1086	2	Horror	Thriller
-1087	1	Drama
-1088	2	Drama	Sport
-1089	2	Crime	Drama
-1090	2	Comedy	Drama
-1091	1	Drama
-1092	3	Crime	Drama	Thriller
-1093	3	Drama	Scifi	Thriller
-1094	2	Adventure	Fantasy
-1095	3	Adventure	Drama	Romance
-1096	1	Adventure
-1097	1	Comedy
-1098	0	<NULL>
-1099	4	Crime	Horror	Mystery	Thriller
-1100	1	Drama
-1101	1	Comedy
-1102	4	Drama	Horror	Mystery	Thriller
-1103	2	Crime	Drama
-1104	1	Horror
-1105	1	Horror
-1106	2	Drama	Romance
-1107	2	Comedy	Drama
-1108	5	Action	Adventure	Fantasy	Horror	Scifi
-1109	2	Horror	Thriller
-1110	2	Drama	Romance
-1111	2	Drama	Romance
-1112	1	Drama
-1113	2	Horror	Thriller
-1114	4	Adventure	Comedy	Scifi	Thriller
-1115	1	Drama
-1116	3	Biography	Drama	Sport
-1117	1	Drama
-1118	2	Comedy	Drama
-1119	3	Drama	Mystery	Romance
-1120	4	Action	Crime	Drama	Thriller
-1121	4	Action	Crime	Drama	Thriller
-1122	4	Crime	Drama	Mystery	Thriller
-1123	2	Biography	Drama
-1124	2	Comedy	Drama
-1125	3	Comedy	Drama	Romance
-1126	3	Action	Adventure	Drama
-1127	4	Drama	Mystery	Romance	Thriller
-1128	2	Comedy	Sport
-1129	1	Drama
-1130	2	Action	Drama
-1131	1	Action
-1132	1	Drama
-1133	2	Comedy	Romance
-1134	1	Thriller
-1135	3	Action	Crime	Drama
-1136	2	Drama	Sport
-1137	3	Action	Adventure	Drama
-1138	2	Drama	Thriller
-1139	4	Action	Horror	Scifi	Thriller
-1140	4	Action	Horror	Scifi	Thriller
-1141	2	Comedy	Drama
-1142	2	Drama	Sport
-1143	3	Horror	Romance	Scifi
-1144	4	Comedy	Horror	Mystery	Romance
-1145	2	Horror	Thriller
-1146	4	Adventure	Animation	Fantasy	Musical
-1147	2	Comedy	Crime
-1148	2	Comedy	Documentary
-1149	3	Crime	Drama	Thriller
-1150	1	Drama
-1151	3	Biography	Comedy	Drama
-1152	2	Comedy	Drama
-1153	2	Horror	Thriller
-1154	2	Crime	Drama
-1155	5	Action	Biography	Drama	Romance	War
-1156	4	Action	Adventure	Drama	Romance
-1157	3	Action	Crime	Scifi
-1158	4	Action	Drama	Romance	Sport
-1159	2	Adventure	Drama
-1160	1	Comedy
-1161	3	Action	Scifi	Sport
-1162	2	Scifi	Sport
-1163	3	Crime	Drama	Romance
-1164	2	Drama	Romance
-1165	3	Crime	Drama	Thriller
-1166	2	Biography	Drama
-1167	2	Action	Drama
-1168	1	Comedy
-1169	3	Crime	Drama	Thriller
-1170	3	Comedy	Drama	Romance
-1171	2	Drama	Romance
-1172	1	Drama
-1173	3	Crime	Scifi	Thriller
-1174	1	Drama
-1175	2	Crime	Drama
-1176	1	Drama
-1177	2	Comedy	Romance
-1178	1	Drama
-1179	1	Drama
-1180	1	Drama
-1181	3	Comedy	Drama	Romance
-1182	3	Drama	Musical	Romance
-1183	3	Comedy	Drama	Romance
-1184	1	Drama
-1185	2	Drama	Romance
-1186	2	Comedy	Drama
-1187	3	Action	Drama	War
-1188	3	Crime	Horror	Thriller
-1189	1	Horror
-1190	2	Comedy	Drama
-1191	2	Drama	Fantasy
-1192	3	Drama	Fantasy	Musical
-1193	1	Comedy
-1194	3	Drama	Romance	Thriller
-1195	5	Crime	Drama	Horror	Mystery	Thriller
-1196	3	Crime	Drama	Thriller
-1197	2	Drama	Sport
-1198	4	Drama	Mystery	Scifi	Thriller
-1199	1	Drama
-1200	3	Comedy	Crime	Horror
-1201	2	Comedy	Romance
-1202	2	Biography	Drama
-1203	2	Comedy	Sport
-1204	2	Comedy	Romance
-1205	1	Drama
-1206	1	Drama
-1207	1	Drama
-1208	2	Biography	Drama
-1209	3	Horror	Mystery	Thriller
-1210	2	Adventure	Drama
-1211	2	Action	Horror
-1212	3	Comedy	Horror	Thriller
-1213	4	Action	Horror	Scifi	Thriller
-1214	3	Crime	Drama	Thriller
-1215	1	Drama
-1216	5	Action	Adventure	Drama	Fantasy	Thriller
-1217	1	Comedy
-1218	1	Drama
-1219	4	Action	Adventure	Scifi	Thriller
-1220	4	Action	Comedy	Crime	Thriller
-1221	3	Action	Adventure	Horror
-1222	4	Action	Comedy	Horror	Scifi
-1223	2	Comedy	Horror
-1224	2	Drama	Horror
-1225	1	Comedy
-1226	3	Action	Comedy	Crime
-1227	4	Comedy	Crime	Drama	Romance
-1228	0	<NULL>
-1229	1	Action
-1230	2	Comedy	Drama
-1231	4	Action	Crime	Drama	Thriller
-1232	1	Horror
-1233	3	Comedy	Horror	Thriller
-1234	3	Comedy	Drama	Romance
-1235	2	Comedy	Drama
-1236	3	Comedy	Drama	Romance
-1237	5	Comedy	Crime	Drama	Mystery	Romance
-1238	2	Action	Horror
-1239	3	Biography	Drama	Romance
-1240	4	Comedy	Drama	Mystery	Thriller
-1241	4	Action	Crime	Drama	Thriller
-1242	1	Drama
-1243	1	Drama
-1244	3	Crime	Drama	Thriller
-1245	2	Comedy	Romance
-1246	2	Comedy	Romance
-1247	1	Comedy
-1248	4	Action	Adventure	Drama	Fantasy
-1249	6	Action	Adventure	Crime	Drama	Mystery	Thriller
-1250	3	Action	Adventure	Drama
-1251	4	Action	Drama	Fantasy	Romance
-1252	3	Action	Adventure	Drama
-1253	3	Comedy	Family	Scifi
-1254	3	Comedy	Family	Scifi
-1255	4	Action	Comedy	Crime	Drama
-1256	2	Comedy	Horror
-1257	5	Adventure	Animation	Comedy	Fantasy	Family
-1258	4	Adventure	Animation	Comedy	Fantasy
-1259	1	Drama
-1260	2	Biography	Documentary
-1261	3	Horror	Mystery	Thriller
-1262	1	Thriller
-1263	2	Biography	Drama
-1264	1	Horror
-1265	1	Horror
-1266	1	Horror
-1267	1	Horror
-1268	1	Action
-1269	2	Comedy	Drama
-1270	1	Drama
-1271	3	Comedy	Drama	Romance
-1272	3	Horror	Mystery	Thriller
-1273	2	Drama	Thriller
-1274	2	Crime	Romance
-1275	4	Action	Adventure	Comedy	Romance
-1276	3	Drama	Fantasy	Thriller
-1277	1	Horror
-1278	1	Documentary
-1279	2	Comedy	Drama
-1280	2	Horror	Thriller
-1281	3	Comedy	Horror	Scifi
-1282	1	Horror
-1283	3	Comedy	Drama	Romance
-1284	2	Adventure	Drama
-1285	2	Drama	Romance
-1286	2	Comedy	Romance
-1287	3	Action	Fantasy	Scifi
-1288	1	Drama
-1289	1	Drama
-1290	3	Drama	Horror	Thriller
-1291	4	Drama	Mystery	Romance	Scifi
-1292	2	Comedy	Romance
-1293	1	Horror
-1294	3	Drama	Fantasy	Romance
-1295	1	Comedy
-1296	6	Comedy	Crime	Drama	Mystery	Musical	Romance
-1297	4	Action	Crime	Drama	Thriller
-1298	2	Drama	Musical
-1299	5	Comedy	Drama	Musical	Scifi	Thriller
-1300	3	Action	Comedy	Scifi
-1301	1	Comedy
-1302	5	Action	Crime	Drama	Mystery	Thriller
-1303	1	Drama
-1304	3	Horror	Scifi	Thriller
-1305	2	Comedy	Romance
-1306	2	Drama	Thriller
-1307	2	Action	Sport
-1308	4	Drama	Mystery	Romance	Thriller
-1309	3	Horror	Scifi	Thriller
-1310	2	Drama	Fantasy
-1311	3	Drama	Mystery	Thriller
-1312	5	Action	Adventure	Fantasy	Scifi	Thriller
-1313	1	Drama
-1314	2	Adventure	Animation
-1315	3	Horror	Scifi	Thriller
-1316	1	Comedy
-1317	1	Horror
-1318	1	Comedy
-1319	1	Drama
-1320	5	Action	Comedy	Crime	Romance	Thriller
-1321	2	Drama	Romance
-1322	2	Biography	Drama
-1323	3	Action	Adventure	Scifi
-1324	2	Adventure	Scifi
-1325	4	Action	Adventure	Fantasy	Scifi
-1326	6	Action	Adventure	Fantasy	Mystery	Romance	Scifi
-1327	4	Action	Adventure	Fantasy	Scifi
-1328	4	Action	Adventure	Fantasy	Scifi
-1329	5	Action	Adventure	Drama	Fantasy	Scifi
-1330	1	Documentary
-1331	3	Crime	Drama	Thriller
-1332	3	Drama	Mystery	Thriller
-1333	3	Comedy	Crime	Drama
-1334	3	Comedy	Drama	Romance
-1335	2	Documentary	Sport
-1336	2	Drama	Romance
-1337	1	Comedy
-1338	1	Comedy
-1339	2	Horror	Thriller
-1340	2	Action	Comedy
-1341	4	Drama	Fantasy	Horror	Thriller
-1342	1	Drama
-1343	1	Comedy
-1344	3	Crime	Drama	Thriller
-1345	3	Crime	Drama	Thriller
-1346	3	Action	Adventure	Comedy
-1347	2	Crime	Drama
-1348	3	Action	Mystery	Thriller
-1349	1	Comedy
-1350	4	Comedy	Crime	Drama	Thriller
-1351	2	Comedy	Fantasy
-1352	3	Action	Comedy	Scifi
-1353	2	Drama	Thriller
-1354	1	Thriller
-1355	1	Drama
-1356	2	Drama	Romance
-1357	2	Drama	Thriller
-1358	4	Action	Comedy	Crime	Thriller
-1359	1	Documentary
-1360	4	Action	Drama	Romance	Sport
-1361	3	Action	Adventure	Scifi
-1362	2	Animation	Drama
-1363	4	Action	Adventure	Animation	Drama
-1364	2	Scifi	Thriller
-1365	1	Comedy
-1366	1	Comedy
-1367	1	Comedy
-1368	1	Comedy
-1369	3	Action	Scifi	Thriller
-1370	2	Comedy	Drama
-1371	2	Mystery	Thriller
-1372	4	Drama	Horror	Musical	Thriller
-1373	3	Crime	Musical	Thriller
-1374	1	Drama
-1375	2	Action	Drama
-1376	1	Drama
-1377	3	Comedy	Musical	Romance
-1378	3	Crime	Drama	Thriller
-1379	1	Comedy
-1380	3	Biography	Drama	Romance
-1381	2	Comedy	Drama
-1382	3	Comedy	Drama	Romance
-1383	5	Action	Adventure	Comedy	Horror	Thriller
-1384	2	Action	Thriller
-1385	2	Action	Thriller
-1386	5	Crime	Drama	Horror	Mystery	Thriller
-1387	1	Horror
-1388	1	Drama
-1389	2	Drama	Scifi
-1390	3	Action	Comedy	Drama
-1391	2	Biography	Documentary
-1392	2	Action	Drama
-1393	3	Comedy	Drama	Romance
-1394	3	Action	Drama	Thriller
-1395	2	Comedy	Fantasy
-1396	3	Action	Adventure	Comedy
-1397	2	Comedy	Horror
-1398	3	Adventure	Comedy	Drama
-1399	3	Crime	Mystery	Thriller
-1400	2	Crime	Drama
-1401	3	Comedy	Horror	Thriller
-1402	3	Drama	Horror	Thriller
-1403	2	Drama	Romance
-1404	2	Comedy	Drama
-1405	2	Comedy	Horror
-1406	1	Documentary
-1407	2	Mystery	Thriller
-1408	5	Action	Adventure	Drama	Scifi	Thriller
-1409	2	Comedy	Romance
-1410	1	Documentary
-1411	1	Drama
-1412	2	Biography	Drama
-1413	3	Action	Adventure	Drama
-1414	2	Comedy	Romance
-1415	2	Drama	Thriller
-1416	1	Comedy
-1417	1	Comedy
-1418	3	Animation	Comedy	Musical
-1419	2	Action	Thriller
-1420	1	Drama
-1421	2	Biography	Drama
-1422	2	Action	Adventure
-1423	2	Comedy	Romance
-1424	2	Drama	Romance
-1425	3	Comedy	Musical	Romance
-1426	2	Comedy	Musical
-1427	3	Adventure	Drama	Thriller
-1428	3	Action	Adventure	Fantasy
-1429	2	Comedy	Romance
-1430	2	Comedy	Musical
-1431	2	Comedy	Drama
-1432	1	Comedy
-1433	4	Action	Comedy	Crime	Thriller
-1434	2	Drama	Thriller
-1435	2	Comedy	Drama
-1436	1	Drama
-1437	3	Comedy	Crime	Drama
-1438	2	Comedy	Drama
-1439	5	Action	Drama	Horror	Mystery	Romance
-1440	4	Action	Adventure	Animation	Drama
-1441	2	Comedy	Horror
-1442	4	Action	Adventure	Comedy	Musical
-1443	3	Comedy	Drama	Romance
-1444	1	Horror
-1445	3	Action	Adventure	Drama
-1446	5	Action	Adventure	Drama	Mystery	Thriller
-1447	2	Comedy	Drama
-1448	4	Drama	Horror	Scifi	Thriller
-1449	1	Drama
-1450	3	Comedy	Drama	Romance
-1451	3	Comedy	Drama	Romance
-1452	5	Adventure	Comedy	Crime	Drama	Romance
-1453	2	Comedy	Drama
-1454	1	Comedy
-1455	4	Drama	Horror	Mystery	Thriller
-1456	2	Drama	Romance
-1457	2	Horror	Thriller
-1458	3	Comedy	Drama	Thriller
-1459	4	Action	Adventure	Comedy	Romance
-1460	2	Drama	Sport
-1461	2	Drama	Sport
-1462	1	Drama
-1463	1	Drama
-1464	3	Action	Animation	Scifi
-1465	2	Comedy	Drama
-1466	3	Comedy	Horror	Thriller
-1467	1	Drama
-1468	1	Drama
-1469	1	Drama
-1470	2	Fantasy	Horror
-1471	3	Crime	Drama	Thriller
-1472	2	Comedy	Horror
-1473	1	Documentary
-1474	4	Action	Crime	Fantasy	Thriller
-1475	5	Action	Animation	Drama	Fantasy	Thriller
-1476	3	Action	Drama	Thriller
-1477	4	Action	Drama	Fantasy	Scifi
-1478	3	Comedy	Drama	Musical
-1479	1	Comedy
-1480	2	Comedy	Romance
-1481	2	Animation	Comedy
-1482	1	Drama
-1483	1	Comedy
-1484	2	Drama	Romance
-1485	2	Crime	Drama
-1486	1	Drama
-1487	3	Action	Drama	Scifi
-1488	3	Comedy	Drama	Romance
-1489	1	Comedy
-1490	3	Action	Adventure	Drama
-1491	1	Documentary
-1492	3	Action	Comedy	Drama
-1493	0	<NULL>
-1494	3	Action	Adventure	Comedy
-1495	4	Action	Crime	Fantasy	Thriller
-1496	6	Action	Crime	Drama	Fantasy	Horror	Thriller
-1497	2	Drama	Thriller
-1498	3	Comedy	Crime	Mystery
-1499	3	Drama	Romance	Sport
-1500	1	Drama
-1501	2	Drama	Romance
-1502	1	Drama
-1503	3	Adventure	Animation	Fantasy
-1504	3	Adventure	Horror	Thriller
-1505	2	Biography	Documentary
-1506	3	Action	Drama	Thriller
-1507	1	Drama
-1508	3	Crime	Drama	Thriller
-1509	3	Biography	Drama	Romance
-1510	3	Comedy	Drama	Romance
-1511	2	Biography	Drama
-1512	4	Adventure	Animation	Comedy	Fantasy
-1513	2	Horror	Thriller
-1514	3	Action	Adventure	Thriller
-1515	3	Biography	Drama	Sport
-1516	3	Drama	Horror	Thriller
-1517	3	Drama	Fantasy	Horror
-1518	2	Drama	Thriller
-1519	4	Comedy	Drama	Fantasy	Romance
-1520	3	Drama	Sport	Thriller
-1521	2	Comedy	Romance
-1522	4	Action	Adventure	Scifi	Thriller
-1523	3	Adventure	Drama	Scifi
-1524	2	Scifi	Thriller
-1525	2	Horror	Thriller
-1526	2	Drama	Thriller
-1527	2	Horror	Thriller
-1528	2	Comedy	Drama
-1529	3	Comedy	Drama	Romance
-1530	4	Action	Crime	Drama	Thriller
-1531	4	Drama	Horror	Scifi	Thriller
-1532	1	Comedy
-1533	2	Adventure	Drama
-1534	4	Horror	Mystery	Scifi	Thriller
-1535	1	Comedy
-1536	1	Comedy
-1537	2	Comedy	Sport
-1538	2	Drama	Romance
-1539	1	Horror
-1540	4	Action	Crime	Drama	Thriller
-1541	3	Comedy	Mystery	Romance
-1542	3	Crime	Drama	Horror
-1543	3	Action	Mystery	Thriller
-1544	1	Drama
-1545	2	Crime	Drama
-1546	1	Drama
-1547	3	Comedy	Drama	Romance
-1548	3	Comedy	Drama	Romance
-1549	3	Drama	Romance	Thriller
-1550	1	Comedy
-1551	4	Fantasy	Horror	Mystery	Romance
-1552	1	Comedy
-1553	2	Horror	Thriller
-1554	3	Adventure	Horror	Thriller
-1555	4	Action	Adventure	Animation	Mystery
-1556	1	Documentary
-1557	1	Drama
-1558	1	Horror
-1559	2	Drama	Thriller
-1560	1	Comedy
-1561	4	Comedy	Fantasy	Horror	Thriller
-1562	3	Comedy	Drama	Romance
-1563	2	Drama	Romance
-1564	2	Adventure	Drama
-1565	2	Horror	Thriller
-1566	2	Comedy	Drama
-1567	2	Adult	Comedy
-1568	1	Horror
-1569	7	Adventure	Comedy	Drama	Fantasy	Horror	Mystery	Scifi
-1570	1	Adventure
-1571	2	Drama	Romance
-1572	4	Drama	Horror	Mystery	Thriller
-1573	3	Comedy	Drama	Romance
-1574	3	Crime	Horror	Mystery
-1575	1	Horror
-1576	4	Comedy	Drama	Fantasy	Romance
-1577	2	Drama	Horror
-1578	3	Biography	Drama	Sport
-1579	3	Adventure	Fantasy	Mystery
-1580	0	<NULL>
-1581	3	Crime	Drama	Thriller
-1582	2	Biography	Drama
-1583	2	Drama	Thriller
-1584	2	Drama	Thriller
-1585	4	Drama	Fantasy	Mystery	Thriller
-1586	5	Comedy	Drama	Horror	Scifi	Thriller
-1587	1	Comedy
-1588	4	Animation	Drama	Family	Scifi
-1589	4	Action	Drama	Scifi	Thriller
-1590	3	Horror	Scifi	Thriller
-1591	3	Action	Adventure	Thriller
-1592	1	Drama
-1593	3	Action	Drama	Sport
-1594	2	Action	Sport
-1595	1	Drama
-1596	1	Drama
-1597	1	Drama
-1598	2	Drama	Thriller
-1599	1	Drama
-1600	3	Crime	Drama	Mystery
-1601	2	Comedy	Crime
-1602	3	Adventure	Animation	Drama
-1603	3	Action	Adventure	Fantasy
-1604	3	Comedy	Drama	Romance
-1605	1	Documentary
-1606	2	Comedy	Drama
-1607	2	Horror	Thriller
-1608	1	Drama
-1609	0	<NULL>
-1610	2	Drama	Romance
-1611	2	Animation	Fantasy
-1612	2	Drama	Thriller
-1613	1	Drama
-1614	1	Drama
-1615	3	Animation	Fantasy	Musical
-1616	2	Drama	Thriller
-1617	3	Crime	Drama	Thriller
-1618	3	Comedy	Crime	Drama
-1619	1	Animation
-1620	4	Comedy	Drama	Fantasy	Musical
-1621	1	Drama
-1622	2	Adventure	Drama
-1623	2	Adventure	Comedy
-1624	2	Crime	Thriller
-1625	0	<NULL>
-1626	3	Action	Drama	Thriller
-1627	2	Action	Adventure
-1628	1	Comedy
-1629	1	Comedy
-1630	2	Action	Drama
-1631	2	Drama	Sport
-1632	5	Action	Adventure	Drama	Mystery	Thriller
-1633	2	Adventure	Scifi
-1634	1	Thriller
-1635	3	Comedy	Mystery	Romance
-1636	2	Drama	Romance
-1637	0	<NULL>
-1638	1	Comedy
-1639	3	Action	Adventure	Thriller
-1640	4	Drama	Mystery	Scifi	Thriller
-1641	2	Animation	Musical
-1642	2	Action	Adventure
-1643	1	Horror
-1644	1	Adventure
-1645	2	Comedy	Romance
-1646	2	Comedy	Scifi
-1647	3	Action	Scifi	Thriller
-1648	2	Drama	Romance
-1649	3	Drama	Mystery	Thriller
-1650	1	Drama
-1651	2	Biography	Drama
-1652	2	Drama	Fantasy
-1653	2	Action	Thriller
-1654	7	Action	Adventure	Comedy	Drama	Fantasy	Horror	Thriller
-1655	2	Comedy	Musical
-1656	3	Adventure	Drama	Thriller
-1657	3	Action	Crime	Drama
-1658	3	Action	Romance	Sport
-1659	2	Drama	Thriller
-1660	3	Animation	Fantasy	Musical
-1661	4	Drama	Horror	Mystery	Thriller
-1662	3	Drama	Musical	Romance
-1663	2	Drama	Romance
-1664	3	Drama	Mystery	Thriller
-1665	2	Horror	Mystery
-1666	1	Drama
-1667	2	Comedy	Scifi
-1668	1	Mystery
-1669	4	Action	Horror	Mystery	Thriller
-1670	3	Crime	Drama	Thriller
-1671	1	Romance
-1672	2	Action	Comedy
-1673	3	Action	Comedy	Thriller
-1674	2	Drama	Romance
-1675	2	Action	Thriller
-1676	3	Drama	Mystery	Thriller
-1677	2	Drama	Romance
-1678	3	Adventure	Comedy	Mystery
-1679	2	Comedy	Crime
-1680	4	Adventure	Comedy	Musical	Romance
-1681	2	Comedy	Drama
-1682	4	Crime	Drama	Mystery	Thriller
-1683	1	Drama
-1684	2	Drama	Romance
-1685	2	Comedy	Romance
-1686	2	Comedy	Romance
-1687	4	Animation	Fantasy	Musical	Romance
-1688	1	Drama
-1689	3	Drama	Mystery	Thriller
-1690	1	Musical
-1691	3	Action	Drama	Sport
-1692	4	Fantasy	Horror	Mystery	Thriller
-1693	3	Action	Crime	Thriller
-1694	1	Action
-1695	1	Action
-1696	2	Biography	Drama
-1697	2	Biography	Drama
-1698	2	Drama	Thriller
-1699	1	Drama
-1700	3	Drama	Romance	Thriller
-1701	1	Drama
-1702	3	Adventure	Animation	Comedy
-1703	5	Action	Adventure	Comedy	Horror	Scifi
-1704	3	Animation	Fantasy	Musical
-1705	4	Action	Adventure	Drama	Thriller
-1706	4	Action	Adventure	Animation	Comedy
-1707	2	Drama	Documentary
-1708	1	Drama
-1709	3	Biography	Drama	Sport
-1710	1	Drama
-1711	2	Drama	Romance
-1712	4	Action	Adventure	Comedy	Thriller
-1713	2	Drama	Thriller
-1714	2	Drama	Romance
-1715	3	Adventure	Comedy	Drama
-1716	1	Horror
-1717	3	Biography	Drama	Romance
-1718	2	Comedy	Romance
-1719	5	Action	Comedy	Crime	Drama	Thriller
-1720	3	Comedy	Fantasy	Romance
-1721	2	Drama	Romance
-1722	2	Action	Drama
-1723	3	Horror	Scifi	Thriller
-1724	2	Action	Comedy
-1725	1	Horror
-1726	2	Comedy	Drama
-1727	3	Comedy	Crime	Thriller
-1728	4	Action	Adventure	Comedy	Fantasy
-1729	2	Comedy	Drama
-1730	3	Adventure	Comedy	Scifi
-1731	2	Comedy	Drama
-1732	2	Action	Drama
-1733	2	Adventure	Comedy
-1734	3	Horror	Mystery	Thriller
-1735	2	Action	Comedy
-1736	1	Comedy
-1737	1	Comedy
-1738	4	Action	Adventure	Drama	Fantasy
-1739	1	Horror
-1740	2	Animation	Comedy
-1741	4	Comedy	Drama	Mystery	Musical
-1742	4	Adventure	Comedy	Drama	Romance
-1743	2	Drama	Mystery
-1744	2	Adventure	Drama
-1745	0	<NULL>
-1746	4	Action	Adventure	Drama	Fantasy
-1747	3	Adventure	Drama	Fantasy
-1748	4	Drama	Horror	Mystery	Thriller
-1749	2	Adventure	Drama
-1750	3	Animation	Comedy	Fantasy
-1751	4	Adventure	Animation	Comedy	Drama
-1752	2	Action	Comedy
-1753	1	Drama
-1754	1	Drama
-1755	4	Animation	Drama	Fantasy	Musical
-1756	3	Crime	Drama	Thriller
-1757	4	Action	Crime	Drama	Thriller
-1758	1	Drama
-1759	1	Thriller
-1760	4	Adventure	Animation	Comedy	Fantasy
-1761	2	Drama	Horror
-1762	3	Comedy	Drama	Romance
-1763	2	Drama	Thriller
-1764	1	Comedy
-1765	3	Action	Scifi	Thriller
-1766	3	Adventure	Crime	Drama
-1767	1	Drama
-1768	4	Action	Adventure	Drama	Romance
-1769	1	Horror
-1770	3	Action	Adventure	Romance
-1771	1	Comedy
-1772	1	Horror
-1773	2	Comedy	Mystery
-1774	1	Drama
-1775	2	Comedy	Drama
-1776	4	Drama	Fantasy	Romance	Thriller
-1777	2	Comedy	Drama
-1778	1	Drama
-1779	1	Thriller
-1780	3	Crime	Mystery	Thriller
-1781	2	Mystery	Thriller
-1782	2	Comedy	Romance
-1783	1	Drama
-1784	3	Drama	Mystery	Thriller
-1785	2	Comedy	Drama
-1786	2	Adventure	Fantasy
-1787	3	Drama	Musical	Romance
-1788	2	Drama	Romance
-1789	1	Drama
-1790	2	Drama	Thriller
-1791	2	Horror	Thriller
-1792	4	Action	Mystery	Scifi	Thriller
-1793	2	Mystery	Scifi
-1794	2	Drama	Romance
-1795	2	Drama	Romance
-1796	2	Crime	Drama
-1797	2	Drama	Romance
-1798	1	Horror
-1799	5	Action	Adventure	Crime	Drama	Thriller
-1800	2	Drama	Musical
-1801	2	Comedy	Romance
-1802	1	Comedy
-1803	1	Crime
-1804	1	Drama
-1805	1	Drama
-1806	1	Comedy
-1807	1	Drama
-1808	1	Documentary
-1809	2	Action	Comedy
-1810	2	Comedy	Drama
-1811	2	Comedy	Crime
-1812	3	Animation	Drama	Fantasy
-1813	3	Action	Crime	Thriller
-1814	2	Drama	War
-1815	4	Action	Adventure	Animation	Scifi
-1816	3	Drama	Fantasy	Horror
-1817	4	Crime	Mystery	Romance	Thriller
-1818	2	Drama	Romance
-1819	4	Action	Crime	Drama	Thriller
-1820	1	Drama
-1821	3	Action	Crime	Drama
-1822	2	Drama	Scifi
-1823	2	Drama	Horror
-1824	3	Comedy	Musical	Sport
-1825	2	Horror	Thriller
-1826	3	Comedy	Fantasy	Romance
-1827	4	Comedy	Fantasy	Mystery	Romance
-1828	3	Comedy	Drama	Romance
-1829	2	Mystery	Thriller
-1830	2	Action	Drama
-1831	2	Crime	Drama
-1832	1	Comedy
-1833	2	Comedy	Crime
-1834	2	Horror	Thriller
-1835	3	Crime	Drama	Thriller
-1836	3	Adventure	Comedy	Drama
-1837	3	Action	Adventure	Scifi
-1838	3	Crime	Drama	Thriller
-1839	2	Comedy	Crime
-1840	1	Comedy
-1841	4	Action	Comedy	Horror	Scifi
-1842	4	Action	Comedy	Horror	Scifi
-1843	4	Action	Adventure	Fantasy	Scifi
-1844	2	Adventure	Comedy
-1845	3	Action	Crime	Drama
-1846	1	Comedy
-1847	3	Drama	Fantasy	Romance
-1848	2	Action	Thriller
-1849	3	Action	Comedy	Drama
-1850	4	Action	Horror	Romance	Thriller
-1851	5	Drama	Fantasy	Horror	Mystery	Thriller
-1852	1	Documentary
-1853	1	Comedy
-1854	4	Crime	Drama	Mystery	Thriller
-1855	3	Drama	Sport	Thriller
-1856	2	Comedy	Drama
-1857	2	Comedy	Romance
-1858	2	Drama	Romance
-1859	1	Horror
-1860	2	Action	Drama
-1861	3	Crime	Drama	Thriller
-1862	2	Action	Thriller
-1863	4	Crime	Horror	Mystery	Thriller
-1864	1	Comedy
-1865	3	Action	Scifi	Thriller
-1866	2	Action	Adventure
-1867	1	Horror
-1868	3	Action	Drama	Thriller
-1869	3	Action	Drama	Thriller
-1870	2	Action	Comedy
-1871	5	Action	Adventure	Comedy	Fantasy	Scifi
-1872	1	Horror
-1873	1	Horror
-1874	2	Drama	Thriller
-1875	1	Comedy
-1876	2	Comedy	Drama
-1877	1	Drama
-1878	1	Comedy
-1879	2	Horror	Thriller
-1880	1	Drama
-1881	1	Comedy
-1882	2	Fantasy	Horror
-1883	5	Action	Adventure	Animation	Fantasy	Horror
-1884	2	Action	Drama
-1885	2	Drama	Romance
-1886	2	Drama	Thriller
-1887	1	Comedy
-1888	3	Comedy	Drama	Romance
-1889	2	Crime	Drama
-1890	3	Action	Adventure	Thriller
-1891	1	Documentary
-1892	2	Comedy	Thriller
-1893	4	Adventure	Comedy	Fantasy	Mystery
-1894	3	Comedy	Musical	Romance
-1895	3	Action	Drama	Sport
-1896	1	Drama
-1897	2	Horror	Scifi
-1898	4	Adventure	Comedy	Drama	Romance
-1899	3	Drama	Romance	Sport
-1900	2	Comedy	Drama
-1901	1	Biography
-1902	2	Comedy	Drama
-1903	1	Comedy
-1904	3	Action	Crime	Thriller
-1905	3	Crime	Drama	Thriller
-1906	1	Comedy
-1907	1	Comedy
-1908	2	Drama	Thriller
-1909	5	Action	Drama	Fantasy	Scifi	Thriller
-1910	2	Drama	Romance
-1911	5	Action	Adventure	Drama	Scifi	Thriller
-1912	2	Comedy	Horror
-1913	1	Comedy
-1914	2	Comedy	Romance
-1915	2	Adventure	Comedy
-1916	3	Action	Scifi	Thriller
-1917	3	Comedy	Drama	Romance
-1918	2	Biography	Drama
-1919	4	Drama	Horror	Mystery	Thriller
-1920	3	Comedy	Drama	Romance
-1921	2	Drama	Thriller
-1922	4	Drama	Fantasy	Scifi	Thriller
-1923	3	Comedy	Drama	Romance
-1924	3	Comedy	Crime	Drama
-1925	3	Adventure	Drama	Fantasy
-1926	2	Comedy	Romance
-1927	3	Comedy	Musical	Romance
-1928	2	Adventure	Drama
-1929	1	Adventure
-1930	3	Comedy	Drama	Sport
-1931	5	Drama	Horror	Mystery	Scifi	Thriller
-1932	1	Drama
-1933	1	Drama
-1934	1	Drama
-1935	1	Comedy
-1936	2	Comedy	Fantasy
-1937	3	Comedy	Drama	Family
-1938	2	Drama	Romance
-1939	2	Drama	Romance
-1940	2	Comedy	Romance
-1941	2	Action	Thriller
-1942	2	Action	Drama
-1943	2	Action	Scifi
-1944	3	Action	Drama	Sport
-1945	1	Drama
-1946	2	Crime	Drama
-1947	2	Comedy	Fantasy
-1948	2	Biography	Horror
-1949	3	Comedy	Drama	Romance
-1950	2	Comedy	Romance
-1951	2	Comedy	Romance
-1952	1	Comedy
-1953	4	Comedy	Crime	Drama	Romance
-1954	2	Action	Adventure
-1955	2	Drama	Sport
-1956	2	Horror	Mystery
-1957	1	Horror
-1958	1	Horror
-1959	2	Horror	Romance
-1960	3	Comedy	Drama	Romance
-1961	2	Mystery	Thriller
-1962	3	Drama	Mystery	Thriller
-1963	0	<NULL>
-1964	3	Horror	Mystery	Thriller
-1965	3	Action	Comedy	Musical
-1966	1	Comedy
-1967	3	Crime	Drama	Thriller
-1968	2	Horror	Thriller
-1969	3	Crime	Drama	Thriller
-1970	3	Animation	Comedy	Fantasy
-1971	2	Comedy	Drama
-1972	3	Drama	Mystery	Thriller
-1973	3	Animation	Fantasy	Scifi
-1974	2	Horror	Thriller
-1975	1	Comedy
-1976	2	Comedy	Drama
-1977	3	Crime	Drama	Thriller
-1978	1	Comedy
-1979	3	Action	Horror	Thriller
-1980	1	Horror
-1981	2	Drama	Romance
-1982	2	Biography	Western
-1983	1	Drama
-1984	3	Action	Crime	Drama
-1985	2	Drama	Romance
-1986	2	Comedy	Thriller
-1987	4	Action	Adventure	Scifi	Thriller
-1988	1	Documentary
-1989	1	Comedy
-1990	2	Action	Drama
-1991	1	Drama
-1992	2	Comedy	Romance
-1993	4	Action	Comedy	Crime	Drama
-1994	3	Crime	Drama	Thriller
-1995	2	Comedy	Horror
-1996	2	Comedy	Horror
-1997	1	Thriller
-1998	1	Horror
-1999	2	Comedy	Drama
+movie	iheartmovies	genre							
+2000	1974	4641	21						
+1029	8	Action	Animation	Comedy	Crime	Drama	Romance	Thriller	Action - Animation - Comedy - Crime - Drama - Romance - Thriller
+1569	8	Adventure	Comedy	Drama	Fantasy	Horror	Mystery	Scifi	Adventure - Comedy - Drama - Fantasy - Horror - Mystery - Scifi
+1654	8	Action	Adventure	Comedy	Drama	Fantasy	Horror	Thriller	Action - Adventure - Comedy - Drama - Fantasy - Horror - Thriller
+0039	7	Action	Adventure	Drama	Fantasy	Scifi	Thriller	Action - Adventure - Drama - Fantasy - Scifi - Thriller	
+0084	7	Adventure	Biography	Comedy	Crime	Drama	Romance	Adventure - Biography - Comedy - Crime - Drama - Romance	
+0289	7	Action	Adventure	Comedy	Crime	Romance	Thriller	Action - Adventure - Comedy - Crime - Romance - Thriller	
+0344	7	Adventure	Animation	Comedy	Fantasy	Musical	Romance	Adventure - Animation - Comedy - Fantasy - Musical - Romance	
+0546	7	Action	Adventure	Animation	Fantasy	Horror	Scifi	Action - Adventure - Animation - Fantasy - Horror - Scifi	
+0706	7	Action	Adventure	Fantasy	Horror	Romance	Thriller	Action - Adventure - Fantasy - Horror - Romance - Thriller	
+0718	7	Action	Adventure	Animation	Comedy	Fantasy	Romance	Action - Adventure - Animation - Comedy - Fantasy - Romance	
+0736	7	Adventure	Animation	Comedy	Drama	Fantasy	Musical	Adventure - Animation - Comedy - Drama - Fantasy - Musical	
+0881	7	Action	Crime	Drama	Mystery	Scifi	Thriller	Action - Crime - Drama - Mystery - Scifi - Thriller	
+1249	7	Action	Adventure	Crime	Drama	Mystery	Thriller	Action - Adventure - Crime - Drama - Mystery - Thriller	
+1296	7	Comedy	Crime	Drama	Mystery	Musical	Romance	Comedy - Crime - Drama - Mystery - Musical - Romance	
+1326	7	Action	Adventure	Fantasy	Mystery	Romance	Scifi	Action - Adventure - Fantasy - Mystery - Romance - Scifi	
+1496	7	Action	Crime	Drama	Fantasy	Horror	Thriller	Action - Crime - Drama - Fantasy - Horror - Thriller	
+0014	6	Action	Comedy	Crime	Drama	Thriller	Action - Comedy - Crime - Drama - Thriller		
+0025	6	Adventure	Animation	Comedy	Musical	Romance	Adventure - Animation - Comedy - Musical - Romance		
+0135	6	Animation	Fantasy	Family	Musical	Romance	Animation - Fantasy - Family - Musical - Romance		
+0174	6	Action	Drama	Fantasy	Horror	Thriller	Action - Drama - Fantasy - Horror - Thriller		
+0178	6	Action	Animation	Comedy	Fantasy	Mystery	Action - Animation - Comedy - Fantasy - Mystery		
+0181	6	Crime	Drama	Horror	Mystery	Thriller	Crime - Drama - Horror - Mystery - Thriller		
+0203	6	Biography	Crime	Drama	Horror	Thriller	Biography - Crime - Drama - Horror - Thriller		
+0455	6	Comedy	Drama	Mystery	Romance	Thriller	Comedy - Drama - Mystery - Romance - Thriller		
+0457	6	Action	Adventure	Comedy	Horror	Scifi	Action - Adventure - Comedy - Horror - Scifi		
+0547	6	Action	Adventure	Animation	Fantasy	Scifi	Action - Adventure - Animation - Fantasy - Scifi		
+0550	6	Action	Adventure	Comedy	Horror	Scifi	Action - Adventure - Comedy - Horror - Scifi		
+0588	6	Action	Drama	Horror	Mystery	Thriller	Action - Drama - Horror - Mystery - Thriller		
+0688	6	Action	Crime	Drama	Mystery	Thriller	Action - Crime - Drama - Mystery - Thriller		
+0713	6	Action	Comedy	Crime	Drama	Thriller	Action - Comedy - Crime - Drama - Thriller		
+0775	6	Drama	Fantasy	Horror	Romance	Thriller	Drama - Fantasy - Horror - Romance - Thriller		
+0800	6	Action	Adventure	Animation	Comedy	Fantasy	Action - Adventure - Animation - Comedy - Fantasy		
+0805	6	Crime	Drama	Horror	Mystery	Thriller	Crime - Drama - Horror - Mystery - Thriller		
+0806	6	Adventure	Drama	Fantasy	Mystery	Scifi	Adventure - Drama - Fantasy - Mystery - Scifi		
+0843	6	Adventure	Comedy	Drama	Musical	Romance	Adventure - Comedy - Drama - Musical - Romance		
+0855	6	Action	Adventure	Comedy	Fantasy	Scifi	Action - Adventure - Comedy - Fantasy - Scifi		
+0876	6	Action	Adventure	Comedy	Crime	Thriller	Action - Adventure - Comedy - Crime - Thriller		
+0902	6	Action	Drama	Horror	Mystery	Thriller	Action - Drama - Horror - Mystery - Thriller		
+0966	6	Action	Crime	Drama	Romance	Thriller	Action - Crime - Drama - Romance - Thriller		
+0990	6	Comedy	Crime	Drama	Mystery	Romance	Comedy - Crime - Drama - Mystery - Romance		
+0996	6	Action	Adventure	Animation	Scifi	Thriller	Action - Adventure - Animation - Scifi - Thriller		
+1073	6	Action	Crime	Drama	Romance	Thriller	Action - Crime - Drama - Romance - Thriller		
+1108	6	Action	Adventure	Fantasy	Horror	Scifi	Action - Adventure - Fantasy - Horror - Scifi		
+1155	6	Action	Biography	Drama	Romance	War	Action - Biography - Drama - Romance - War		
+1195	6	Crime	Drama	Horror	Mystery	Thriller	Crime - Drama - Horror - Mystery - Thriller		
+1216	6	Action	Adventure	Drama	Fantasy	Thriller	Action - Adventure - Drama - Fantasy - Thriller		
+1237	6	Comedy	Crime	Drama	Mystery	Romance	Comedy - Crime - Drama - Mystery - Romance		
+1257	6	Adventure	Animation	Comedy	Fantasy	Family	Adventure - Animation - Comedy - Fantasy - Family		
+1299	6	Comedy	Drama	Musical	Scifi	Thriller	Comedy - Drama - Musical - Scifi - Thriller		
+1302	6	Action	Crime	Drama	Mystery	Thriller	Action - Crime - Drama - Mystery - Thriller		
+1312	6	Action	Adventure	Fantasy	Scifi	Thriller	Action - Adventure - Fantasy - Scifi - Thriller		
+1320	6	Action	Comedy	Crime	Romance	Thriller	Action - Comedy - Crime - Romance - Thriller		
+1329	6	Action	Adventure	Drama	Fantasy	Scifi	Action - Adventure - Drama - Fantasy - Scifi		
+1383	6	Action	Adventure	Comedy	Horror	Thriller	Action - Adventure - Comedy - Horror - Thriller		
+1386	6	Crime	Drama	Horror	Mystery	Thriller	Crime - Drama - Horror - Mystery - Thriller		
+1408	6	Action	Adventure	Drama	Scifi	Thriller	Action - Adventure - Drama - Scifi - Thriller		
+1439	6	Action	Drama	Horror	Mystery	Romance	Action - Drama - Horror - Mystery - Romance		
+1446	6	Action	Adventure	Drama	Mystery	Thriller	Action - Adventure - Drama - Mystery - Thriller		
+1452	6	Adventure	Comedy	Crime	Drama	Romance	Adventure - Comedy - Crime - Drama - Romance		
+1475	6	Action	Animation	Drama	Fantasy	Thriller	Action - Animation - Drama - Fantasy - Thriller		
+1586	6	Comedy	Drama	Horror	Scifi	Thriller	Comedy - Drama - Horror - Scifi - Thriller		
+1632	6	Action	Adventure	Drama	Mystery	Thriller	Action - Adventure - Drama - Mystery - Thriller		
+1703	6	Action	Adventure	Comedy	Horror	Scifi	Action - Adventure - Comedy - Horror - Scifi		
+1719	6	Action	Comedy	Crime	Drama	Thriller	Action - Comedy - Crime - Drama - Thriller		
+1799	6	Action	Adventure	Crime	Drama	Thriller	Action - Adventure - Crime - Drama - Thriller		
+1851	6	Drama	Fantasy	Horror	Mystery	Thriller	Drama - Fantasy - Horror - Mystery - Thriller		
+1871	6	Action	Adventure	Comedy	Fantasy	Scifi	Action - Adventure - Comedy - Fantasy - Scifi		
+1883	6	Action	Adventure	Animation	Fantasy	Horror	Action - Adventure - Animation - Fantasy - Horror		
+1909	6	Action	Drama	Fantasy	Scifi	Thriller	Action - Drama - Fantasy - Scifi - Thriller		
+1911	6	Action	Adventure	Drama	Scifi	Thriller	Action - Adventure - Drama - Scifi - Thriller		
+1931	6	Drama	Horror	Mystery	Scifi	Thriller	Drama - Horror - Mystery - Scifi - Thriller		
+0008	5	Adventure	Mystery	Scifi	Thriller	Adventure - Mystery - Scifi - Thriller			
+0016	5	Crime	Horror	Mystery	Thriller	Crime - Horror - Mystery - Thriller			
+0051	5	Comedy	Drama	Fantasy	Scifi	Comedy - Drama - Fantasy - Scifi			
+0053	5	Comedy	Drama	Romance	Sport	Comedy - Drama - Romance - Sport			
+0054	5	Crime	Drama	Romance	Thriller	Crime - Drama - Romance - Thriller			
+0056	5	Action	Drama	Romance	Thriller	Action - Drama - Romance - Thriller			
+0074	5	Comedy	Crime	Drama	Thriller	Comedy - Crime - Drama - Thriller			
+0077	5	Comedy	Drama	Romance	Sport	Comedy - Drama - Romance - Sport			
+0087	5	Animation	Comedy	Fantasy	Scifi	Animation - Comedy - Fantasy - Scifi			
+0089	5	Comedy	Crime	Drama	Horror	Comedy - Crime - Drama - Horror			
+0104	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0109	5	Action	Adventure	Drama	Scifi	Action - Adventure - Drama - Scifi			
+0114	5	Biography	Crime	Drama	Mystery	Biography - Crime - Drama - Mystery			
+0125	5	Comedy	Crime	Drama	Musical	Comedy - Crime - Drama - Musical			
+0129	5	Action	Comedy	Horror	Scifi	Action - Comedy - Horror - Scifi			
+0137	5	Adventure	Drama	Fantasy	Scifi	Adventure - Drama - Fantasy - Scifi			
+0138	5	Crime	Drama	Mystery	Thriller	Crime - Drama - Mystery - Thriller			
+0142	5	Action	Adventure	Fantasy	Romance	Action - Adventure - Fantasy - Romance			
+0161	5	Drama	Mystery	Romance	Thriller	Drama - Mystery - Romance - Thriller			
+0171	5	Action	Adventure	Mystery	Scifi	Action - Adventure - Mystery - Scifi			
+0177	5	Comedy	Drama	Family	Sport	Comedy - Drama - Family - Sport			
+0179	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0184	5	Crime	Drama	Horror	Thriller	Crime - Drama - Horror - Thriller			
+0196	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+0214	5	Crime	Drama	Romance	Thriller	Crime - Drama - Romance - Thriller			
+0216	5	Fantasy	Mystery	Scifi	Thriller	Fantasy - Mystery - Scifi - Thriller			
+0221	5	Action	Adventure	Drama	Thriller	Action - Adventure - Drama - Thriller			
+0235	5	Action	Adventure	Scifi	Thriller	Action - Adventure - Scifi - Thriller			
+0252	5	Adventure	Crime	Horror	Mystery	Adventure - Crime - Horror - Mystery			
+0253	5	Adventure	Crime	Horror	Mystery	Adventure - Crime - Horror - Mystery			
+0254	5	Crime	Drama	Mystery	Thriller	Crime - Drama - Mystery - Thriller			
+0263	5	Action	Biography	Crime	Drama	Action - Biography - Crime - Drama			
+0265	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0277	5	Comedy	Horror	Romance	Scifi	Comedy - Horror - Romance - Scifi			
+0281	5	Action	Adventure	Comedy	Drama	Action - Adventure - Comedy - Drama			
+0290	5	Action	Fantasy	Horror	Thriller	Action - Fantasy - Horror - Thriller			
+0295	5	Crime	Drama	Mystery	Thriller	Crime - Drama - Mystery - Thriller			
+0298	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+0324	5	Comedy	Musical	Romance	Scifi	Comedy - Musical - Romance - Scifi			
+0357	5	Action	Adventure	Scifi	Thriller	Action - Adventure - Scifi - Thriller			
+0360	5	Action	Animation	Anime	Scifi	Action - Animation - Anime - Scifi			
+0364	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0372	5	Action	Adventure	Fantasy	Scifi	Action - Adventure - Fantasy - Scifi			
+0382	5	Action	Comedy	Horror	Thriller	Action - Comedy - Horror - Thriller			
+0385	5	Adventure	Animation	Comedy	Fantasy	Adventure - Animation - Comedy - Fantasy			
+0387	5	Fantasy	Horror	Mystery	Thriller	Fantasy - Horror - Mystery - Thriller			
+0393	5	Drama	Horror	Romance	Scifi	Drama - Horror - Romance - Scifi			
+0402	5	Action	Adventure	Drama	Romance	Action - Adventure - Drama - Romance			
+0405	5	Action	Adventure	Comedy	Romance	Action - Adventure - Comedy - Romance			
+0415	5	Drama	Fantasy	Romance	Thriller	Drama - Fantasy - Romance - Thriller			
+0416	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0420	5	Crime	Horror	Romance	Thriller	Crime - Horror - Romance - Thriller			
+0435	5	Comedy	Drama	Musical	Romance	Comedy - Drama - Musical - Romance			
+0438	5	Adventure	Animation	Comedy	Scifi	Adventure - Animation - Comedy - Scifi			
+0449	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0456	5	Action	Comedy	Fantasy	Scifi	Action - Comedy - Fantasy - Scifi			
+0483	5	Action	Adventure	Mystery	Romance	Action - Adventure - Mystery - Romance			
+0499	5	Crime	Drama	Scifi	Thriller	Crime - Drama - Scifi - Thriller			
+0513	5	Comedy	Crime	Drama	Thriller	Comedy - Crime - Drama - Thriller			
+0517	5	Crime	Drama	Romance	Thriller	Crime - Drama - Romance - Thriller			
+0520	5	Comedy	Crime	Musical	Romance	Comedy - Crime - Musical - Romance			
+0521	5	Biography	Comedy	Drama	Musical	Biography - Comedy - Drama - Musical			
+0533	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0535	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0540	5	Adventure	Fantasy	Family	Mystery	Adventure - Fantasy - Family - Mystery			
+0553	5	Adventure	Comedy	Fantasy	Sport	Adventure - Comedy - Fantasy - Sport			
+0554	5	Action	Adventure	Comedy	Romance	Action - Adventure - Comedy - Romance			
+0555	5	Adventure	Animation	Comedy	Musical	Adventure - Animation - Comedy - Musical			
+0572	5	Action	Horror	Scifi	Thriller	Action - Horror - Scifi - Thriller			
+0578	5	Horror	Mystery	Scifi	Thriller	Horror - Mystery - Scifi - Thriller			
+0589	5	Crime	Horror	Mystery	Thriller	Crime - Horror - Mystery - Thriller			
+0593	5	Adventure	Fantasy	Romance	Scifi	Adventure - Fantasy - Romance - Scifi			
+0599	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+0619	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+0632	5	Fantasy	Horror	Mystery	Thriller	Fantasy - Horror - Mystery - Thriller			
+0634	5	Drama	Fantasy	Mystery	Romance	Drama - Fantasy - Mystery - Romance			
+0636	5	Drama	Mystery	Scifi	Thriller	Drama - Mystery - Scifi - Thriller			
+0643	5	Action	Adventure	Comedy	Scifi	Action - Adventure - Comedy - Scifi			
+0654	5	Drama	Fantasy	Family	Romance	Drama - Fantasy - Family - Romance			
+0668	5	Comedy	Horror	Scifi	Thriller	Comedy - Horror - Scifi - Thriller			
+0669	5	Action	Crime	Drama	Romance	Action - Crime - Drama - Romance			
+0679	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0717	5	Action	Drama	Thriller	War	Action - Drama - Thriller - War			
+0720	5	Crime	Drama	Horror	Thriller	Crime - Drama - Horror - Thriller			
+0730	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+0731	5	Adventure	Animation	Drama	Musical	Adventure - Animation - Drama - Musical			
+0741	5	Crime	Drama	Mystery	Thriller	Crime - Drama - Mystery - Thriller			
+0755	5	Action	Comedy	Horror	Thriller	Action - Comedy - Horror - Thriller			
+0759	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0765	5	Comedy	Drama	Romance	Sport	Comedy - Drama - Romance - Sport			
+0767	5	Comedy	Crime	Drama	Thriller	Comedy - Crime - Drama - Thriller			
+0792	5	Action	Adventure	Crime	Thriller	Action - Adventure - Crime - Thriller			
+0823	5	Action	Adventure	Crime	Thriller	Action - Adventure - Crime - Thriller			
+0825	5	Action	Adventure	Animation	Comedy	Action - Adventure - Animation - Comedy			
+0832	5	Drama	Horror	Romance	Thriller	Drama - Horror - Romance - Thriller			
+0838	5	Crime	Horror	Mystery	Thriller	Crime - Horror - Mystery - Thriller			
+0853	5	Drama	Mystery	Romance	Thriller	Drama - Mystery - Romance - Thriller			
+0860	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0865	5	Drama	Fantasy	Mystery	Romance	Drama - Fantasy - Mystery - Romance			
+0869	5	Action	Adventure	Romance	Scifi	Action - Adventure - Romance - Scifi			
+0871	5	Comedy	Drama	Fantasy	Romance	Comedy - Drama - Fantasy - Romance			
+0874	5	Animation	Comedy	Drama	Fantasy	Animation - Comedy - Drama - Fantasy			
+0890	5	Drama	Horror	Scifi	Thriller	Drama - Horror - Scifi - Thriller			
+0891	5	Adventure	Anime	Drama	Fantasy	Adventure - Anime - Drama - Fantasy			
+0893	5	Animation	Comedy	Fantasy	Mystery	Animation - Comedy - Fantasy - Mystery			
+0920	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0933	5	Action	Comedy	Romance	Thriller	Action - Comedy - Romance - Thriller			
+0946	5	Action	Comedy	Crime	Thriller	Action - Comedy - Crime - Thriller			
+0948	5	Action	Comedy	Crime	Thriller	Action - Comedy - Crime - Thriller			
+0950	5	Action	Drama	Scifi	Thriller	Action - Drama - Scifi - Thriller			
+0953	5	Crime	Horror	Mystery	Thriller	Crime - Horror - Mystery - Thriller			
+0968	5	Drama	Romance	Scifi	Thriller	Drama - Romance - Scifi - Thriller			
+0971	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+0975	5	Crime	Horror	Mystery	Thriller	Crime - Horror - Mystery - Thriller			
+0978	5	Action	Adventure	Comedy	Crime	Action - Adventure - Comedy - Crime			
+1001	5	Action	Adventure	Animation	Comedy	Action - Adventure - Animation - Comedy			
+1017	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+1022	5	Action	Adventure	Comedy	Drama	Action - Adventure - Comedy - Drama			
+1026	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+1036	5	Action	Crime	Scifi	Thriller	Action - Crime - Scifi - Thriller			
+1042	5	Drama	Fantasy	Horror	Thriller	Drama - Fantasy - Horror - Thriller			
+1057	5	Biography	Comedy	Drama	Romance	Biography - Comedy - Drama - Romance			
+1058	5	Adventure	Animation	Fantasy	Musical	Adventure - Animation - Fantasy - Musical			
+1065	5	Action	Comedy	Crime	Drama	Action - Comedy - Crime - Drama			
+1071	5	Animation	Drama	Musical	Romance	Animation - Drama - Musical - Romance			
+1079	5	Drama	Fantasy	Mystery	Romance	Drama - Fantasy - Mystery - Romance			
+1082	5	Comedy	Drama	Fantasy	Romance	Comedy - Drama - Fantasy - Romance			
+1099	5	Crime	Horror	Mystery	Thriller	Crime - Horror - Mystery - Thriller			
+1102	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+1114	5	Adventure	Comedy	Scifi	Thriller	Adventure - Comedy - Scifi - Thriller			
+1120	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+1121	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+1122	5	Crime	Drama	Mystery	Thriller	Crime - Drama - Mystery - Thriller			
+1127	5	Drama	Mystery	Romance	Thriller	Drama - Mystery - Romance - Thriller			
+1139	5	Action	Horror	Scifi	Thriller	Action - Horror - Scifi - Thriller			
+1140	5	Action	Horror	Scifi	Thriller	Action - Horror - Scifi - Thriller			
+1144	5	Comedy	Horror	Mystery	Romance	Comedy - Horror - Mystery - Romance			
+1146	5	Adventure	Animation	Fantasy	Musical	Adventure - Animation - Fantasy - Musical			
+1156	5	Action	Adventure	Drama	Romance	Action - Adventure - Drama - Romance			
+1158	5	Action	Drama	Romance	Sport	Action - Drama - Romance - Sport			
+1198	5	Drama	Mystery	Scifi	Thriller	Drama - Mystery - Scifi - Thriller			
+1213	5	Action	Horror	Scifi	Thriller	Action - Horror - Scifi - Thriller			
+1219	5	Action	Adventure	Scifi	Thriller	Action - Adventure - Scifi - Thriller			
+1220	5	Action	Comedy	Crime	Thriller	Action - Comedy - Crime - Thriller			
+1222	5	Action	Comedy	Horror	Scifi	Action - Comedy - Horror - Scifi			
+1227	5	Comedy	Crime	Drama	Romance	Comedy - Crime - Drama - Romance			
+1231	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+1240	5	Comedy	Drama	Mystery	Thriller	Comedy - Drama - Mystery - Thriller			
+1241	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+1248	5	Action	Adventure	Drama	Fantasy	Action - Adventure - Drama - Fantasy			
+1251	5	Action	Drama	Fantasy	Romance	Action - Drama - Fantasy - Romance			
+1255	5	Action	Comedy	Crime	Drama	Action - Comedy - Crime - Drama			
+1258	5	Adventure	Animation	Comedy	Fantasy	Adventure - Animation - Comedy - Fantasy			
+1275	5	Action	Adventure	Comedy	Romance	Action - Adventure - Comedy - Romance			
+1291	5	Drama	Mystery	Romance	Scifi	Drama - Mystery - Romance - Scifi			
+1297	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+1308	5	Drama	Mystery	Romance	Thriller	Drama - Mystery - Romance - Thriller			
+1325	5	Action	Adventure	Fantasy	Scifi	Action - Adventure - Fantasy - Scifi			
+1327	5	Action	Adventure	Fantasy	Scifi	Action - Adventure - Fantasy - Scifi			
+1328	5	Action	Adventure	Fantasy	Scifi	Action - Adventure - Fantasy - Scifi			
+1341	5	Drama	Fantasy	Horror	Thriller	Drama - Fantasy - Horror - Thriller			
+1350	5	Comedy	Crime	Drama	Thriller	Comedy - Crime - Drama - Thriller			
+1358	5	Action	Comedy	Crime	Thriller	Action - Comedy - Crime - Thriller			
+1360	5	Action	Drama	Romance	Sport	Action - Drama - Romance - Sport			
+1363	5	Action	Adventure	Animation	Drama	Action - Adventure - Animation - Drama			
+1372	5	Drama	Horror	Musical	Thriller	Drama - Horror - Musical - Thriller			
+1433	5	Action	Comedy	Crime	Thriller	Action - Comedy - Crime - Thriller			
+1440	5	Action	Adventure	Animation	Drama	Action - Adventure - Animation - Drama			
+1442	5	Action	Adventure	Comedy	Musical	Action - Adventure - Comedy - Musical			
+1448	5	Drama	Horror	Scifi	Thriller	Drama - Horror - Scifi - Thriller			
+1455	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+1459	5	Action	Adventure	Comedy	Romance	Action - Adventure - Comedy - Romance			
+1474	5	Action	Crime	Fantasy	Thriller	Action - Crime - Fantasy - Thriller			
+1477	5	Action	Drama	Fantasy	Scifi	Action - Drama - Fantasy - Scifi			
+1495	5	Action	Crime	Fantasy	Thriller	Action - Crime - Fantasy - Thriller			
+1512	5	Adventure	Animation	Comedy	Fantasy	Adventure - Animation - Comedy - Fantasy			
+1519	5	Comedy	Drama	Fantasy	Romance	Comedy - Drama - Fantasy - Romance			
+1522	5	Action	Adventure	Scifi	Thriller	Action - Adventure - Scifi - Thriller			
+1530	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+1531	5	Drama	Horror	Scifi	Thriller	Drama - Horror - Scifi - Thriller			
+1534	5	Horror	Mystery	Scifi	Thriller	Horror - Mystery - Scifi - Thriller			
+1540	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+1551	5	Fantasy	Horror	Mystery	Romance	Fantasy - Horror - Mystery - Romance			
+1555	5	Action	Adventure	Animation	Mystery	Action - Adventure - Animation - Mystery			
+1561	5	Comedy	Fantasy	Horror	Thriller	Comedy - Fantasy - Horror - Thriller			
+1572	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+1576	5	Comedy	Drama	Fantasy	Romance	Comedy - Drama - Fantasy - Romance			
+1585	5	Drama	Fantasy	Mystery	Thriller	Drama - Fantasy - Mystery - Thriller			
+1588	5	Animation	Drama	Family	Scifi	Animation - Drama - Family - Scifi			
+1589	5	Action	Drama	Scifi	Thriller	Action - Drama - Scifi - Thriller			
+1620	5	Comedy	Drama	Fantasy	Musical	Comedy - Drama - Fantasy - Musical			
+1640	5	Drama	Mystery	Scifi	Thriller	Drama - Mystery - Scifi - Thriller			
+1661	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+1669	5	Action	Horror	Mystery	Thriller	Action - Horror - Mystery - Thriller			
+1680	5	Adventure	Comedy	Musical	Romance	Adventure - Comedy - Musical - Romance			
+1682	5	Crime	Drama	Mystery	Thriller	Crime - Drama - Mystery - Thriller			
+1687	5	Animation	Fantasy	Musical	Romance	Animation - Fantasy - Musical - Romance			
+1692	5	Fantasy	Horror	Mystery	Thriller	Fantasy - Horror - Mystery - Thriller			
+1705	5	Action	Adventure	Drama	Thriller	Action - Adventure - Drama - Thriller			
+1706	5	Action	Adventure	Animation	Comedy	Action - Adventure - Animation - Comedy			
+1712	5	Action	Adventure	Comedy	Thriller	Action - Adventure - Comedy - Thriller			
+1728	5	Action	Adventure	Comedy	Fantasy	Action - Adventure - Comedy - Fantasy			
+1738	5	Action	Adventure	Drama	Fantasy	Action - Adventure - Drama - Fantasy			
+1741	5	Comedy	Drama	Mystery	Musical	Comedy - Drama - Mystery - Musical			
+1742	5	Adventure	Comedy	Drama	Romance	Adventure - Comedy - Drama - Romance			
+1746	5	Action	Adventure	Drama	Fantasy	Action - Adventure - Drama - Fantasy			
+1748	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+1751	5	Adventure	Animation	Comedy	Drama	Adventure - Animation - Comedy - Drama			
+1755	5	Animation	Drama	Fantasy	Musical	Animation - Drama - Fantasy - Musical			
+1757	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+1760	5	Adventure	Animation	Comedy	Fantasy	Adventure - Animation - Comedy - Fantasy			
+1768	5	Action	Adventure	Drama	Romance	Action - Adventure - Drama - Romance			
+1776	5	Drama	Fantasy	Romance	Thriller	Drama - Fantasy - Romance - Thriller			
+1792	5	Action	Mystery	Scifi	Thriller	Action - Mystery - Scifi - Thriller			
+1815	5	Action	Adventure	Animation	Scifi	Action - Adventure - Animation - Scifi			
+1817	5	Crime	Mystery	Romance	Thriller	Crime - Mystery - Romance - Thriller			
+1819	5	Action	Crime	Drama	Thriller	Action - Crime - Drama - Thriller			
+1827	5	Comedy	Fantasy	Mystery	Romance	Comedy - Fantasy - Mystery - Romance			
+1841	5	Action	Comedy	Horror	Scifi	Action - Comedy - Horror - Scifi			
+1842	5	Action	Comedy	Horror	Scifi	Action - Comedy - Horror - Scifi			
+1843	5	Action	Adventure	Fantasy	Scifi	Action - Adventure - Fantasy - Scifi			
+1850	5	Action	Horror	Romance	Thriller	Action - Horror - Romance - Thriller			
+1854	5	Crime	Drama	Mystery	Thriller	Crime - Drama - Mystery - Thriller			
+1863	5	Crime	Horror	Mystery	Thriller	Crime - Horror - Mystery - Thriller			
+1893	5	Adventure	Comedy	Fantasy	Mystery	Adventure - Comedy - Fantasy - Mystery			
+1898	5	Adventure	Comedy	Drama	Romance	Adventure - Comedy - Drama - Romance			
+1919	5	Drama	Horror	Mystery	Thriller	Drama - Horror - Mystery - Thriller			
+1922	5	Drama	Fantasy	Scifi	Thriller	Drama - Fantasy - Scifi - Thriller			
+1953	5	Comedy	Crime	Drama	Romance	Comedy - Crime - Drama - Romance			
+1987	5	Action	Adventure	Scifi	Thriller	Action - Adventure - Scifi - Thriller			
+1993	5	Action	Comedy	Crime	Drama	Action - Comedy - Crime - Drama			
+0011	4	Horror	Scifi	Thriller	Horror - Scifi - Thriller				
+0013	4	Action	Adventure	Drama	Action - Adventure - Drama				
+0017	4	Drama	Musical	Romance	Drama - Musical - Romance				
+0019	4	Biography	Drama	Sport	Biography - Drama - Sport				
+0024	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0029	4	Adventure	Comedy	Fantasy	Adventure - Comedy - Fantasy				
+0030	4	Crime	Mystery	Thriller	Crime - Mystery - Thriller				
+0031	4	Comedy	Drama	Sport	Comedy - Drama - Sport				
+0033	4	Comedy	Drama	Sport	Comedy - Drama - Sport				
+0050	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0057	4	Biography	Drama	Sport	Biography - Drama - Sport				
+0060	4	Comedy	Horror	Scifi	Comedy - Horror - Scifi				
+0062	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0070	4	Comedy	Drama	Scifi	Comedy - Drama - Scifi				
+0076	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+0078	4	Action	Adventure	Comedy	Action - Adventure - Comedy				
+0079	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0082	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0085	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0093	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0097	4	Comedy	Drama	Musical	Comedy - Drama - Musical				
+0101	4	Action	Adventure	Drama	Action - Adventure - Drama				
+0106	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+0116	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0119	4	Comedy	Drama	Fantasy	Comedy - Drama - Fantasy				
+0130	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0134	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0136	4	Animation	Fantasy	Romance	Animation - Fantasy - Romance				
+0144	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0145	4	Action	Drama	Thriller	Action - Drama - Thriller				
+0147	4	Adventure	Drama	Scifi	Adventure - Drama - Scifi				
+0148	4	Action	Scifi	Thriller	Action - Scifi - Thriller				
+0149	4	Comedy	Crime	Mystery	Comedy - Crime - Mystery				
+0151	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0153	4	Comedy	Drama	Scifi	Comedy - Drama - Scifi				
+0155	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+0169	4	Action	Adventure	Fantasy	Action - Adventure - Fantasy				
+0170	4	Action	Adventure	Fantasy	Action - Adventure - Fantasy				
+0191	4	Horror	Scifi	Thriller	Horror - Scifi - Thriller				
+0207	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0211	4	Comedy	Musical	Romance	Comedy - Musical - Romance				
+0215	4	Action	Adventure	Drama	Action - Adventure - Drama				
+0218	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+0219	4	Action	Comedy	Romance	Action - Comedy - Romance				
+0227	4	Action	Comedy	Horror	Action - Comedy - Horror				
+0229	4	Action	Crime	Drama	Action - Crime - Drama				
+0230	4	Animation	Horror	Scifi	Animation - Horror - Scifi				
+0233	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+0234	4	Drama	Romance	Thriller	Drama - Romance - Thriller				
+0237	4	Action	Drama	Thriller	Action - Drama - Thriller				
+0238	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0240	4	Comedy	Crime	Drama	Comedy - Crime - Drama				
+0243	4	Adventure	Drama	Thriller	Adventure - Drama - Thriller				
+0244	4	Comedy	Drama	Thriller	Comedy - Drama - Thriller				
+0245	4	Action	Adventure	Comedy	Action - Adventure - Comedy				
+0247	4	Drama	Fantasy	Romance	Drama - Fantasy - Romance				
+0251	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0258	4	Adventure	Biography	Drama	Adventure - Biography - Drama				
+0259	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0262	4	Action	Crime	Thriller	Action - Crime - Thriller				
+0272	4	Action	Adventure	Thriller	Action - Adventure - Thriller				
+0275	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+0276	4	Comedy	Fantasy	Scifi	Comedy - Fantasy - Scifi				
+0287	4	Biography	Drama	Sport	Biography - Drama - Sport				
+0294	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0307	4	Comedy	Fantasy	Romance	Comedy - Fantasy - Romance				
+0308	4	Drama	Horror	Scifi	Drama - Horror - Scifi				
+0309	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0311	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0313	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0314	4	Action	Drama	Sport	Action - Drama - Sport				
+0320	4	Comedy	Fantasy	Scifi	Comedy - Fantasy - Scifi				
+0321	4	Animation	Drama	Musical	Animation - Drama - Musical				
+0322	4	Action	Adventure	Fantasy	Action - Adventure - Fantasy				
+0327	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0331	4	Biography	Comedy	Drama	Biography - Comedy - Drama				
+0333	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0334	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0337	4	Action	Animation	Scifi	Action - Animation - Scifi				
+0338	4	Comedy	Drama	Fantasy	Comedy - Drama - Fantasy				
+0339	4	Adventure	Drama	Romance	Adventure - Drama - Romance				
+0341	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0348	4	Action	Drama	Thriller	Action - Drama - Thriller				
+0353	4	Drama	Horror	Mystery	Drama - Horror - Mystery				
+0354	4	Action	Adventure	Fantasy	Action - Adventure - Fantasy				
+0358	4	Adventure	Fantasy	Scifi	Adventure - Fantasy - Scifi				
+0362	4	Adventure	Comedy	Drama	Adventure - Comedy - Drama				
+0368	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0370	4	Adventure	Animation	Comedy	Adventure - Animation - Comedy				
+0381	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+0391	4	Action	Drama	Thriller	Action - Drama - Thriller				
+0392	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0395	4	Comedy	Crime	Mystery	Comedy - Crime - Mystery				
+0397	4	Adventure	Family	Scifi	Adventure - Family - Scifi				
+0403	4	Comedy	Musical	Romance	Comedy - Musical - Romance				
+0408	4	Drama	Scifi	Thriller	Drama - Scifi - Thriller				
+0411	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0414	4	Drama	Fantasy	Scifi	Drama - Fantasy - Scifi				
+0417	4	Comedy	Drama	Fantasy	Comedy - Drama - Fantasy				
+0422	4	Action	Drama	Sport	Action - Drama - Sport				
+0423	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+0429	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+0432	4	Comedy	Musical	Romance	Comedy - Musical - Romance				
+0440	4	Action	Adventure	Fantasy	Action - Adventure - Fantasy				
+0441	4	Comedy	Musical	Romance	Comedy - Musical - Romance				
+0442	4	Adventure	Animation	Fantasy	Adventure - Animation - Fantasy				
+0444	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0451	4	Comedy	Musical	Romance	Comedy - Musical - Romance				
+0453	4	Action	Comedy	Crime	Action - Comedy - Crime				
+0459	4	Action	Horror	Scifi	Action - Horror - Scifi				
+0463	4	Comedy	Musical	Romance	Comedy - Musical - Romance				
+0464	4	Comedy	Crime	Romance	Comedy - Crime - Romance				
+0465	4	Drama	Romance	Thriller	Drama - Romance - Thriller				
+0466	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+0469	4	Action	Adventure	Drama	Action - Adventure - Drama				
+0471	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+0472	4	Comedy	Drama	Musical	Comedy - Drama - Musical				
+0484	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+0490	4	Comedy	Fantasy	Horror	Comedy - Fantasy - Horror				
+0494	4	Crime	Horror	Mystery	Crime - Horror - Mystery				
+0498	4	Adventure	Fantasy	Family	Adventure - Fantasy - Family				
+0504	4	Comedy	Fantasy	Romance	Comedy - Fantasy - Romance				
+0508	4	Action	Horror	Thriller	Action - Horror - Thriller				
+0509	4	Horror	Scifi	Thriller	Horror - Scifi - Thriller				
+0511	4	Animation	Comedy	Romance	Animation - Comedy - Romance				
+0530	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+0539	4	Adventure	Drama	Romance	Adventure - Drama - Romance				
+0541	4	Action	Crime	Drama	Action - Crime - Drama				
+0544	4	Comedy	Crime	Romance	Comedy - Crime - Romance				
+0545	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0557	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0560	4	Adventure	Animation	Comedy	Adventure - Animation - Comedy				
+0561	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0562	4	Action	Adventure	Romance	Action - Adventure - Romance				
+0563	4	Comedy	Horror	Romance	Comedy - Horror - Romance				
+0566	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0569	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0570	4	Comedy	Fantasy	Horror	Comedy - Fantasy - Horror				
+0571	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0573	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0576	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0585	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+0586	4	Fantasy	Horror	Scifi	Fantasy - Horror - Scifi				
+0587	4	Fantasy	Horror	Scifi	Fantasy - Horror - Scifi				
+0591	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0600	4	Action	Drama	Scifi	Action - Drama - Scifi				
+0609	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+0611	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0614	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0618	4	Action	Drama	Thriller	Action - Drama - Thriller				
+0626	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0628	4	Action	Drama	Thriller	Action - Drama - Thriller				
+0630	4	Mystery	Romance	Thriller	Mystery - Romance - Thriller				
+0631	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0635	4	Drama	Romance	Thriller	Drama - Romance - Thriller				
+0646	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0650	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0652	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0657	4	Comedy	Fantasy	Horror	Comedy - Fantasy - Horror				
+0660	4	Adventure	Crime	Drama	Adventure - Crime - Drama				
+0664	4	Action	Adventure	Fantasy	Action - Adventure - Fantasy				
+0666	4	Comedy	Crime	Drama	Comedy - Crime - Drama				
+0670	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0673	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0675	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0677	4	Action	Adventure	Comedy	Action - Adventure - Comedy				
+0683	4	Action	Crime	Scifi	Action - Crime - Scifi				
+0690	4	Comedy	Fantasy	Romance	Comedy - Fantasy - Romance				
+0692	4	Animation	Fantasy	Scifi	Animation - Fantasy - Scifi				
+0695	4	Action	Comedy	Crime	Action - Comedy - Crime				
+0698	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0699	4	Crime	Drama	Mystery	Crime - Drama - Mystery				
+0701	4	Action	Comedy	Drama	Action - Comedy - Drama				
+0704	4	Action	Comedy	Romance	Action - Comedy - Romance				
+0705	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0707	4	Adventure	Drama	Romance	Adventure - Drama - Romance				
+0712	4	Action	Comedy	Thriller	Action - Comedy - Thriller				
+0716	4	Action	Comedy	Crime	Action - Comedy - Crime				
+0739	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+0740	4	Comedy	Fantasy	Romance	Comedy - Fantasy - Romance				
+0742	4	Comedy	Fantasy	Sport	Comedy - Fantasy - Sport				
+0754	4	Adventure	Fantasy	Romance	Adventure - Fantasy - Romance				
+0757	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0772	4	Action	Comedy	Horror	Action - Comedy - Horror				
+0773	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0774	4	Adventure	Animation	Drama	Adventure - Animation - Drama				
+0777	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0780	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0782	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0788	4	Adventure	Comedy	Fantasy	Adventure - Comedy - Fantasy				
+0790	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0793	4	Action	Adventure	Thriller	Action - Adventure - Thriller				
+0798	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0801	4	Fantasy	Horror	Thriller	Fantasy - Horror - Thriller				
+0808	4	Action	Adventure	Scifi	Action - Adventure - Scifi				
+0810	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0811	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0817	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0818	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0847	4	Comedy	Fantasy	Romance	Comedy - Fantasy - Romance				
+0854	4	Action	Adventure	Drama	Action - Adventure - Drama				
+0861	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+0872	4	Biography	Drama	Thriller	Biography - Drama - Thriller				
+0875	4	Crime	Drama	Mystery	Crime - Drama - Mystery				
+0878	4	Adventure	Fantasy	Thriller	Adventure - Fantasy - Thriller				
+0879	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0895	4	Drama	Scifi	Thriller	Drama - Scifi - Thriller				
+0896	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0897	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0904	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0905	4	Drama	Musical	Romance	Drama - Musical - Romance				
+0911	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0913	4	Adventure	Comedy	Romance	Adventure - Comedy - Romance				
+0916	4	Comedy	Crime	Drama	Comedy - Crime - Drama				
+0918	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0919	4	Adventure	Comedy	Scifi	Adventure - Comedy - Scifi				
+0923	4	Crime	Horror	Mystery	Crime - Horror - Mystery				
+0930	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0932	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+0934	4	Adventure	Animation	Fantasy	Adventure - Animation - Fantasy				
+0941	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0942	4	Crime	Drama	Mystery	Crime - Drama - Mystery				
+0947	4	Adventure	Crime	Thriller	Adventure - Crime - Thriller				
+0951	4	Adventure	Animation	Fantasy	Adventure - Animation - Fantasy				
+0956	4	Action	Comedy	Crime	Action - Comedy - Crime				
+0957	4	Action	Crime	Thriller	Action - Crime - Thriller				
+0960	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0972	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+0981	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+0984	4	Drama	Romance	Thriller	Drama - Romance - Thriller				
+0988	4	Comedy	Crime	Thriller	Comedy - Crime - Thriller				
+0989	4	Adventure	Drama	Romance	Adventure - Drama - Romance				
+0995	4	Action	Scifi	Thriller	Action - Scifi - Thriller				
+0999	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1005	4	Action	Adventure	Drama	Action - Adventure - Drama				
+1010	4	Action	Mystery	Thriller	Action - Mystery - Thriller				
+1011	4	Animation	Comedy	Musical	Animation - Comedy - Musical				
+1012	4	Adventure	Crime	Drama	Adventure - Crime - Drama				
+1014	4	Comedy	Musical	Romance	Comedy - Musical - Romance				
+1027	4	Drama	Romance	Thriller	Drama - Romance - Thriller				
+1033	4	Biography	Drama	Romance	Biography - Drama - Romance				
+1034	4	Drama	Scifi	Thriller	Drama - Scifi - Thriller				
+1041	4	Comedy	Crime	Drama	Comedy - Crime - Drama				
+1048	4	Comedy	Romance	Sport	Comedy - Romance - Sport				
+1049	4	Crime	Horror	Thriller	Crime - Horror - Thriller				
+1054	4	Drama	Musical	Romance	Drama - Musical - Romance				
+1059	4	Adventure	Comedy	Fantasy	Adventure - Comedy - Fantasy				
+1060	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+1061	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+1062	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1066	4	Crime	Drama	Romance	Crime - Drama - Romance				
+1067	4	Animation	Fantasy	Musical	Animation - Fantasy - Musical				
+1069	4	Comedy	Drama	Sport	Comedy - Drama - Sport				
+1077	4	Adventure	Animation	Musical	Adventure - Animation - Musical				
+1080	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1081	4	Drama	Mystery	Romance	Drama - Mystery - Romance				
+1084	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1092	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1093	4	Drama	Scifi	Thriller	Drama - Scifi - Thriller				
+1095	4	Adventure	Drama	Romance	Adventure - Drama - Romance				
+1116	4	Biography	Drama	Sport	Biography - Drama - Sport				
+1119	4	Drama	Mystery	Romance	Drama - Mystery - Romance				
+1125	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1126	4	Action	Adventure	Drama	Action - Adventure - Drama				
+1135	4	Action	Crime	Drama	Action - Crime - Drama				
+1137	4	Action	Adventure	Drama	Action - Adventure - Drama				
+1143	4	Horror	Romance	Scifi	Horror - Romance - Scifi				
+1149	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1151	4	Biography	Comedy	Drama	Biography - Comedy - Drama				
+1157	4	Action	Crime	Scifi	Action - Crime - Scifi				
+1161	4	Action	Scifi	Sport	Action - Scifi - Sport				
+1163	4	Crime	Drama	Romance	Crime - Drama - Romance				
+1165	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1169	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1170	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1173	4	Crime	Scifi	Thriller	Crime - Scifi - Thriller				
+1181	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1182	4	Drama	Musical	Romance	Drama - Musical - Romance				
+1183	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1187	4	Action	Drama	War	Action - Drama - War				
+1188	4	Crime	Horror	Thriller	Crime - Horror - Thriller				
+1192	4	Drama	Fantasy	Musical	Drama - Fantasy - Musical				
+1194	4	Drama	Romance	Thriller	Drama - Romance - Thriller				
+1196	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1200	4	Comedy	Crime	Horror	Comedy - Crime - Horror				
+1209	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+1212	4	Comedy	Horror	Thriller	Comedy - Horror - Thriller				
+1214	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1221	4	Action	Adventure	Horror	Action - Adventure - Horror				
+1226	4	Action	Comedy	Crime	Action - Comedy - Crime				
+1233	4	Comedy	Horror	Thriller	Comedy - Horror - Thriller				
+1234	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1236	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1239	4	Biography	Drama	Romance	Biography - Drama - Romance				
+1244	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1250	4	Action	Adventure	Drama	Action - Adventure - Drama				
+1252	4	Action	Adventure	Drama	Action - Adventure - Drama				
+1253	4	Comedy	Family	Scifi	Comedy - Family - Scifi				
+1254	4	Comedy	Family	Scifi	Comedy - Family - Scifi				
+1261	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+1271	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1272	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+1276	4	Drama	Fantasy	Thriller	Drama - Fantasy - Thriller				
+1281	4	Comedy	Horror	Scifi	Comedy - Horror - Scifi				
+1283	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1287	4	Action	Fantasy	Scifi	Action - Fantasy - Scifi				
+1290	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+1294	4	Drama	Fantasy	Romance	Drama - Fantasy - Romance				
+1300	4	Action	Comedy	Scifi	Action - Comedy - Scifi				
+1304	4	Horror	Scifi	Thriller	Horror - Scifi - Thriller				
+1309	4	Horror	Scifi	Thriller	Horror - Scifi - Thriller				
+1311	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+1315	4	Horror	Scifi	Thriller	Horror - Scifi - Thriller				
+1323	4	Action	Adventure	Scifi	Action - Adventure - Scifi				
+1331	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1332	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+1333	4	Comedy	Crime	Drama	Comedy - Crime - Drama				
+1334	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1344	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1345	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1346	4	Action	Adventure	Comedy	Action - Adventure - Comedy				
+1348	4	Action	Mystery	Thriller	Action - Mystery - Thriller				
+1352	4	Action	Comedy	Scifi	Action - Comedy - Scifi				
+1361	4	Action	Adventure	Scifi	Action - Adventure - Scifi				
+1369	4	Action	Scifi	Thriller	Action - Scifi - Thriller				
+1373	4	Crime	Musical	Thriller	Crime - Musical - Thriller				
+1377	4	Comedy	Musical	Romance	Comedy - Musical - Romance				
+1378	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1380	4	Biography	Drama	Romance	Biography - Drama - Romance				
+1382	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1390	4	Action	Comedy	Drama	Action - Comedy - Drama				
+1393	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1394	4	Action	Drama	Thriller	Action - Drama - Thriller				
+1396	4	Action	Adventure	Comedy	Action - Adventure - Comedy				
+1398	4	Adventure	Comedy	Drama	Adventure - Comedy - Drama				
+1399	4	Crime	Mystery	Thriller	Crime - Mystery - Thriller				
+1401	4	Comedy	Horror	Thriller	Comedy - Horror - Thriller				
+1402	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+1413	4	Action	Adventure	Drama	Action - Adventure - Drama				
+1418	4	Animation	Comedy	Musical	Animation - Comedy - Musical				
+1425	4	Comedy	Musical	Romance	Comedy - Musical - Romance				
+1427	4	Adventure	Drama	Thriller	Adventure - Drama - Thriller				
+1428	4	Action	Adventure	Fantasy	Action - Adventure - Fantasy				
+1437	4	Comedy	Crime	Drama	Comedy - Crime - Drama				
+1443	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1445	4	Action	Adventure	Drama	Action - Adventure - Drama				
+1450	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1451	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1458	4	Comedy	Drama	Thriller	Comedy - Drama - Thriller				
+1464	4	Action	Animation	Scifi	Action - Animation - Scifi				
+1466	4	Comedy	Horror	Thriller	Comedy - Horror - Thriller				
+1471	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1476	4	Action	Drama	Thriller	Action - Drama - Thriller				
+1478	4	Comedy	Drama	Musical	Comedy - Drama - Musical				
+1487	4	Action	Drama	Scifi	Action - Drama - Scifi				
+1488	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1490	4	Action	Adventure	Drama	Action - Adventure - Drama				
+1492	4	Action	Comedy	Drama	Action - Comedy - Drama				
+1494	4	Action	Adventure	Comedy	Action - Adventure - Comedy				
+1498	4	Comedy	Crime	Mystery	Comedy - Crime - Mystery				
+1499	4	Drama	Romance	Sport	Drama - Romance - Sport				
+1503	4	Adventure	Animation	Fantasy	Adventure - Animation - Fantasy				
+1504	4	Adventure	Horror	Thriller	Adventure - Horror - Thriller				
+1506	4	Action	Drama	Thriller	Action - Drama - Thriller				
+1508	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1509	4	Biography	Drama	Romance	Biography - Drama - Romance				
+1510	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1514	4	Action	Adventure	Thriller	Action - Adventure - Thriller				
+1515	4	Biography	Drama	Sport	Biography - Drama - Sport				
+1516	4	Drama	Horror	Thriller	Drama - Horror - Thriller				
+1517	4	Drama	Fantasy	Horror	Drama - Fantasy - Horror				
+1520	4	Drama	Sport	Thriller	Drama - Sport - Thriller				
+1523	4	Adventure	Drama	Scifi	Adventure - Drama - Scifi				
+1529	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1541	4	Comedy	Mystery	Romance	Comedy - Mystery - Romance				
+1542	4	Crime	Drama	Horror	Crime - Drama - Horror				
+1543	4	Action	Mystery	Thriller	Action - Mystery - Thriller				
+1547	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1548	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1549	4	Drama	Romance	Thriller	Drama - Romance - Thriller				
+1554	4	Adventure	Horror	Thriller	Adventure - Horror - Thriller				
+1562	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1573	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1574	4	Crime	Horror	Mystery	Crime - Horror - Mystery				
+1578	4	Biography	Drama	Sport	Biography - Drama - Sport				
+1579	4	Adventure	Fantasy	Mystery	Adventure - Fantasy - Mystery				
+1581	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1590	4	Horror	Scifi	Thriller	Horror - Scifi - Thriller				
+1591	4	Action	Adventure	Thriller	Action - Adventure - Thriller				
+1593	4	Action	Drama	Sport	Action - Drama - Sport				
+1600	4	Crime	Drama	Mystery	Crime - Drama - Mystery				
+1602	4	Adventure	Animation	Drama	Adventure - Animation - Drama				
+1603	4	Action	Adventure	Fantasy	Action - Adventure - Fantasy				
+1604	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1615	4	Animation	Fantasy	Musical	Animation - Fantasy - Musical				
+1617	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1618	4	Comedy	Crime	Drama	Comedy - Crime - Drama				
+1626	4	Action	Drama	Thriller	Action - Drama - Thriller				
+1635	4	Comedy	Mystery	Romance	Comedy - Mystery - Romance				
+1639	4	Action	Adventure	Thriller	Action - Adventure - Thriller				
+1647	4	Action	Scifi	Thriller	Action - Scifi - Thriller				
+1649	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+1656	4	Adventure	Drama	Thriller	Adventure - Drama - Thriller				
+1657	4	Action	Crime	Drama	Action - Crime - Drama				
+1658	4	Action	Romance	Sport	Action - Romance - Sport				
+1660	4	Animation	Fantasy	Musical	Animation - Fantasy - Musical				
+1662	4	Drama	Musical	Romance	Drama - Musical - Romance				
+1664	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+1670	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1673	4	Action	Comedy	Thriller	Action - Comedy - Thriller				
+1676	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+1678	4	Adventure	Comedy	Mystery	Adventure - Comedy - Mystery				
+1689	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+1691	4	Action	Drama	Sport	Action - Drama - Sport				
+1693	4	Action	Crime	Thriller	Action - Crime - Thriller				
+1700	4	Drama	Romance	Thriller	Drama - Romance - Thriller				
+1702	4	Adventure	Animation	Comedy	Adventure - Animation - Comedy				
+1704	4	Animation	Fantasy	Musical	Animation - Fantasy - Musical				
+1709	4	Biography	Drama	Sport	Biography - Drama - Sport				
+1715	4	Adventure	Comedy	Drama	Adventure - Comedy - Drama				
+1717	4	Biography	Drama	Romance	Biography - Drama - Romance				
+1720	4	Comedy	Fantasy	Romance	Comedy - Fantasy - Romance				
+1723	4	Horror	Scifi	Thriller	Horror - Scifi - Thriller				
+1727	4	Comedy	Crime	Thriller	Comedy - Crime - Thriller				
+1730	4	Adventure	Comedy	Scifi	Adventure - Comedy - Scifi				
+1734	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+1747	4	Adventure	Drama	Fantasy	Adventure - Drama - Fantasy				
+1750	4	Animation	Comedy	Fantasy	Animation - Comedy - Fantasy				
+1756	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1762	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1765	4	Action	Scifi	Thriller	Action - Scifi - Thriller				
+1766	4	Adventure	Crime	Drama	Adventure - Crime - Drama				
+1770	4	Action	Adventure	Romance	Action - Adventure - Romance				
+1780	4	Crime	Mystery	Thriller	Crime - Mystery - Thriller				
+1784	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+1787	4	Drama	Musical	Romance	Drama - Musical - Romance				
+1812	4	Animation	Drama	Fantasy	Animation - Drama - Fantasy				
+1813	4	Action	Crime	Thriller	Action - Crime - Thriller				
+1816	4	Drama	Fantasy	Horror	Drama - Fantasy - Horror				
+1821	4	Action	Crime	Drama	Action - Crime - Drama				
+1824	4	Comedy	Musical	Sport	Comedy - Musical - Sport				
+1826	4	Comedy	Fantasy	Romance	Comedy - Fantasy - Romance				
+1828	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1835	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1836	4	Adventure	Comedy	Drama	Adventure - Comedy - Drama				
+1837	4	Action	Adventure	Scifi	Action - Adventure - Scifi				
+1838	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1845	4	Action	Crime	Drama	Action - Crime - Drama				
+1847	4	Drama	Fantasy	Romance	Drama - Fantasy - Romance				
+1849	4	Action	Comedy	Drama	Action - Comedy - Drama				
+1855	4	Drama	Sport	Thriller	Drama - Sport - Thriller				
+1861	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1865	4	Action	Scifi	Thriller	Action - Scifi - Thriller				
+1868	4	Action	Drama	Thriller	Action - Drama - Thriller				
+1869	4	Action	Drama	Thriller	Action - Drama - Thriller				
+1888	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1890	4	Action	Adventure	Thriller	Action - Adventure - Thriller				
+1894	4	Comedy	Musical	Romance	Comedy - Musical - Romance				
+1895	4	Action	Drama	Sport	Action - Drama - Sport				
+1899	4	Drama	Romance	Sport	Drama - Romance - Sport				
+1904	4	Action	Crime	Thriller	Action - Crime - Thriller				
+1905	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1916	4	Action	Scifi	Thriller	Action - Scifi - Thriller				
+1917	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1920	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1923	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1924	4	Comedy	Crime	Drama	Comedy - Crime - Drama				
+1925	4	Adventure	Drama	Fantasy	Adventure - Drama - Fantasy				
+1927	4	Comedy	Musical	Romance	Comedy - Musical - Romance				
+1930	4	Comedy	Drama	Sport	Comedy - Drama - Sport				
+1937	4	Comedy	Drama	Family	Comedy - Drama - Family				
+1944	4	Action	Drama	Sport	Action - Drama - Sport				
+1949	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1960	4	Comedy	Drama	Romance	Comedy - Drama - Romance				
+1962	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+1964	4	Horror	Mystery	Thriller	Horror - Mystery - Thriller				
+1965	4	Action	Comedy	Musical	Action - Comedy - Musical				
+1967	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1969	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1970	4	Animation	Comedy	Fantasy	Animation - Comedy - Fantasy				
+1972	4	Drama	Mystery	Thriller	Drama - Mystery - Thriller				
+1973	4	Animation	Fantasy	Scifi	Animation - Fantasy - Scifi				
+1977	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+1979	4	Action	Horror	Thriller	Action - Horror - Thriller				
+1984	4	Action	Crime	Drama	Action - Crime - Drama				
+1994	4	Crime	Drama	Thriller	Crime - Drama - Thriller				
+0000	3	Drama	Romance	Drama - Romance					
+0002	3	Adventure	Drama	Adventure - Drama					
+0003	3	Comedy	Romance	Comedy - Romance					
+0004	3	Crime	Drama	Crime - Drama					
+0006	3	Drama	Musical	Drama - Musical					
+0010	3	Comedy	Romance	Comedy - Romance					
+0012	3	Horror	Thriller	Horror - Thriller					
+0015	3	Drama	Romance	Drama - Romance					
+0021	3	Comedy	Family	Comedy - Family					
+0026	3	Crime	Drama	Crime - Drama					
+0027	3	Comedy	Romance	Comedy - Romance					
+0028	3	Comedy	Musical	Comedy - Musical					
+0032	3	Drama	Thriller	Drama - Thriller					
+0034	3	Drama	Thriller	Drama - Thriller					
+0037	3	Action	Drama	Action - Drama					
+0038	3	Drama	Romance	Drama - Romance					
+0041	3	Drama	War	Drama - War					
+0044	3	Comedy	Romance	Comedy - Romance					
+0045	3	Drama	Thriller	Drama - Thriller					
+0046	3	Drama	Romance	Drama - Romance					
+0048	3	Biography	Drama	Biography - Drama					
+0049	3	Scifi	Thriller	Scifi - Thriller					
+0052	3	Comedy	Drama	Comedy - Drama					
+0055	3	Mystery	Thriller	Mystery - Thriller					
+0058	3	Drama	Sport	Drama - Sport					
+0059	3	Drama	Mystery	Drama - Mystery					
+0061	3	Adventure	Fantasy	Adventure - Fantasy					
+0064	3	Musical	Romance	Musical - Romance					
+0066	3	Comedy	Sport	Comedy - Sport					
+0067	3	Comedy	Sport	Comedy - Sport					
+0071	3	Drama	Thriller	Drama - Thriller					
+0072	3	Adventure	Scifi	Adventure - Scifi					
+0080	3	Mystery	Thriller	Mystery - Thriller					
+0081	3	Horror	Mystery	Horror - Mystery					
+0083	3	Drama	Romance	Drama - Romance					
+0086	3	Comedy	Romance	Comedy - Romance					
+0088	3	Action	Drama	Action - Drama					
+0090	3	Comedy	Drama	Comedy - Drama					
+0091	3	Horror	Thriller	Horror - Thriller					
+0092	3	Drama	Musical	Drama - Musical					
+0094	3	Comedy	Drama	Comedy - Drama					
+0095	3	Comedy	Romance	Comedy - Romance					
+0098	3	Horror	Thriller	Horror - Thriller					
+0102	3	Adventure	Drama	Adventure - Drama					
+0105	3	Comedy	Romance	Comedy - Romance					
+0108	3	Drama	Romance	Drama - Romance					
+0111	3	Action	Comedy	Action - Comedy					
+0112	3	Comedy	Drama	Comedy - Drama					
+0113	3	Crime	Drama	Crime - Drama					
+0115	3	Drama	Thriller	Drama - Thriller					
+0118	3	Drama	Scifi	Drama - Scifi					
+0121	3	Comedy	Romance	Comedy - Romance					
+0123	3	Action	Scifi	Action - Scifi					
+0124	3	Comedy	Scifi	Comedy - Scifi					
+0126	3	Drama	Romance	Drama - Romance					
+0128	3	Comedy	Drama	Comedy - Drama					
+0132	3	Comedy	Romance	Comedy - Romance					
+0133	3	Comedy	Family	Comedy - Family					
+0139	3	Drama	Thriller	Drama - Thriller					
+0140	3	Adventure	Fantasy	Adventure - Fantasy					
+0150	3	Biography	Drama	Biography - Drama					
+0152	3	Biography	Drama	Biography - Drama					
+0154	3	Comedy	Drama	Comedy - Drama					
+0156	3	Drama	Romance	Drama - Romance					
+0157	3	Comedy	Drama	Comedy - Drama					
+0163	3	Drama	Thriller	Drama - Thriller					
+0164	3	Comedy	Drama	Comedy - Drama					
+0166	3	Action	Adventure	Action - Adventure					
+0167	3	Drama	Romance	Drama - Romance					
+0172	3	Comedy	Crime	Comedy - Crime					
+0175	3	Biography	Drama	Biography - Drama					
+0176	3	Adventure	Drama	Adventure - Drama					
+0180	3	Comedy	Musical	Comedy - Musical					
+0182	3	Animation	Fantasy	Animation - Fantasy					
+0183	3	Comedy	Crime	Comedy - Crime					
+0185	3	Adventure	Comedy	Adventure - Comedy					
+0186	3	Comedy	Drama	Comedy - Drama					
+0187	3	Comedy	Drama	Comedy - Drama					
+0190	3	Drama	Romance	Drama - Romance					
+0192	3	Animation	Fantasy	Animation - Fantasy					
+0194	3	Comedy	Drama	Comedy - Drama					
+0195	3	Crime	Drama	Crime - Drama					
+0197	3	Crime	Thriller	Crime - Thriller					
+0200	3	Musical	Romance	Musical - Romance					
+0201	3	Action	Scifi	Action - Scifi					
+0204	3	Comedy	Drama	Comedy - Drama					
+0208	3	Action	Comedy	Action - Comedy					
+0209	3	Crime	Drama	Crime - Drama					
+0210	3	Comedy	Drama	Comedy - Drama					
+0212	3	Drama	Romance	Drama - Romance					
+0217	3	Drama	Romance	Drama - Romance					
+0220	3	Drama	Romance	Drama - Romance					
+0222	3	Drama	Romance	Drama - Romance					
+0223	3	Comedy	Horror	Comedy - Horror					
+0224	3	Horror	Thriller	Horror - Thriller					
+0225	3	Horror	Thriller	Horror - Thriller					
+0226	3	Crime	Drama	Crime - Drama					
+0231	3	Comedy	Drama	Comedy - Drama					
+0232	3	Horror	Thriller	Horror - Thriller					
+0236	3	Adult	Comedy	Adult - Comedy					
+0241	3	Comedy	Romance	Comedy - Romance					
+0242	3	Crime	Documentary	Crime - Documentary					
+0248	3	Drama	Thriller	Drama - Thriller					
+0249	3	Horror	Thriller	Horror - Thriller					
+0264	3	Comedy	Drama	Comedy - Drama					
+0267	3	Drama	Romance	Drama - Romance					
+0270	3	Horror	Thriller	Horror - Thriller					
+0273	3	Drama	Romance	Drama - Romance					
+0274	3	Drama	Thriller	Drama - Thriller					
+0280	3	Action	Comedy	Action - Comedy					
+0282	3	Musical	Romance	Musical - Romance					
+0283	3	Drama	Thriller	Drama - Thriller					
+0285	3	Comedy	Romance	Comedy - Romance					
+0291	3	Drama	Romance	Drama - Romance					
+0293	3	Comedy	Sport	Comedy - Sport					
+0297	3	Drama	Thriller	Drama - Thriller					
+0299	3	Mystery	Thriller	Mystery - Thriller					
+0301	3	Action	Thriller	Action - Thriller					
+0305	3	Comedy	Drama	Comedy - Drama					
+0310	3	Horror	Romance	Horror - Romance					
+0315	3	Comedy	Drama	Comedy - Drama					
+0316	3	Comedy	Drama	Comedy - Drama					
+0317	3	Comedy	Fantasy	Comedy - Fantasy					
+0326	3	Comedy	Romance	Comedy - Romance					
+0330	3	Comedy	Romance	Comedy - Romance					
+0332	3	Comedy	Documentary	Comedy - Documentary					
+0335	3	Drama	Thriller	Drama - Thriller					
+0340	3	Drama	Romance	Drama - Romance					
+0342	3	Comedy	Horror	Comedy - Horror					
+0346	3	Drama	Romance	Drama - Romance					
+0347	3	Drama	Thriller	Drama - Thriller					
+0349	3	Drama	Scifi	Drama - Scifi					
+0352	3	Adventure	Comedy	Adventure - Comedy					
+0355	3	Comedy	Horror	Comedy - Horror					
+0356	3	Comedy	Fantasy	Comedy - Fantasy					
+0359	3	Comedy	Drama	Comedy - Drama					
+0363	3	Comedy	Fantasy	Comedy - Fantasy					
+0365	3	Drama	Romance	Drama - Romance					
+0367	3	Drama	Sport	Drama - Sport					
+0369	3	Comedy	Crime	Comedy - Crime					
+0373	3	Comedy	Drama	Comedy - Drama					
+0375	3	Drama	Romance	Drama - Romance					
+0377	3	Comedy	Fantasy	Comedy - Fantasy					
+0379	3	Drama	Thriller	Drama - Thriller					
+0383	3	Drama	Romance	Drama - Romance					
+0386	3	Action	Drama	Action - Drama					
+0388	3	Crime	Drama	Crime - Drama					
+0389	3	Action	Comedy	Action - Comedy					
+0390	3	Action	Thriller	Action - Thriller					
+0394	3	Comedy	Crime	Comedy - Crime					
+0396	3	Biography	Drama	Biography - Drama					
+0399	3	Comedy	Fantasy	Comedy - Fantasy					
+0400	3	Adventure	Drama	Adventure - Drama					
+0401	3	Adventure	Animation	Adventure - Animation					
+0407	3	Comedy	Drama	Comedy - Drama					
+0409	3	Drama	Sport	Drama - Sport					
+0410	3	Comedy	Romance	Comedy - Romance					
+0412	3	Comedy	Thriller	Comedy - Thriller					
+0418	3	Comedy	Fantasy	Comedy - Fantasy					
+0419	3	Adventure	Drama	Adventure - Drama					
+0421	3	Comedy	Crime	Comedy - Crime					
+0427	3	Drama	Romance	Drama - Romance					
+0430	3	Comedy	Drama	Comedy - Drama					
+0434	3	Horror	Thriller	Horror - Thriller					
+0436	3	Comedy	Drama	Comedy - Drama					
+0437	3	Biography	Drama	Biography - Drama					
+0439	3	Crime	Drama	Crime - Drama					
+0443	3	Biography	Drama	Biography - Drama					
+0452	3	Crime	Drama	Crime - Drama					
+0454	3	Comedy	Drama	Comedy - Drama					
+0462	3	Comedy	Romance	Comedy - Romance					
+0467	3	Drama	Sport	Drama - Sport					
+0474	3	Comedy	Romance	Comedy - Romance					
+0475	3	Crime	Drama	Crime - Drama					
+0476	3	Drama	Mystery	Drama - Mystery					
+0477	3	Comedy	Sport	Comedy - Sport					
+0479	3	Comedy	Documentary	Comedy - Documentary					
+0480	3	Comedy	Drama	Comedy - Drama					
+0485	3	Drama	Romance	Drama - Romance					
+0486	3	Drama	War	Drama - War					
+0487	3	Drama	Romance	Drama - Romance					
+0488	3	Crime	Drama	Crime - Drama					
+0489	3	Comedy	Drama	Comedy - Drama					
+0491	3	Biography	Drama	Biography - Drama					
+0492	3	Drama	Sport	Drama - Sport					
+0497	3	Drama	Musical	Drama - Musical					
+0500	3	Adventure	Fantasy	Adventure - Fantasy					
+0502	3	Animation	Drama	Animation - Drama					
+0505	3	Horror	Thriller	Horror - Thriller					
+0506	3	Horror	Scifi	Horror - Scifi					
+0510	3	Action	Comedy	Action - Comedy					
+0512	3	Comedy	Drama	Comedy - Drama					
+0514	3	Comedy	Romance	Comedy - Romance					
+0519	3	Drama	Romance	Drama - Romance					
+0523	3	Comedy	Crime	Comedy - Crime					
+0525	3	Comedy	Romance	Comedy - Romance					
+0527	3	Action	Drama	Action - Drama					
+0528	3	Comedy	Drama	Comedy - Drama					
+0529	3	Drama	Thriller	Drama - Thriller					
+0531	3	Comedy	Drama	Comedy - Drama					
+0532	3	Drama	Sport	Drama - Sport					
+0534	3	Drama	Thriller	Drama - Thriller					
+0536	3	Adventure	Comedy	Adventure - Comedy					
+0537	3	Comedy	Romance	Comedy - Romance					
+0542	3	Comedy	Thriller	Comedy - Thriller					
+0549	3	Horror	Thriller	Horror - Thriller					
+0556	3	Animation	Comedy	Animation - Comedy					
+0558	3	Drama	Fantasy	Drama - Fantasy					
+0559	3	Comedy	Drama	Comedy - Drama					
+0565	3	Crime	Drama	Crime - Drama					
+0568	3	Drama	Thriller	Drama - Thriller					
+0574	3	Drama	Sport	Drama - Sport					
+0575	3	Comedy	Drama	Comedy - Drama					
+0577	3	Action	Drama	Action - Drama					
+0581	3	Action	Comedy	Action - Comedy					
+0583	3	Crime	Drama	Crime - Drama					
+0595	3	Comedy	Drama	Comedy - Drama					
+0596	3	Horror	Scifi	Horror - Scifi					
+0603	3	Drama	Thriller	Drama - Thriller					
+0604	3	Comedy	Romance	Comedy - Romance					
+0606	3	Comedy	Crime	Comedy - Crime					
+0613	3	Comedy	Scifi	Comedy - Scifi					
+0615	3	Documentary	Musical	Documentary - Musical					
+0616	3	Drama	Romance	Drama - Romance					
+0621	3	Comedy	Horror	Comedy - Horror					
+0623	3	Comedy	Drama	Comedy - Drama					
+0624	3	Animation	Comedy	Animation - Comedy					
+0625	3	Comedy	Drama	Comedy - Drama					
+0627	3	Crime	Drama	Crime - Drama					
+0629	3	Comedy	Drama	Comedy - Drama					
+0637	3	Drama	Romance	Drama - Romance					
+0639	3	Action	Adventure	Action - Adventure					
+0641	3	Drama	Mystery	Drama - Mystery					
+0642	3	Mystery	Thriller	Mystery - Thriller					
+0645	3	Drama	Thriller	Drama - Thriller					
+0647	3	Drama	Romance	Drama - Romance					
+0648	3	Adventure	Drama	Adventure - Drama					
+0649	3	Action	Scifi	Action - Scifi					
+0651	3	Adventure	Drama	Adventure - Drama					
+0653	3	Comedy	Romance	Comedy - Romance					
+0659	3	Comedy	Drama	Comedy - Drama					
+0661	3	Drama	Romance	Drama - Romance					
+0665	3	Horror	Thriller	Horror - Thriller					
+0667	3	Horror	Thriller	Horror - Thriller					
+0674	3	Biography	Drama	Biography - Drama					
+0676	3	Crime	Drama	Crime - Drama					
+0681	3	Horror	Thriller	Horror - Thriller					
+0682	3	Drama	Romance	Drama - Romance					
+0684	3	Action	Comedy	Action - Comedy					
+0686	3	Comedy	Drama	Comedy - Drama					
+0687	3	Comedy	Drama	Comedy - Drama					
+0689	3	Comedy	Romance	Comedy - Romance					
+0691	3	Comedy	Romance	Comedy - Romance					
+0694	3	Drama	Thriller	Drama - Thriller					
+0696	3	Horror	Romance	Horror - Romance					
+0697	3	Drama	Romance	Drama - Romance					
+0700	3	Comedy	Fantasy	Comedy - Fantasy					
+0702	3	Comedy	Drama	Comedy - Drama					
+0703	3	Comedy	Drama	Comedy - Drama					
+0709	3	Comedy	Sport	Comedy - Sport					
+0710	3	Biography	Drama	Biography - Drama					
+0722	3	Animation	Drama	Animation - Drama					
+0723	3	Action	Comedy	Action - Comedy					
+0728	3	Drama	Romance	Drama - Romance					
+0733	3	Comedy	Romance	Comedy - Romance					
+0734	3	Comedy	Crime	Comedy - Crime					
+0737	3	Horror	Thriller	Horror - Thriller					
+0738	3	Drama	Romance	Drama - Romance					
+0745	3	Crime	Drama	Crime - Drama					
+0749	3	Comedy	Drama	Comedy - Drama					
+0750	3	Adventure	Fantasy	Adventure - Fantasy					
+0751	3	Crime	Drama	Crime - Drama					
+0753	3	Biography	Drama	Biography - Drama					
+0756	3	Comedy	Drama	Comedy - Drama					
+0760	3	Action	Horror	Action - Horror					
+0762	3	Comedy	Romance	Comedy - Romance					
+0763	3	Biography	Drama	Biography - Drama					
+0764	3	Comedy	Romance	Comedy - Romance					
+0766	3	Drama	Thriller	Drama - Thriller					
+0770	3	Biography	Drama	Biography - Drama					
+0771	3	Comedy	Horror	Comedy - Horror					
+0778	3	Comedy	Romance	Comedy - Romance					
+0779	3	Comedy	Drama	Comedy - Drama					
+0781	3	Comedy	Fantasy	Comedy - Fantasy					
+0784	3	Comedy	Drama	Comedy - Drama					
+0785	3	Crime	Drama	Crime - Drama					
+0787	3	Drama	Musical	Drama - Musical					
+0789	3	Drama	Thriller	Drama - Thriller					
+0791	3	Drama	Romance	Drama - Romance					
+0794	3	Action	Comedy	Action - Comedy					
+0795	3	Crime	Drama	Crime - Drama					
+0797	3	Drama	Romance	Drama - Romance					
+0799	3	Action	Thriller	Action - Thriller					
+0802	3	Action	Drama	Action - Drama					
+0807	3	Adventure	Comedy	Adventure - Comedy					
+0809	3	Comedy	Drama	Comedy - Drama					
+0812	3	Comedy	Romance	Comedy - Romance					
+0813	3	Drama	Romance	Drama - Romance					
+0815	3	Comedy	Romance	Comedy - Romance					
+0821	3	Drama	Romance	Drama - Romance					
+0824	3	Drama	Romance	Drama - Romance					
+0826	3	Fantasy	Romance	Fantasy - Romance					
+0833	3	Adventure	Fantasy	Adventure - Fantasy					
+0834	3	Comedy	Romance	Comedy - Romance					
+0836	3	Drama	Thriller	Drama - Thriller					
+0837	3	Biography	Drama	Biography - Drama					
+0839	3	Comedy	Drama	Comedy - Drama					
+0842	3	Drama	Romance	Drama - Romance					
+0844	3	Comedy	Romance	Comedy - Romance					
+0845	3	Comedy	Romance	Comedy - Romance					
+0848	3	Biography	Drama	Biography - Drama					
+0849	3	Comedy	Drama	Comedy - Drama					
+0851	3	Biography	Drama	Biography - Drama					
+0852	3	Crime	Drama	Crime - Drama					
+0856	3	Drama	Romance	Drama - Romance					
+0857	3	Drama	Thriller	Drama - Thriller					
+0858	3	Comedy	Drama	Comedy - Drama					
+0862	3	Comedy	Drama	Comedy - Drama					
+0863	3	Crime	Drama	Crime - Drama					
+0873	3	Animation	Comedy	Animation - Comedy					
+0877	3	Action	Drama	Action - Drama					
+0880	3	Drama	Sport	Drama - Sport					
+0882	3	Drama	Sport	Drama - Sport					
+0885	3	Action	Drama	Action - Drama					
+0887	3	Drama	Romance	Drama - Romance					
+0892	3	Action	Horror	Action - Horror					
+0894	3	Drama	Romance	Drama - Romance					
+0898	3	Comedy	Drama	Comedy - Drama					
+0903	3	Drama	Thriller	Drama - Thriller					
+0907	3	Action	Comedy	Action - Comedy					
+0915	3	Comedy	Drama	Comedy - Drama					
+0917	3	Comedy	Romance	Comedy - Romance					
+0921	3	Drama	Thriller	Drama - Thriller					
+0922	3	Documentary	Sport	Documentary - Sport					
+0924	3	Comedy	Romance	Comedy - Romance					
+0925	3	Comedy	Romance	Comedy - Romance					
+0926	3	Comedy	Drama	Comedy - Drama					
+0928	3	Comedy	Romance	Comedy - Romance					
+0931	3	Biography	Drama	Biography - Drama					
+0937	3	Horror	Thriller	Horror - Thriller					
+0938	3	Comedy	Drama	Comedy - Drama					
+0939	3	Comedy	Scifi	Comedy - Scifi					
+0945	3	Comedy	Drama	Comedy - Drama					
+0949	3	Action	Adventure	Action - Adventure					
+0954	3	Drama	Romance	Drama - Romance					
+0955	3	Drama	Musical	Drama - Musical					
+0958	3	Drama	Thriller	Drama - Thriller					
+0962	3	Action	Comedy	Action - Comedy					
+0963	3	Crime	Scifi	Crime - Scifi					
+0964	3	Fantasy	Horror	Fantasy - Horror					
+0965	3	Drama	Romance	Drama - Romance					
+0976	3	Drama	Thriller	Drama - Thriller					
+0977	3	Comedy	Drama	Comedy - Drama					
+0980	3	Drama	Romance	Drama - Romance					
+0982	3	Drama	Thriller	Drama - Thriller					
+0983	3	Crime	Thriller	Crime - Thriller					
+0986	3	Action	Comedy	Action - Comedy					
+0987	3	Drama	Thriller	Drama - Thriller					
+0992	3	Drama	Thriller	Drama - Thriller					
+0993	3	Animation	Comedy	Animation - Comedy					
+0997	3	Comedy	Thriller	Comedy - Thriller					
+0998	3	Comedy	Drama	Comedy - Drama					
+1013	3	Drama	Scifi	Drama - Scifi					
+1015	3	Drama	Romance	Drama - Romance					
+1016	3	Comedy	Horror	Comedy - Horror					
+1018	3	Drama	Thriller	Drama - Thriller					
+1019	3	Drama	Romance	Drama - Romance					
+1020	3	Drama	Romance	Drama - Romance					
+1023	3	Comedy	Drama	Comedy - Drama					
+1031	3	Drama	Thriller	Drama - Thriller					
+1032	3	Comedy	Sport	Comedy - Sport					
+1035	3	Comedy	Drama	Comedy - Drama					
+1037	3	Action	Drama	Action - Drama					
+1038	3	Drama	Romance	Drama - Romance					
+1046	3	Comedy	Crime	Comedy - Crime					
+1050	3	Drama	War	Drama - War					
+1052	3	Comedy	Drama	Comedy - Drama					
+1055	3	Drama	Romance	Drama - Romance					
+1056	3	Drama	Romance	Drama - Romance					
+1063	3	Drama	Romance	Drama - Romance					
+1064	3	Drama	Mystery	Drama - Mystery					
+1072	3	Animation	Musical	Animation - Musical					
+1074	3	Drama	Thriller	Drama - Thriller					
+1075	3	Comedy	Crime	Comedy - Crime					
+1086	3	Horror	Thriller	Horror - Thriller					
+1088	3	Drama	Sport	Drama - Sport					
+1089	3	Crime	Drama	Crime - Drama					
+1090	3	Comedy	Drama	Comedy - Drama					
+1094	3	Adventure	Fantasy	Adventure - Fantasy					
+1103	3	Crime	Drama	Crime - Drama					
+1106	3	Drama	Romance	Drama - Romance					
+1107	3	Comedy	Drama	Comedy - Drama					
+1109	3	Horror	Thriller	Horror - Thriller					
+1110	3	Drama	Romance	Drama - Romance					
+1111	3	Drama	Romance	Drama - Romance					
+1113	3	Horror	Thriller	Horror - Thriller					
+1118	3	Comedy	Drama	Comedy - Drama					
+1123	3	Biography	Drama	Biography - Drama					
+1124	3	Comedy	Drama	Comedy - Drama					
+1128	3	Comedy	Sport	Comedy - Sport					
+1130	3	Action	Drama	Action - Drama					
+1133	3	Comedy	Romance	Comedy - Romance					
+1136	3	Drama	Sport	Drama - Sport					
+1138	3	Drama	Thriller	Drama - Thriller					
+1141	3	Comedy	Drama	Comedy - Drama					
+1142	3	Drama	Sport	Drama - Sport					
+1145	3	Horror	Thriller	Horror - Thriller					
+1147	3	Comedy	Crime	Comedy - Crime					
+1148	3	Comedy	Documentary	Comedy - Documentary					
+1152	3	Comedy	Drama	Comedy - Drama					
+1153	3	Horror	Thriller	Horror - Thriller					
+1154	3	Crime	Drama	Crime - Drama					
+1159	3	Adventure	Drama	Adventure - Drama					
+1162	3	Scifi	Sport	Scifi - Sport					
+1164	3	Drama	Romance	Drama - Romance					
+1166	3	Biography	Drama	Biography - Drama					
+1167	3	Action	Drama	Action - Drama					
+1171	3	Drama	Romance	Drama - Romance					
+1175	3	Crime	Drama	Crime - Drama					
+1177	3	Comedy	Romance	Comedy - Romance					
+1185	3	Drama	Romance	Drama - Romance					
+1186	3	Comedy	Drama	Comedy - Drama					
+1190	3	Comedy	Drama	Comedy - Drama					
+1191	3	Drama	Fantasy	Drama - Fantasy					
+1197	3	Drama	Sport	Drama - Sport					
+1201	3	Comedy	Romance	Comedy - Romance					
+1202	3	Biography	Drama	Biography - Drama					
+1203	3	Comedy	Sport	Comedy - Sport					
+1204	3	Comedy	Romance	Comedy - Romance					
+1208	3	Biography	Drama	Biography - Drama					
+1210	3	Adventure	Drama	Adventure - Drama					
+1211	3	Action	Horror	Action - Horror					
+1223	3	Comedy	Horror	Comedy - Horror					
+1224	3	Drama	Horror	Drama - Horror					
+1230	3	Comedy	Drama	Comedy - Drama					
+1235	3	Comedy	Drama	Comedy - Drama					
+1238	3	Action	Horror	Action - Horror					
+1245	3	Comedy	Romance	Comedy - Romance					
+1246	3	Comedy	Romance	Comedy - Romance					
+1256	3	Comedy	Horror	Comedy - Horror					
+1260	3	Biography	Documentary	Biography - Documentary					
+1263	3	Biography	Drama	Biography - Drama					
+1269	3	Comedy	Drama	Comedy - Drama					
+1273	3	Drama	Thriller	Drama - Thriller					
+1274	3	Crime	Romance	Crime - Romance					
+1279	3	Comedy	Drama	Comedy - Drama					
+1280	3	Horror	Thriller	Horror - Thriller					
+1284	3	Adventure	Drama	Adventure - Drama					
+1285	3	Drama	Romance	Drama - Romance					
+1286	3	Comedy	Romance	Comedy - Romance					
+1292	3	Comedy	Romance	Comedy - Romance					
+1298	3	Drama	Musical	Drama - Musical					
+1305	3	Comedy	Romance	Comedy - Romance					
+1306	3	Drama	Thriller	Drama - Thriller					
+1307	3	Action	Sport	Action - Sport					
+1310	3	Drama	Fantasy	Drama - Fantasy					
+1314	3	Adventure	Animation	Adventure - Animation					
+1321	3	Drama	Romance	Drama - Romance					
+1322	3	Biography	Drama	Biography - Drama					
+1324	3	Adventure	Scifi	Adventure - Scifi					
+1335	3	Documentary	Sport	Documentary - Sport					
+1336	3	Drama	Romance	Drama - Romance					
+1339	3	Horror	Thriller	Horror - Thriller					
+1340	3	Action	Comedy	Action - Comedy					
+1347	3	Crime	Drama	Crime - Drama					
+1351	3	Comedy	Fantasy	Comedy - Fantasy					
+1353	3	Drama	Thriller	Drama - Thriller					
+1356	3	Drama	Romance	Drama - Romance					
+1357	3	Drama	Thriller	Drama - Thriller					
+1362	3	Animation	Drama	Animation - Drama					
+1364	3	Scifi	Thriller	Scifi - Thriller					
+1370	3	Comedy	Drama	Comedy - Drama					
+1371	3	Mystery	Thriller	Mystery - Thriller					
+1375	3	Action	Drama	Action - Drama					
+1381	3	Comedy	Drama	Comedy - Drama					
+1384	3	Action	Thriller	Action - Thriller					
+1385	3	Action	Thriller	Action - Thriller					
+1389	3	Drama	Scifi	Drama - Scifi					
+1391	3	Biography	Documentary	Biography - Documentary					
+1392	3	Action	Drama	Action - Drama					
+1395	3	Comedy	Fantasy	Comedy - Fantasy					
+1397	3	Comedy	Horror	Comedy - Horror					
+1400	3	Crime	Drama	Crime - Drama					
+1403	3	Drama	Romance	Drama - Romance					
+1404	3	Comedy	Drama	Comedy - Drama					
+1405	3	Comedy	Horror	Comedy - Horror					
+1407	3	Mystery	Thriller	Mystery - Thriller					
+1409	3	Comedy	Romance	Comedy - Romance					
+1412	3	Biography	Drama	Biography - Drama					
+1414	3	Comedy	Romance	Comedy - Romance					
+1415	3	Drama	Thriller	Drama - Thriller					
+1419	3	Action	Thriller	Action - Thriller					
+1421	3	Biography	Drama	Biography - Drama					
+1422	3	Action	Adventure	Action - Adventure					
+1423	3	Comedy	Romance	Comedy - Romance					
+1424	3	Drama	Romance	Drama - Romance					
+1426	3	Comedy	Musical	Comedy - Musical					
+1429	3	Comedy	Romance	Comedy - Romance					
+1430	3	Comedy	Musical	Comedy - Musical					
+1431	3	Comedy	Drama	Comedy - Drama					
+1434	3	Drama	Thriller	Drama - Thriller					
+1435	3	Comedy	Drama	Comedy - Drama					
+1438	3	Comedy	Drama	Comedy - Drama					
+1441	3	Comedy	Horror	Comedy - Horror					
+1447	3	Comedy	Drama	Comedy - Drama					
+1453	3	Comedy	Drama	Comedy - Drama					
+1456	3	Drama	Romance	Drama - Romance					
+1457	3	Horror	Thriller	Horror - Thriller					
+1460	3	Drama	Sport	Drama - Sport					
+1461	3	Drama	Sport	Drama - Sport					
+1465	3	Comedy	Drama	Comedy - Drama					
+1470	3	Fantasy	Horror	Fantasy - Horror					
+1472	3	Comedy	Horror	Comedy - Horror					
+1480	3	Comedy	Romance	Comedy - Romance					
+1481	3	Animation	Comedy	Animation - Comedy					
+1484	3	Drama	Romance	Drama - Romance					
+1485	3	Crime	Drama	Crime - Drama					
+1497	3	Drama	Thriller	Drama - Thriller					
+1501	3	Drama	Romance	Drama - Romance					
+1505	3	Biography	Documentary	Biography - Documentary					
+1511	3	Biography	Drama	Biography - Drama					
+1513	3	Horror	Thriller	Horror - Thriller					
+1518	3	Drama	Thriller	Drama - Thriller					
+1521	3	Comedy	Romance	Comedy - Romance					
+1524	3	Scifi	Thriller	Scifi - Thriller					
+1525	3	Horror	Thriller	Horror - Thriller					
+1526	3	Drama	Thriller	Drama - Thriller					
+1527	3	Horror	Thriller	Horror - Thriller					
+1528	3	Comedy	Drama	Comedy - Drama					
+1533	3	Adventure	Drama	Adventure - Drama					
+1537	3	Comedy	Sport	Comedy - Sport					
+1538	3	Drama	Romance	Drama - Romance					
+1545	3	Crime	Drama	Crime - Drama					
+1553	3	Horror	Thriller	Horror - Thriller					
+1559	3	Drama	Thriller	Drama - Thriller					
+1563	3	Drama	Romance	Drama - Romance					
+1564	3	Adventure	Drama	Adventure - Drama					
+1565	3	Horror	Thriller	Horror - Thriller					
+1566	3	Comedy	Drama	Comedy - Drama					
+1567	3	Adult	Comedy	Adult - Comedy					
+1571	3	Drama	Romance	Drama - Romance					
+1577	3	Drama	Horror	Drama - Horror					
+1582	3	Biography	Drama	Biography - Drama					
+1583	3	Drama	Thriller	Drama - Thriller					
+1584	3	Drama	Thriller	Drama - Thriller					
+1594	3	Action	Sport	Action - Sport					
+1598	3	Drama	Thriller	Drama - Thriller					
+1601	3	Comedy	Crime	Comedy - Crime					
+1606	3	Comedy	Drama	Comedy - Drama					
+1607	3	Horror	Thriller	Horror - Thriller					
+1610	3	Drama	Romance	Drama - Romance					
+1611	3	Animation	Fantasy	Animation - Fantasy					
+1612	3	Drama	Thriller	Drama - Thriller					
+1616	3	Drama	Thriller	Drama - Thriller					
+1622	3	Adventure	Drama	Adventure - Drama					
+1623	3	Adventure	Comedy	Adventure - Comedy					
+1624	3	Crime	Thriller	Crime - Thriller					
+1627	3	Action	Adventure	Action - Adventure					
+1630	3	Action	Drama	Action - Drama					
+1631	3	Drama	Sport	Drama - Sport					
+1633	3	Adventure	Scifi	Adventure - Scifi					
+1636	3	Drama	Romance	Drama - Romance					
+1641	3	Animation	Musical	Animation - Musical					
+1642	3	Action	Adventure	Action - Adventure					
+1645	3	Comedy	Romance	Comedy - Romance					
+1646	3	Comedy	Scifi	Comedy - Scifi					
+1648	3	Drama	Romance	Drama - Romance					
+1651	3	Biography	Drama	Biography - Drama					
+1652	3	Drama	Fantasy	Drama - Fantasy					
+1653	3	Action	Thriller	Action - Thriller					
+1655	3	Comedy	Musical	Comedy - Musical					
+1659	3	Drama	Thriller	Drama - Thriller					
+1663	3	Drama	Romance	Drama - Romance					
+1665	3	Horror	Mystery	Horror - Mystery					
+1667	3	Comedy	Scifi	Comedy - Scifi					
+1672	3	Action	Comedy	Action - Comedy					
+1674	3	Drama	Romance	Drama - Romance					
+1675	3	Action	Thriller	Action - Thriller					
+1677	3	Drama	Romance	Drama - Romance					
+1679	3	Comedy	Crime	Comedy - Crime					
+1681	3	Comedy	Drama	Comedy - Drama					
+1684	3	Drama	Romance	Drama - Romance					
+1685	3	Comedy	Romance	Comedy - Romance					
+1686	3	Comedy	Romance	Comedy - Romance					
+1696	3	Biography	Drama	Biography - Drama					
+1697	3	Biography	Drama	Biography - Drama					
+1698	3	Drama	Thriller	Drama - Thriller					
+1707	3	Drama	Documentary	Drama - Documentary					
+1711	3	Drama	Romance	Drama - Romance					
+1713	3	Drama	Thriller	Drama - Thriller					
+1714	3	Drama	Romance	Drama - Romance					
+1718	3	Comedy	Romance	Comedy - Romance					
+1721	3	Drama	Romance	Drama - Romance					
+1722	3	Action	Drama	Action - Drama					
+1724	3	Action	Comedy	Action - Comedy					
+1726	3	Comedy	Drama	Comedy - Drama					
+1729	3	Comedy	Drama	Comedy - Drama					
+1731	3	Comedy	Drama	Comedy - Drama					
+1732	3	Action	Drama	Action - Drama					
+1733	3	Adventure	Comedy	Adventure - Comedy					
+1735	3	Action	Comedy	Action - Comedy					
+1740	3	Animation	Comedy	Animation - Comedy					
+1743	3	Drama	Mystery	Drama - Mystery					
+1744	3	Adventure	Drama	Adventure - Drama					
+1749	3	Adventure	Drama	Adventure - Drama					
+1752	3	Action	Comedy	Action - Comedy					
+1761	3	Drama	Horror	Drama - Horror					
+1763	3	Drama	Thriller	Drama - Thriller					
+1773	3	Comedy	Mystery	Comedy - Mystery					
+1775	3	Comedy	Drama	Comedy - Drama					
+1777	3	Comedy	Drama	Comedy - Drama					
+1781	3	Mystery	Thriller	Mystery - Thriller					
+1782	3	Comedy	Romance	Comedy - Romance					
+1785	3	Comedy	Drama	Comedy - Drama					
+1786	3	Adventure	Fantasy	Adventure - Fantasy					
+1788	3	Drama	Romance	Drama - Romance					
+1790	3	Drama	Thriller	Drama - Thriller					
+1791	3	Horror	Thriller	Horror - Thriller					
+1793	3	Mystery	Scifi	Mystery - Scifi					
+1794	3	Drama	Romance	Drama - Romance					
+1795	3	Drama	Romance	Drama - Romance					
+1796	3	Crime	Drama	Crime - Drama					
+1797	3	Drama	Romance	Drama - Romance					
+1800	3	Drama	Musical	Drama - Musical					
+1801	3	Comedy	Romance	Comedy - Romance					
+1809	3	Action	Comedy	Action - Comedy					
+1810	3	Comedy	Drama	Comedy - Drama					
+1811	3	Comedy	Crime	Comedy - Crime					
+1814	3	Drama	War	Drama - War					
+1818	3	Drama	Romance	Drama - Romance					
+1822	3	Drama	Scifi	Drama - Scifi					
+1823	3	Drama	Horror	Drama - Horror					
+1825	3	Horror	Thriller	Horror - Thriller					
+1829	3	Mystery	Thriller	Mystery - Thriller					
+1830	3	Action	Drama	Action - Drama					
+1831	3	Crime	Drama	Crime - Drama					
+1833	3	Comedy	Crime	Comedy - Crime					
+1834	3	Horror	Thriller	Horror - Thriller					
+1839	3	Comedy	Crime	Comedy - Crime					
+1844	3	Adventure	Comedy	Adventure - Comedy					
+1848	3	Action	Thriller	Action - Thriller					
+1856	3	Comedy	Drama	Comedy - Drama					
+1857	3	Comedy	Romance	Comedy - Romance					
+1858	3	Drama	Romance	Drama - Romance					
+1860	3	Action	Drama	Action - Drama					
+1862	3	Action	Thriller	Action - Thriller					
+1866	3	Action	Adventure	Action - Adventure					
+1870	3	Action	Comedy	Action - Comedy					
+1874	3	Drama	Thriller	Drama - Thriller					
+1876	3	Comedy	Drama	Comedy - Drama					
+1879	3	Horror	Thriller	Horror - Thriller					
+1882	3	Fantasy	Horror	Fantasy - Horror					
+1884	3	Action	Drama	Action - Drama					
+1885	3	Drama	Romance	Drama - Romance					
+1886	3	Drama	Thriller	Drama - Thriller					
+1889	3	Crime	Drama	Crime - Drama					
+1892	3	Comedy	Thriller	Comedy - Thriller					
+1897	3	Horror	Scifi	Horror - Scifi					
+1900	3	Comedy	Drama	Comedy - Drama					
+1902	3	Comedy	Drama	Comedy - Drama					
+1908	3	Drama	Thriller	Drama - Thriller					
+1910	3	Drama	Romance	Drama - Romance					
+1912	3	Comedy	Horror	Comedy - Horror					
+1914	3	Comedy	Romance	Comedy - Romance					
+1915	3	Adventure	Comedy	Adventure - Comedy					
+1918	3	Biography	Drama	Biography - Drama					
+1921	3	Drama	Thriller	Drama - Thriller					
+1926	3	Comedy	Romance	Comedy - Romance					
+1928	3	Adventure	Drama	Adventure - Drama					
+1936	3	Comedy	Fantasy	Comedy - Fantasy					
+1938	3	Drama	Romance	Drama - Romance					
+1939	3	Drama	Romance	Drama - Romance					
+1940	3	Comedy	Romance	Comedy - Romance					
+1941	3	Action	Thriller	Action - Thriller					
+1942	3	Action	Drama	Action - Drama					
+1943	3	Action	Scifi	Action - Scifi					
+1946	3	Crime	Drama	Crime - Drama					
+1947	3	Comedy	Fantasy	Comedy - Fantasy					
+1948	3	Biography	Horror	Biography - Horror					
+1950	3	Comedy	Romance	Comedy - Romance					
+1951	3	Comedy	Romance	Comedy - Romance					
+1954	3	Action	Adventure	Action - Adventure					
+1955	3	Drama	Sport	Drama - Sport					
+1956	3	Horror	Mystery	Horror - Mystery					
+1959	3	Horror	Romance	Horror - Romance					
+1961	3	Mystery	Thriller	Mystery - Thriller					
+1968	3	Horror	Thriller	Horror - Thriller					
+1971	3	Comedy	Drama	Comedy - Drama					
+1974	3	Horror	Thriller	Horror - Thriller					
+1976	3	Comedy	Drama	Comedy - Drama					
+1981	3	Drama	Romance	Drama - Romance					
+1982	3	Biography	Western	Biography - Western					
+1985	3	Drama	Romance	Drama - Romance					
+1986	3	Comedy	Thriller	Comedy - Thriller					
+1990	3	Action	Drama	Action - Drama					
+1992	3	Comedy	Romance	Comedy - Romance					
+1995	3	Comedy	Horror	Comedy - Horror					
+1996	3	Comedy	Horror	Comedy - Horror					
+1999	3	Comedy	Drama	Comedy - Drama					
+0001	1	Drama							
+0005	1	Thriller							
+0007	1	Comedy							
+0009	1	Drama							
+0018	1	Drama							
+0020	1	Animation							
+0022	1	Comedy							
+0023	1	Drama							
+0035	1	Comedy							
+0036	1	Comedy							
+0040	1	Thriller							
+0042	1	Comedy							
+0043	1	Horror							
+0047	1	Comedy							
+0065	1	Comedy							
+0068	1	Documentary							
+0069	1	Drama							
+0073	1	Comedy							
+0075	1	Comedy							
+0096	1	Adventure							
+0099	1	Comedy							
+0100	1	Documentary							
+0103	1	Comedy							
+0107	1	Horror							
+0110	1	Comedy							
+0117	1	Adventure							
+0120	1	Comedy							
+0122	1	Comedy							
+0127	1	Horror							
+0131	1	Horror							
+0141	1	Comedy							
+0143	1	Comedy							
+0146	1	Action							
+0158	1	Comedy							
+0159	1	Comedy							
+0160	1	Horror							
+0165	1	Comedy							
+0168	1	Comedy							
+0173	1	Drama							
+0188	1	Documentary							
+0189	1	Horror							
+0193	1	Drama							
+0198	1	Documentary							
+0199	1	Drama							
+0202	1	Comedy							
+0205	1	Drama							
+0206	1	Comedy							
+0213	1	Comedy							
+0228	1	Horror							
+0239	1	Adult							
+0246	1	Documentary							
+0250	1	Adult							
+0255	1	Comedy							
+0256	1	Comedy							
+0257	1	Horror							
+0260	1	Comedy							
+0261	1	Comedy							
+0266	1	Drama							
+0268	1	Comedy							
+0269	1	Comedy							
+0271	1	Drama							
+0278	1	Comedy							
+0279	1	Comedy							
+0284	1	Comedy							
+0286	1	Comedy							
+0288	1	Comedy							
+0296	1	Drama							
+0300	1	Comedy							
+0302	1	Drama							
+0303	1	Comedy							
+0304	1	Comedy							
+0306	1	Comedy							
+0312	1	Comedy							
+0318	1	Comedy							
+0319	1	Adventure							
+0323	1	Documentary							
+0325	1	Drama							
+0328	1	Horror							
+0329	1	Comedy							
+0336	1	Drama							
+0343	1	Comedy							
+0345	1	Documentary							
+0350	1	Drama							
+0351	1	Drama							
+0361	1	Drama							
+0366	1	Adventure							
+0371	1	Comedy							
+0374	1	Comedy							
+0376	1	Comedy							
+0378	1	Drama							
+0380	1	Comedy							
+0384	1	Animation							
+0398	1	Adventure							
+0404	1	Documentary							
+0406	1	Comedy							
+0413	1	Comedy							
+0424	1	Horror							
+0425	1	Adventure							
+0426	1	Horror							
+0428	1	Drama							
+0431	1	Comedy							
+0433	1	Comedy							
+0445	1	Drama							
+0446	1	Comedy							
+0447	1	Comedy							
+0448	1	Comedy							
+0450	1	Comedy							
+0458	1	Documentary							
+0460	1	Drama							
+0461	1	Drama							
+0468	1	Drama							
+0470	1	Comedy							
+0473	1	Comedy							
+0478	1	Drama							
+0481	1	Drama							
+0482	1	Drama							
+0493	1	Comedy							
+0495	1	Drama							
+0496	1	Adventure							
+0501	1	Drama							
+0503	1	Documentary							
+0507	1	Comedy							
+0515	1	Drama							
+0516	1	Comedy							
+0522	1	Drama							
+0524	1	Horror							
+0526	1	Drama							
+0538	1	Comedy							
+0543	1	Drama							
+0548	1	Documentary							
+0551	1	Comedy							
+0552	1	Documentary							
+0564	1	Drama							
+0567	1	Drama							
+0579	1	Comedy							
+0580	1	Horror							
+0582	1	Comedy							
+0584	1	Horror							
+0592	1	Drama							
+0594	1	Drama							
+0597	1	Comedy							
+0598	1	Horror							
+0601	1	Drama							
+0602	1	Comedy							
+0605	1	Comedy							
+0607	1	Comedy							
+0608	1	Drama							
+0610	1	Comedy							
+0612	1	Animation							
+0617	1	Comedy							
+0620	1	Drama							
+0622	1	Drama							
+0633	1	Documentary							
+0638	1	Drama							
+0640	1	Drama							
+0644	1	Drama							
+0655	1	Drama							
+0656	1	Drama							
+0658	1	Horror							
+0663	1	Drama							
+0671	1	Drama							
+0672	1	Documentary							
+0680	1	Drama							
+0685	1	Drama							
+0708	1	Comedy							
+0714	1	Documentary							
+0715	1	Comedy							
+0719	1	Drama							
+0721	1	Drama							
+0724	1	Comedy							
+0725	1	Documentary							
+0726	1	Comedy							
+0727	1	Horror							
+0729	1	Comedy							
+0732	1	Drama							
+0735	1	Thriller							
+0743	1	Comedy							
+0744	1	Romance							
+0746	1	Comedy							
+0747	1	Drama							
+0748	1	Musical							
+0752	1	Comedy							
+0758	1	Drama							
+0761	1	Drama							
+0768	1	Drama							
+0769	1	Comedy							
+0776	1	Drama							
+0783	1	Drama							
+0786	1	Comedy							
+0796	1	Drama							
+0803	1	Drama							
+0804	1	Comedy							
+0814	1	Comedy							
+0816	1	Comedy							
+0819	1	Drama							
+0820	1	Animation							
+0822	1	Adventure							
+0827	1	Comedy							
+0828	1	Comedy							
+0835	1	Drama							
+0840	1	Musical							
+0841	1	Drama							
+0846	1	Drama							
+0850	1	Drama							
+0859	1	Comedy							
+0864	1	Comedy							
+0866	1	Documentary							
+0867	1	Drama							
+0868	1	Comedy							
+0870	1	Comedy							
+0883	1	Drama							
+0884	1	Comedy							
+0886	1	Drama							
+0888	1	Comedy							
+0889	1	Drama							
+0899	1	Documentary							
+0900	1	Drama							
+0906	1	Drama							
+0908	1	Comedy							
+0909	1	Comedy							
+0910	1	Comedy							
+0912	1	Drama							
+0914	1	Comedy							
+0927	1	Comedy							
+0929	1	Comedy							
+0935	1	Comedy							
+0936	1	Drama							
+0940	1	Comedy							
+0943	1	Comedy							
+0944	1	Comedy							
+0952	1	Drama							
+0959	1	Drama							
+0961	1	Drama							
+0967	1	Comedy							
+0970	1	Horror							
+0973	1	Drama							
+0974	1	Drama							
+0979	1	Comedy							
+0985	1	Drama							
+0991	1	Horror							
+0994	1	Comedy							
+1000	1	Comedy							
+1003	1	Drama							
+1004	1	Drama							
+1006	1	Comedy							
+1007	1	Drama							
+1008	1	Comedy							
+1009	1	Comedy							
+1021	1	Drama							
+1024	1	Drama							
+1025	1	Drama							
+1028	1	Drama							
+1039	1	Drama							
+1040	1	Fantasy							
+1043	1	Drama							
+1044	1	Drama							
+1045	1	Horror							
+1047	1	Drama							
+1051	1	Comedy							
+1053	1	Comedy							
+1068	1	Drama							
+1070	1	Comedy							
+1078	1	Animation							
+1083	1	Drama							
+1085	1	Drama							
+1087	1	Drama							
+1091	1	Drama							
+1096	1	Adventure							
+1097	1	Comedy							
+1100	1	Drama							
+1101	1	Comedy							
+1104	1	Horror							
+1105	1	Horror							
+1112	1	Drama							
+1115	1	Drama							
+1117	1	Drama							
+1129	1	Drama							
+1131	1	Action							
+1132	1	Drama							
+1134	1	Thriller							
+1150	1	Drama							
+1160	1	Comedy							
+1168	1	Comedy							
+1172	1	Drama							
+1174	1	Drama							
+1176	1	Drama							
+1178	1	Drama							
+1179	1	Drama							
+1180	1	Drama							
+1184	1	Drama							
+1189	1	Horror							
+1193	1	Comedy							
+1199	1	Drama							
+1205	1	Drama							
+1206	1	Drama							
+1207	1	Drama							
+1215	1	Drama							
+1217	1	Comedy							
+1218	1	Drama							
+1225	1	Comedy							
+1229	1	Action							
+1232	1	Horror							
+1242	1	Drama							
+1243	1	Drama							
+1247	1	Comedy							
+1259	1	Drama							
+1262	1	Thriller							
+1264	1	Horror							
+1265	1	Horror							
+1266	1	Horror							
+1267	1	Horror							
+1268	1	Action							
+1270	1	Drama							
+1277	1	Horror							
+1278	1	Documentary							
+1282	1	Horror							
+1288	1	Drama							
+1289	1	Drama							
+1293	1	Horror							
+1295	1	Comedy							
+1301	1	Comedy							
+1303	1	Drama							
+1313	1	Drama							
+1316	1	Comedy							
+1317	1	Horror							
+1318	1	Comedy							
+1319	1	Drama							
+1330	1	Documentary							
+1337	1	Comedy							
+1338	1	Comedy							
+1342	1	Drama							
+1343	1	Comedy							
+1349	1	Comedy							
+1354	1	Thriller							
+1355	1	Drama							
+1359	1	Documentary							
+1365	1	Comedy							
+1366	1	Comedy							
+1367	1	Comedy							
+1368	1	Comedy							
+1374	1	Drama							
+1376	1	Drama							
+1379	1	Comedy							
+1387	1	Horror							
+1388	1	Drama							
+1406	1	Documentary							
+1410	1	Documentary							
+1411	1	Drama							
+1416	1	Comedy							
+1417	1	Comedy							
+1420	1	Drama							
+1432	1	Comedy							
+1436	1	Drama							
+1444	1	Horror							
+1449	1	Drama							
+1454	1	Comedy							
+1462	1	Drama							
+1463	1	Drama							
+1467	1	Drama							
+1468	1	Drama							
+1469	1	Drama							
+1473	1	Documentary							
+1479	1	Comedy							
+1482	1	Drama							
+1483	1	Comedy							
+1486	1	Drama							
+1489	1	Comedy							
+1491	1	Documentary							
+1500	1	Drama							
+1502	1	Drama							
+1507	1	Drama							
+1532	1	Comedy							
+1535	1	Comedy							
+1536	1	Comedy							
+1539	1	Horror							
+1544	1	Drama							
+1546	1	Drama							
+1550	1	Comedy							
+1552	1	Comedy							
+1556	1	Documentary							
+1557	1	Drama							
+1558	1	Horror							
+1560	1	Comedy							
+1568	1	Horror							
+1570	1	Adventure							
+1575	1	Horror							
+1587	1	Comedy							
+1592	1	Drama							
+1595	1	Drama							
+1596	1	Drama							
+1597	1	Drama							
+1599	1	Drama							
+1605	1	Documentary							
+1608	1	Drama							
+1613	1	Drama							
+1614	1	Drama							
+1619	1	Animation							
+1621	1	Drama							
+1628	1	Comedy							
+1629	1	Comedy							
+1634	1	Thriller							
+1638	1	Comedy							
+1643	1	Horror							
+1644	1	Adventure							
+1650	1	Drama							
+1666	1	Drama							
+1668	1	Mystery							
+1671	1	Romance							
+1683	1	Drama							
+1688	1	Drama							
+1690	1	Musical							
+1694	1	Action							
+1695	1	Action							
+1699	1	Drama							
+1701	1	Drama							
+1708	1	Drama							
+1710	1	Drama							
+1716	1	Horror							
+1725	1	Horror							
+1736	1	Comedy							
+1737	1	Comedy							
+1739	1	Horror							
+1753	1	Drama							
+1754	1	Drama							
+1758	1	Drama							
+1759	1	Thriller							
+1764	1	Comedy							
+1767	1	Drama							
+1769	1	Horror							
+1771	1	Comedy							
+1772	1	Horror							
+1774	1	Drama							
+1778	1	Drama							
+1779	1	Thriller							
+1783	1	Drama							
+1789	1	Drama							
+1798	1	Horror							
+1802	1	Comedy							
+1803	1	Crime							
+1804	1	Drama							
+1805	1	Drama							
+1806	1	Comedy							
+1807	1	Drama							
+1808	1	Documentary							
+1820	1	Drama							
+1832	1	Comedy							
+1840	1	Comedy							
+1846	1	Comedy							
+1852	1	Documentary							
+1853	1	Comedy							
+1859	1	Horror							
+1864	1	Comedy							
+1867	1	Horror							
+1872	1	Horror							
+1873	1	Horror							
+1875	1	Comedy							
+1877	1	Drama							
+1878	1	Comedy							
+1880	1	Drama							
+1881	1	Comedy							
+1887	1	Comedy							
+1891	1	Documentary							
+1896	1	Drama							
+1901	1	Biography							
+1903	1	Comedy							
+1906	1	Comedy							
+1907	1	Comedy							
+1913	1	Comedy							
+1929	1	Adventure							
+1932	1	Drama							
+1933	1	Drama							
+1934	1	Drama							
+1935	1	Comedy							
+1945	1	Drama							
+1952	1	Comedy							
+1957	1	Horror							
+1958	1	Horror							
+1966	1	Comedy							
+1975	1	Comedy							
+1978	1	Comedy							
+1980	1	Horror							
+1983	1	Drama							
+1988	1	Documentary							
+1989	1	Comedy							
+1991	1	Drama							
+1997	1	Thriller							
+1998	1	Horror							
+0063	0	<NULL>							
+0162	0	<NULL>							
+0292	0	<NULL>							
+0518	0	<NULL>							
+0590	0	<NULL>							
+0662	0	<NULL>							
+0678	0	<NULL>							
+0693	0	<NULL>							
+0711	0	<NULL>							
+0829	0	<NULL>							
+0830	0	<NULL>							
+0831	0	<NULL>							
+0901	0	<NULL>							
+0969	0	<NULL>							
+1002	0	<NULL>							
+1030	0	<NULL>							
+1076	0	<NULL>							
+1098	0	<NULL>							
+1228	0	<NULL>							
+1493	0	<NULL>							
+1580	0	<NULL>							
+1609	0	<NULL>							
+1625	0	<NULL>							
+1637	0	<NULL>							
+1745	0	<NULL>							
+1963	0	<NULL>							
