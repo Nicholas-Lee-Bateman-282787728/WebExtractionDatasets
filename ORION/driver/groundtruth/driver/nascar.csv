@@ -1,0 +1,327 @@
+url,name,firstname,pob,age
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607412.html,Bowman,Alex,"Tucson, Arizona",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607422.html,Wallace,Kenny,"St. Louis, Missouri",50
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607426.html,Keselowski,Brad,"Rochester Hills, Michigan",29
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607430.html,Admiraal,Kelly,"Slave Lake, Canada",18
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607441.html,Crafton,Matt,"Tulare, California",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607443.html,Neuenberger,Brad,"Brandywine, Maryland",51
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607446.html,O'Connell,Johnny,"Poughkeepsie, New York",51
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607449.html,McMurray,Jamie,"Joplin, Missouri",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607454.html,McClure,Eric,"Chilhowie, Virginia",35
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607455.html,Johnson,Jimmie,"El Cajon, California",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607456.html,Bowles,Jason,"Ontario, California",31
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607459.html,Armstrong,Dakoda,"New Castle, Indiana",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607462.html,Lepage,Josh,"Shelburne, Vermont",51
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607470.html,Darnell,Erik,"Beach Park, Illinois",31
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607471.html,"Wallace, Jr",Darrell,"Mobile, Alabama",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607472.html,Silas,Bryan,"Stuart, Florida",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607474.html,DiBenedetto,Matt,"Grass Valley, California",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607475.html,Whitt,Cole,"Alpine, California",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607477.html,Kelley,Kyle,"Huntington Beach, California",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607478.html,Kennedy,Alex,"Aztec, New Mexico",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607485.html,McDowell,Michael,"Glendale, Arizona",29
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607486.html,Long,Johanna,"Pensacola, Florida",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607495.html,Kelly,Owen,"Tasmania, Australia",36
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607496.html,Shepherd,Morgan,"Ferguson, North Carolina",72
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607502.html,Buescher,Chris,"Prosper, Texas",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607504.html,Hamlin,Denny,"Chesterfield, Virginia",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607506.html,Vickers,Brian,"Thomasville, North Carolina",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607510.html,Green,David,"Owensboro, Kentucky",55
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607515.html,Kahne,Kasey,"Enumclaw, Washington",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607520.html,Swindell,Mason,"Germantown, Tennessee",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607521.html,Carlos Blum,Juan,"Guadalajara, Mexico",19
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607523.html,Harmon,Mike,"Birmingport, Alabama",55
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607524.html,Danielsson,Alx,"Ostersund, Sweden",32
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607526.html,White,Derek,"Kahnawake, Canada",43
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607536.html,Hackenbracht,Chad,"New Philadelphia, Ohio",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607540.html,Allmendinger,AJ,"Los Gatos, California",32
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607543.html,Gandon,Anthony,"Bayonne, France",35
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607545.html,Ragan,David,"Unadilla, Georgia",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607548.html,Ambrose,Marcos,"Launceston, Australia",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607551.html,Wallace,Mike,"St. Louis, Missouri",54
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607553.html,Cope,Derrike,"Spanaway, Washington",55
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607555.html,Ranger,Andrew,"Roxton Pond, Quebec, Canada",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607558.html,Logano,Joey,"Middletown, Connecticut",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607559.html,Green,Jeff,"Owensboro, Kentucky",51
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607562.html,Annett,Michael,"Des Moines, Iowa",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607564.html,Papis,Max,"Como, Italy",44
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607567.html,Busch,Kurt,"Las Vegas, Nevada",35
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607568.html,"Piquet, Jr",Nelson,"Brasilia, Brazil",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607570.html,Richards,Kevin,"Shinnston, West Virginia",25
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607574.html,Coulter,Joey,"Miami Springs, Florida",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607578.html,Gaughan,Brendan,"Las Vegas, Nevada",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607580.html,Sweet,Brad,"Grass Valley, California",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/607583.html,Patrick,Danica,"Roscoe, Illinois",31
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608381.html,White,Jason,"Richmond, Virginia",34
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608390.html,Gordon,Benny,"DuBois, Pennsylvania",43
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608395.html,Wise,Josh,"Riverside, California",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608400.html,Habul,Kenny,"Etobicoke, Canada",40
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608404.html,Johnson,Billy,"Torrance, California",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608407.html,Long,Carl,"Roxboro, North Carolina",46
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608409.html,Clements,Jeremy,"Spartanburg, South Carolina",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608423.html,Young,John,"Discovery Bay, California",45
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608434.html,Teague,Brad,"Johnson City, Tennessee",66
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608437.html,Nemechek,Joe,"Lakeland, Florida",50
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608448.html,Harvick,Kevin,"Bakersfield, California",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/608452.html,Buescher,James,"Plano, Texas",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609305.html,Dillon,Austin,"Welcome, North Carolina",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609310.html,Larson,Kyle,"Elk Grove, California",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609314.html,Stacey,Dexter,"Quebec, Canada",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609316.html,Dick,Jamie,"El Paso, Texas",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609319.html,Sadler,Elliott,"Emporia, Virginia",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609321.html,Busch,Kyle,"Las Vegas, Nevada",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609329.html,Fowler,Kyle,"Smyrna, Georgia",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609331.html,Butler,Ken,"Lilburn, Georgia",31
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609333.html,Dufault,Maryeve,"Sorel, Canada",31
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609335.html,Lewandoski,Charles,"Stafford Springs, Connecticut",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609337.html,Paludo,Miguel,"Nova Prata, Brazil",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609341.html,Scott,Brian,"Boise, Idaho",25
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609344.html,Earnhardt,Jeffrey,"Mooresville, North Carolina",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609351.html,Gerhart,Bobby,"Lebanon, Pennsylvania",55
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609360.html,Butler,Brett,"Lilburn, Georgia",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609363.html,Efland,Danny,"Irmo, South Carolina",25
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609369.html,Yeley,J.J.,"Phoenix, Arizona",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609374.html,Koch,Blake,"West Palm Beach, Florida",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609377.html,Burton,Jeb,"Halifax, Virginia",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609380.html,Harr,Daryl,"Alberta, Canada",31
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609382.html,Starr,David,"Houston, Texas",46
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609389.html,"Earnhardt, Jr",Dale,"Kannapolis, North Carolina",39
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609391.html,Almirola,Aric,"Tampa, Florida",29
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609393.html,Herring,Drew,"Benson, North Carolina",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609396.html,Bliss,Mike,"Milwaukie, Oregon",48
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609397.html,Kenseth,Matt,"Cambridge, Wisconsin",41
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609398.html,Rhodes,Harrison,"High Point, North Carolina",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609400.html,Martin,Hal,"Galliano, Louisiana",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609402.html,O'Connell,Kevin,"Newport Beach, California",46
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609403.html,Allgaier,Justin,"Riverton, Illinois",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609409.html,Cassill,Landon,"Fairfax, Iowa",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609411.html,Gase,Joey,"Cedar Rapids, Iowa",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609938.html,Wes Townley,John,"Watkinsville, Georgia",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609940.html,Miller,Chase,"Canton, Georgia",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/609942.html,Allmendinger,AJ,"Los Gatos, California",32
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610063.html,Wallace,Rusty,"St. Louis, Missouri",57
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610066.html,Martin,Mark,"Batesville, Arkansas",55
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610068.html,Hill,Timmy,"Port Tobacco, Maryland",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610072.html,Speed,Scott,"Manteca, California",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610076.html,Villeneuve,Jacques,"St Jean-sur-Richelieu, Canada",42
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610079.html,Fellows,Ron,"Toronto, Canada",54
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610082.html,Nemechek,Joe,"Lakeland, Florida",50
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610086.html,Kenseth,Matt,"Cambridge, Wisconsin",41
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610089.html,Stremme,David,"South Bend, Indiana",36
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610093.html,Sauter,Johnny,"Necedah, Wisconsin",35
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610100.html,Sorenson,Reed,"Peachtree City, Georgia",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610113.html,Koch,Blake,"West Palm Beach, Florida",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610118.html,Menard,Paul,"Eau Claire, Wisconsin",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610355.html,Annett,Michael,"Des Moines, Iowa",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610358.html,Hamlin,Denny,"Chesterfield, Virginia",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610361.html,Gilliland,David,"Riverside, California",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610364.html,Larson,Kyle,"Elk Grove, California",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610368.html,Ambrose,Marcos,"Launceston, Australia",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610372.html,Richardson,Robert,"McKinney, Texas",31
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610375.html,Cassill,Landon,"Fairfax, Iowa",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610378.html,Keselowski,Brian,"Rochester Hills, Michigan",32
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610381.html,Busch,Kyle,"Las Vegas, Nevada",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610384.html,Swindell,Kevin,"Germantown, Tennessee",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610387.html,Shepherd,Morgan,"Ferguson, North Carolina",72
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610390.html,Drissi,Tomy,"Hollywood, California",55
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610393.html,Biffle,Greg,"Vancouver, Washington",44
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610398.html,Wallace,Kenny,"St. Louis, Missouri",50
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610401.html,Blaney,Dave,"Hartford, Ohio",51
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610403.html,Riggs,Scott,"Bahama, North Carolina",43
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610406.html,Almirola,Aric,"Tampa, Florida",29
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610410.html,Labonte,Bobby,"Corpus Christi, Texas",49
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610413.html,Kelly,Owen,"Tasmania, Australia",36
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610417.html,Kligerman,Parker,"Westport, Connecticut",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610420.html,Harraka,Paulie,"Wayne, New Jersey",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610423.html,Sadler,Elliott,"Emporia, Virginia",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610427.html,Johnson,Jimmie,"El Cajon, California",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610430.html,Labonte,Terry,"Corpus Christi, Texas",57
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610433.html,Busch,Kurt,"Las Vegas, Nevada",35
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610436.html,McMurray,Jamie,"Joplin, Missouri",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610440.html,"Hornish, Jr",Sam,"Defiance, Ohio",34
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610443.html,Truex,Ryan,"Mayetta, New Jersey",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610447.html,Wise,Josh,"Riverside, California",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610451.html,Newman,Ryan,"South Bend, Indiana",36
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610454.html,Yeley,J.J.,"Phoenix, Arizona",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610458.html,Gaughan,Brendan,"Las Vegas, Nevada",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610461.html,Said,Boris,"Carlsbad, California",51
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610464.html,Kvapil,Travis,"Janesville, Wisconsin",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610981.html,Whitt,Cole,"Alpine, California",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610983.html,"Gonzalez, Jr",Victor,"Trujillo Alto, Puerto Rico",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610986.html,Edwards,Carl,"Columbia, Missouri",34
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610989.html,Bliss,Mike,"Milwaukie, Oregon",48
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610993.html,Patrick,Danica,"Roscoe, Illinois",31
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/610998.html,Kahne,Kasey,"Enumclaw, Washington",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611001.html,Waltrip,Michael,"Owensboro, Kentucky",50
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611004.html,Stewart,Tony,"Columbus, Indiana",42
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611007.html,Burton,Jeff,"South Boston, Virginia",46
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611010.html,Gordon,Jeff,"Vallejo, California",42
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611013.html,Kennedy,Alex,"Aztec, New Mexico",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611016.html,Bayne,Trevor,"Knoxville, Tennessee",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611019.html,Earnhardt Jr,Dale,"Kannapolis, North Carolina",39
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611023.html,Logano,Joey,"Middletown, Connecticut",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611026.html,"Truex, Jr",Martin,"Mayetta, New Jersey",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611030.html,Dillon,Austin,"Welcome, North Carolina",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611033.html,Keselowski,Donnie,"Rochester Hills, Michigan",29
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611036.html,"Stenhouse, Jr",Ricky,"Olive Branch, Mississippi",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611038.html,Marks,Justin,"St. Louis, Missouri",32
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611042.html,Bowyer,Clint,"Emporia, Kansas",34
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611044.html,Raines,Tony,"LaPorte, Indiana",49
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611048.html,Harvick,Kevin,"Bakersfield, California",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611051.html,Allgaier,Justin,"Riverton, Illinois",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611055.html,Papis,Max,"Como, Italy",44
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611059.html,Mears,Casey,"Bakersfield, California",35
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611061.html,McDowell,Michael,"Glendale, Arizona",29
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611066.html,Smith,Regan,"Cato, New York",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611071.html,Bell,T.J.,"Reno, Nevada",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611074.html,Ragan,David,"Unadilla, Georgia",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611077.html,Vickers,Brian,"Thomasville, North Carolina",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611081.html,Scott,Brian,"Boise, Idaho",25
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/611084.html,Leicht,Stephen,"Asheville, North Carolina",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/614543.html,Jo Cobb,Jennifer,"Kansas City, Kansas",40
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/615080.html,Bowman,Alex,"Tucson, Arizona",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/647283.html,Hackenbracht,Chad,"New Philadelphia, Ohio",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/647332.html,Hornish Jr,Sam,"Defiance, Ohio",34
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/647800.html,Dillon,Ty,"Welcome, North Carolina",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648259.html,Fellows,Ron,"Toronto, Canada",54
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648263.html,"Stenhouse, Jr",Ricky,"Olive Branch, Mississippi",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648267.html,Dillon,Ty,"Welcome, North Carolina",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648271.html,Kligerman,Parker,"Westport, Connecticut",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648277.html,Raines,Tony,"LaPorte, Indiana",49
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648288.html,Drissi,Tomy,"Hollywood, California",55
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648295.html,Harraka,Paulie,"Wayne, New Jersey",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648298.html,Bayne,Trevor,"Knoxville, Tennessee",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648304.html,Menard,Paul,"Eau Claire, Wisconsin",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648313.html,Stewart,Tony,"Columbus, Indiana",42
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648327.html,Sieg,Ryan,"Tucker, Georgia",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648423.html,Schendel,Tim,"Sparta, Wisconsin",34
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648432.html,Speed,Scott,"Manteca, California",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648438.html,Ehrgott,Ricky,"Brandon, Florida",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648516.html,Reed,Ryan,"Bakersfield, California",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648519.html,Ellis,Ryan,"Ashburn, Virginia",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648531.html,Smith,Regan,"Cato, New York",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/648535.html,Bell,T.J.,"Reno, Nevada",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650523.html,Bruce,Robert,"Fredericksburg, Virginia",46
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650526.html,Gresham,Max,"Milner, Georgia",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650529.html,Lynch,Ryan,"New Boston, Texas",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650533.html,Yeley,J.J.,"Phoenix, Arizona",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650535.html,McCumbee,Chad,"Supply, North Carolina",29
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650538.html,Ehrgott,Ricky,"Brandon, Florida",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650543.html,Lofton,Justin,"Westmorland, California",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650546.html,Green,Jeff,"Owensboro, Kentucky",51
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650548.html,Skeen,Mike,"Portsmouth, Virginia",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650551.html,J McLeod,B,"Wauchula, Florida",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650555.html,Papis,Max,"Como, Italy",44
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650559.html,Paludo,Miguel,"Nova Prata, Brazil",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650562.html,Chapman,Johnny,"Stony Point, North Carolina",46
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650567.html,White,Derek,"Kahnawake, Canada",43
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650569.html,Fontaine,Chris,"Lakeland, Florida",32
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650573.html,Busch,Kurt,"Las Vegas, Nevada",35
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650577.html,Faison,Cj,"Seaford, Delaware",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650581.html,Larson,Kyle,"Elk Grove, California",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650584.html,Armstrong,Dakoda,"New Castle, Indiana",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650592.html,Bowles,Jason,"Ontario, California",31
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650595.html,Lafferty,Chris,"Concord, North Carolina",36
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650606.html,Long,Carl,"Roxboro, North Carolina",46
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650609.html,Wes Townley,John,"Watkinsville, Georgia",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650612.html,Roy,Martin,"Napierville, Canada",39
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650614.html,Casola,Dominick,"Holmdel, New Jersey",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650618.html,Hunter Nemechek,John,"Mooresville, North Carolina",16
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650621.html,Sauter,Johnny,"Necedah, Wisconsin",35
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650624.html,Guenette,Alex,"Montreal, Canada",17
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650627.html,Habul,Kenny,"Etobicoke, Canada",40
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650630.html,Jo Cobb,Jennifer,"Kansas City, Kansas",40
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650633.html,Quiroga Jr,German,"Mexico City, Mexico",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650637.html,Martel,Kyle,"Lebanon, Pennsylvania",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650641.html,Burton,Jeb,"Halifax, Virginia",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650645.html,Setzer,Dennis,"Newton, North Carolina",53
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650648.html,Jones,Chris,"Forest, Virginia",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650651.html,Gaughan,Brendan,"Las Vegas, Nevada",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650655.html,Weller III,Jimmy,"Hubbard, Ohio",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650657.html,Moffitt,Brett,"Grimes, Iowa",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650660.html,"Wallace, Jr",Darrell,"Mobile, Alabama",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650662.html,Blaney,Dave,"Hartford, Ohio",51
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650665.html,Mingus,Kevin,"Brentwood, Tennessee",19
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650667.html,Elliott,Chase,"Dawsonville, Georgia",18
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650670.html,Harraka,Paulie,"Wayne, New Jersey",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650672.html,Harvick,Kevin,"Bakersfield, California",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650675.html,Busch,Kyle,"Las Vegas, Nevada",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650678.html,Roark,Caleb,"Abingdon, Virginia",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650682.html,Kennington,D.J.,"St. Thomas, Canada",36
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650684.html,Wallace,Kenny,"St. Louis, Missouri",50
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650692.html,Scott,Brian,"Boise, Idaho",25
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650695.html,Rogers,Clay,"Mooresville, North Carolina",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650699.html,Kligerman,Parker,"Westport, Connecticut",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650702.html,Frewaldt,Chad,"Kansas City, Kansas",43
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650705.html,Benning,Norm,"Level Green, Pennsylvania",61
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650708.html,Almirola,Aric,"Tampa, Florida",29
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650711.html,Landers,Jared,"Batesville, Arkansas",31
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650715.html,Hemric,Daniel,"Kannapolis, North Carolina",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650718.html,Blaney,Ryan,"High Point, North Carolina",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650723.html,"Piquet, Jr",Nelson,"Brasilia, Brazil",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650725.html,Keselowski,Brad,"Rochester Hills, Michigan",29
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650728.html,Galloway,Grant,"Lakeville, Indiana",19
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650731.html,Jones,Brandon,"Atlanta, Georgia",16
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650734.html,Crawford,Rick,"Mobile, Alabama",55
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650737.html,Agnew,Jeff,"Copper Hill, Virginia",48
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650740.html,Cockrum,Chris,"Conyers, Georgia",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650750.html,Shepherd,Morgan,"Ferguson, North Carolina",72
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650751.html,Logano,Joey,"Middletown, Connecticut",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650754.html,Lewandoski,Charles,"Stafford Springs, Connecticut",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650756.html,Crafton,Matt,"Tulare, California",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650759.html,Jones,Devin,"San Luis Obispo, California",19
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650761.html,Starr,David,"Houston, Texas",46
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650764.html,Buescher,James,"Plano, Texas",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650765.html,Jones,Erik,"Byron, Michigan",17
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650768.html,Newberry,Brennan,"Bakersfield, California",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650770.html,Crum,Jake,"Statesville, North Carolina",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650773.html,McCall,Matt,"Denver, North Carolina",32
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650776.html,Efland,Danny,"Irmo, South Carolina",25
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650779.html,Holman,Caleb,"Abingdon, Virginia",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650782.html,Schrader,Ken,"Fenton, Missouri",58
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650785.html,Reutimann,David,"Zephyrhills, Florida",43
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650788.html,Dillon,Austin,"Welcome, North Carolina",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/650796.html,Monteith,Nate,"Bristol, Tennessee",32
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651003.html,Dick,Jamie,"El Paso, Texas",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651006.html,Coulter,Joey,"Miami Springs, Florida",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651010.html,Babcock,Jeff,", United States",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651014.html,Kurzejewski,Matthew,"Mansfield, Pennsylvania",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651018.html,Kimmel,Frank,"Clarksville, Indiana",51
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651021.html,Davis,Dusty,"Las Vegas, Nevada",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651024.html,White,Jason,"Richmond, Virginia",34
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651027.html,Kennedy,Ben,"Daytona Beach, Florida",22
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651030.html,Riethmeyer,Bradley,"Hutto, Texas",30
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651033.html,Silas,Bryan,"Stuart, Florida",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651426.html,Hamlin,Denny,"Chesterfield, Virginia",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651429.html,Koch,Blake,"West Palm Beach, Florida",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651448.html,"Hornaday, Jr",Ron,"Palmdale, California",55
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651451.html,Jennings,Justin,"LaGrange, Missouri",43
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651454.html,Harmon,Mike,"Birmingport, Alabama",55
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651456.html,Gale,Cale,"Mobile, Alabama",28
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651460.html,Chastain,Ross,"Alva, Florida",21
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/651463.html,Greenfield,Clay,"Clarksville, Tennessee",29
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809454.html,Sieg,Ryan,"Tucker, Georgia",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809458.html,Ellis,Ryan,"Ashburn, Virginia",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809459.html,Newman,Ryan,"South Bend, Indiana",36
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809461.html,Bloomquist,Scott,"Mooresburg, Tennessee",50
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809462.html,Riggs,Scott,"Bahama, North Carolina",43
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809463.html,Saunders,Scott,"Brisbane, Australia",25
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809464.html,Stenzel,Scott,"Alexandria, Minnesota",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809465.html,Corr,Sean,"Goshen, New York",29
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809466.html,Gallagher,Spencer,"Las Vegas, Nevada",24
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809467.html,Smith,Steve,"Edmond, Oklahoma",47
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809468.html,Wallace,Steve,"Greensboro, North Carolina",26
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809469.html,Bell,T.J.,"Reno, Nevada",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809470.html,"George, Jr",Tim,"New York, New York",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809471.html,Hill,Timmy,"Port Tobacco, Maryland",20
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809472.html,Peters,Timothy,"Providence, North Carolina",33
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809473.html,Bodine,Todd,"Chemung, New York",49
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809474.html,Peck,Todd,"Glenville, Pennsylvania",27
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809475.html,Raines,Tony,"LaPorte, Indiana",49
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809476.html,Hines,Tracy,"New Castle, Indiana",41
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809477.html,Kvapil,Travis,"Janesville, Wisconsin",37
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809478.html,Reddick,Tyler,"Corning, California",18
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/809479.html,Young,Tyler,"Midland, Texas",23
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/845436.html,Pablo Montoya,Juan,"Bogota, Colombia",38
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/904408.html,Disdier,Michel,", United States",40
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/nascar/904412.html,Crafton,Matt,"Tulare, California",37
