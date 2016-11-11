@@ -1,132 +1,350 @@
-url,team,name,country,dob,site
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1169603.html,Manor Motorsport,Lewis Hamilton,United Kingdom,7 January 1985 (31),http://www.lewishamilton.com
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172065.html,Mercedes Grand Prix,Nico Rosberg,Germany,27 June 1985 (31),http://www.nicorosberg.com
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172075.html,McLaren,Fernando Alonso,Spain,29 July 1981 (35),http://www.fernandoalonso.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172081.html,Renault,Jenson Button,United Kingdom,19 January 1980 (36),http://www.jensonbutton.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172115.html,Ferrari,Kimi Räikkönen,Finland,17 October 1979 (36),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172154.html,Scuderia Toro Rosso,Sebastian Vettel,Germany,3 July 1987 (29),http://www.sebastianvettel.de
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172236.html,Manor MP Motorsport,Steijn Schothorst,Netherlands,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172295.html,ART Grand Prix,Valtteri Bottas,Finland,28 August 1989 (27),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172344.html,Koiranen Motorsport,Ralph Boschung,Switzerland,23 September 1997 (18),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172347.html,DAMS,Kevin Joerg,Switzerland,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172635.html,MS Amlin Andretti,Antonio Felix da Costa,Portugal,31 August 1991 (25),http://www.felixdacosta.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172711.html,Status Grand Prix,Sandy Stuvik,Thailand,11 April 1995 (21),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172729.html,Tech 1 Racing,Daniel Ricciardo,Australia,1 July 1989 (27),http://www.danielricciardo.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172759.html,Arden,Jake Dennis,Great Britain,30 June 1995 (21),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172885.html,Carlin Motorsport,Josef Newgarden,United States,22 December 1990 (25),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172913.html,ART Grand Prix,Charles Leclerc,Monaco,16 October 1997 (18),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172920.html,Jo Zeller Racing,Tatiana Calderon,Colombia,10 March 1993 (23),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173010.html,Prema Powerteam,Daniel Juncadella,Spain,7 May 1991 (25),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173075.html,Manor Racing,Adrien Tambay,France,25 February 1991 (25),http://www.tambay27.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173101.html,Stewart,Rubens Barrichello,Brazil,23 May 1972 (44),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173189.html,Campos Racing,Alex Palou,Spain,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173268.html,Van Amersfoort Racing,Max Verstappen,Netherlands,30 September 1997 (18),http://www.verstappen.nl
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173404.html,Arden,Daniil Kvyat,Russia,26 April 1994 (22),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173608.html,Mücke Motorsport,Pascal Wehrlein,Germany,18 October 1994 (21),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173624.html,Fortec Motorsports,Alex Lynn,Great Britain,17 September 1993 (22),http://www.alexlynnracing.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173644.html,DAMS,Romain Grosjean,France,17 April 1986 (30),http://www.romaingrosjean.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173785.html,Jenzer Motorsport,Oscar Tunjo,Colombia,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173811.html,Campos,Sergio Perez,Mexico,26 December 1989 (26),http://www.sergioperezf1.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173855.html,Signature,Alex Albon,Great Britain,23 March 1996 (20),http://www.alexalbon.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173888.html,Trident Racing,Luca Ghiotto,Italy,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173898.html,Trident Racing,Artur Janosz,Poland,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173899.html,Motopark Academy,Jimmy Eriksson,Sweden,14 March 1991 (25),http://www.jimmyracing.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173997.html,Prema Powerteam,Tom Dillmann,France,6 April 1989 (27),http://www.tomdillmann.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174437.html,AV Formula,Alfonso Celis,Mexico,18 September 1996 (19),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174465.html,Ocean Racing Technology,Alexander Rossi,United States,25 September 1991 (24),http://www.alexanderrossi.com
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174605.html,Jenzer Motorsport,Nico Muller,Switzerland,25 February 1992 (24),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174745.html,Haas F1,Esteban Gutiérrez,Mexico,5 August 1991 (25),http://www.estebanracing.com
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174788.html,ART Grand Prix,Marvin Kirchhofer,Germany,19 March 1994 (22),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174821.html,Carlin Motorsport,Kevin Magnussen,Denmark,5 October 1992 (23),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174869.html,Mücke Motorsport,Robert Wickens,Canada,13 March 1989 (27),http://www.robertwickens.com
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174943.html,A1 Team Germany,Nico Hülkenberg,Germany,19 August 1987 (29),http://www.nicohulkenberg.net
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174982.html,ART Grand Prix,Nyck de Vries,Netherlands,6 February 1995 (21),http://www.nyckdevries.nl/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175036.html,DAMS,,United Kingdom,30 May 1994 (22),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175047.html,Koiranen Motorsport,Matt Parry,United Kingdom,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175081.html,Sauber,Felipe Nasr,Brazil,21 August 1992 (24),http://www.felipenasr.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175115.html,Prema Powerteam,Esteban Ocon,France,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175135.html,Arden,Jack Aitken,United Kingdom,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175179.html,Koiranen Motorsport,Matevos Isaakyan,Russia,17 April 1998 (18),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175193.html,Double R Racing,Mitchell Evans,New Zealand,24 June 1994 (22),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175351.html,Trident Racing,Giuliano Alesi,France,20 September 1999 (16),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175378.html,Schmidt Peterson Motorsports,Conor Daly,United States,17 December 1991 (24),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175382.html,ART Grand Prix,Nirei Fukuzumi,Japan,24 January 1997 (19),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175404.html,iSport International,Marcus Ericsson,Sweden,2 September 1990 (26),http://www.marcusericssonracing.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175771.html,Signature,Carlos Sainz Jr.,Spain,1 September 1994 (22),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175776.html,MS Amlin Andretti,Jean-Eric Vergne,France,25 April 1990 (26),http://www.jeanericvergne.com
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175937.html,Threebond With T-Sport,Arjun Maini,India,10 December 1997 (18),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175940.html,Manor Racing,Rio Haryanto,Indonesia,22 January 1993 (23),http://www.rioharyanto.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176257.html,Prema Powerteam,Antonio Fuoco,Italy,20 May 1996 (20),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176340.html,Carlin,Jolyon Palmer,United Kingdom,20 January 1991 (25),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176381.html,Andretti Herta Autosport,Gabriel Chaves,Colombia,7 July 1993 (23),http://www.gabbychaves.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176385.html,DAMS,Santino Ferrucci,United States,31 May 1998 (18),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176388.html,Ferrari,Felipe Massa,Brazil,25 April 1981 (35),http://www.felipemassa.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176393.html,Fortec Motorsports,Stoffel Vandoorne,Belgium,26 March 1992 (24),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176773.html,Status Grand Prix,Richie Stanaway,New Zealand,24 November 1991 (24),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176774.html,DAMS,Giovanni Venturini,Italy,9 November 1991 (24),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176775.html,Carlin Motorsport,William Buller,United Kingdom,17 September 1992 (23),http://www.bullerracing.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176782.html,Jenzer Motorsport,Kevin Ceccon,Italy,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176789.html,Carlin,Daniel Morad,Canada,24 April 1990 (26),http://www.danielmorad.com
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176793.html,Arden,Lewis Williamson,Great Britain,11 November 1989 (26),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177199.html,P1 Motorsport,Matias Laine,Finland,25 April 1990 (26),http://www.matiaslaine.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177233.html,RSC Mücke Motorsport,Michael Christensen,Denmark,28 August 1990 (26),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177234.html,Carlin,Callum MacLeod,Great Britain,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177235.html,Tech 1 Racing,Kevin Korjus,Estonia,9 January 1993 (23),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177236.html,ART Grand Prix,Pedro Nunes,Brazil,22 August 1988 (28),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177237.html,Tech 1 Racing,Tamas Pal Kiss,Hungary,19 May 1991 (25),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177238.html,Lotus,Emil Bernstorff,United Kingdom,7 June 1993 (23),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177239.html,Mücke Motorsport,Tobias Hegewald,Germany,3 August 1989 (27),http://www.tobias-hegewald.de/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177240.html,MotorSport Vision,Miki Monras,Spain,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177241.html,Fortec Motorsports,Dean Smith,United Kingdom,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177242.html,Carlin,Jann Mardenborough,United Kingdom,9 September 1991 (24),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177243.html,Arden,Aleksander Bosak,Poland,14 August 1993 (23),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177244.html,Atech CRS GP,Oliver Oakes,United Kingdom,11 January 1988 (28),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177245.html,ADM Motorsport,Zoël Amberg,Switzerland,25 September 1992 (23),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177246.html,Koiranen Motorsport,Patrick Kujala,Finland,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177247.html,Status Grand Prix,Marlon Stockinger,Philippines,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177248.html,Tech 1 Racing,Doru Sechelariu,Romania,19 November 1992 (23),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177249.html,Jenzer Motorsport,Maxim Zimin,Russia,28 April 1994 (22),http://www.maximzimin.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177250.html,Koiranen Motorsport,Dean Stoneman,United Kingdom,24 July 1990 (26),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177251.html,Tech 1 Racing,Daniel Abt,Germany,3 December 1992 (23),http://www.danielabt.de/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177252.html,Carlin,Jack Harvey,Great Britain,15 April 1993 (23),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177253.html,T-Sport,Alex Brundle,United Kingdom,7 August 1990 (26),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177254.html,Manor Racing,Adrian Quaife-Hobbs,United Kingdom,3 February 1991 (25),http://www.quaifehobbs.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177255.html,Mücke Motorsport,Roberto Merhi,Spain,22 March 1991 (25),http://www.robertomerhi.es/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177256.html,Carlin,Eric Liechtenstein,Argentina,6 October 1994 (21),http://www.lichtensteineric.com.ar/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177257.html,Carlin,Leonardo Cordeiro,Brazil,8 November 1989 (26),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177258.html,Arden,Simon Trummer,Switzerland,8 January 1989 (27),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177259.html,Atech CRS GP,Vittorio Ghirelli,Italy,9 May 1994 (22),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177260.html,MotorSport Vision,Mirko Bortolotti,Italy,10 January 1990 (26),http://www.mirkobortolotti.it
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177261.html,Hilmer Motorsport,Facundo Regalia,Argentina,23 November 1991 (24),http://www.facuregalia.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177262.html,RSC Mücke Motorsport,Luciano Bacheta,Great Britain,26 April 1990 (26),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177263.html,Manor Racing,Fabiano Machado,Brazil,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177264.html,Trident Racing,Stefano Coletti,Monaco,6 April 1989 (27),http://www.stefanocoletti.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177265.html,Eurointernational,Ricciardo Agostini,Italy,20 April 1994 (22),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177266.html,Jenzer Motorsport,Robert Visoiu,Romania,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177267.html,Carlin,James Calado,United Kingdom,13 June 1989 (27),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177268.html,Bamboo Engineering,Alice Powell,United Kingdom,26 January 1993 (23),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177269.html,Lotus Racing Junior,Nick Yelloly,Great Britain,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177270.html,Status Grand Prix,Seb Morris,United Kingdom,30 November 1995 (20),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177271.html,Status Grand Prix,Alexander Sims,United Kingdom,15 March 1988 (28),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177272.html,Jo Zeller Racing,Nelson Mason,Canada,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177273.html,Arden,Patrick Niederhauser,Switzerland,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177274.html,Jenzer Motorsport,Pal Varhaug,Norway,26 January 1991 (25),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177275.html,SG Formula,Andrea Caldarelli,Italy,14 February 1990 (26),http://www.andreacaldarelli.it/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177276.html,ART Grand Prix,Aaro Vainio,Finland,2 October 1993 (22),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177277.html,Status Grand Prix,Ivan Lukashevich,Russia,9 May 1991 (25),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177278.html,Jenzer Motorsport,Matheo Tuscher,Switzerland,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177279.html,Motopark Academy,Renger van der Zande,Netherlands,16 February 1986 (30),http://www.rengervanderzande.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177280.html,ART Grand Prix,Dino Zamparelli,Great Britain,5 October 1992 (23),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177281.html,Sino Vision Racing,Adderly Fong,Hong Kong,2 March 1990 (26),http://www.adderlyfong.hk/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177282.html,Manor Racing,Tio Ellinas,Cyprus,27 January 1992 (24),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177283.html,Trident Racing,David Fumanelli,Italy,21 April 1992 (24),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177284.html,Double R Racing,Felipe Guimaraes,Brazil,22 March 1991 (25),http://www.felipeguimaraes.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177285.html,Fortec Motorsports,Lucas Foresti,Brazil,12 May 1992 (24),http://www.lucasforesti.com.br/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177286.html,Mucke Motorsport,Mitchell Gilbert,Australia,10 May 1994 (22),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177287.html,Bamboo Engineering,Melville McKee,Great Britain,19 August 1994 (22),
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177288.html,ART Grand Prix,Alex Fontana,Switzerland,5 August 1992 (24),http://www.alexfontana.net/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177289.html,RSC Mücke Motorsport,Nigel Melker,Netherlands,25 January 1991 (25),http://www.nigelmelker.nl/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177290.html,Rahal Letterman Lanigan Racing,James Jakes,United Kingdom,4 August 1987 (29),http://www.jamesjakes.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177291.html,Trident Racing,Roman De Beer,South Africa,6 October 1994 (21),http://www.romandebeerracing.com/
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177292.html,MotorSport Vision,Fabio Gamberini,Brazil,,
-/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177293.html,Angola Racing Team,Luis Sa Silva,Angola,23 August 1990 (26),
+url,team,name,dob,country
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1169603.html,Mercedes Grand Prix,Lewis Hamilton,9 September 1991 (24),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172065.html,Mercedes Grand Prix,Nico Rosberg,9 September 1989 (26),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172075.html,McLaren,Fernando Alonso,9 November 1991 (24),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172079.html,Team Penske,Juan Pablo Montoya,9 May 1994 (22),Colombia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172081.html,McLaren,Jenson Button,9 May 1991 (25),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172086.html,Red Bull Racing,Mark Webber,9 March 1988 (28),Australia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172115.html,Ferrari,Kimi Räikkönen,9 March 1983 (33),Finland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172154.html,Ferrari,Sebastian Vettel,9 July 1992 (24),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172167.html,Ongetta,Niccolo Antonelli,9 January 1993 (23),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172175.html,RBA Racing Team,Gabriel Rodrigo,9 February 1992 (24),Argentina
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172189.html,Sky Racing Team VR46,Romano Fenati,9 February 1990 (26),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172199.html,Ducati Team,Andrea Dovizioso,9 August 1989 (27),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172201.html,Audi Sport Team Phoenix,Mike Rockenfeller,9 August 1985 (31),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172236.html,Campos Racing,Steijn Schothorst,9 April 1998 (18),Netherlands
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172295.html,Williams,Valtteri Bottas,8 September 1998 (17),Finland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172298.html,Idemitsu Honda Team Asia,Takaaki Nakagami,8 September 1984 (32),Japan
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172336.html,Mahindra Racing,Francesco Bagnaia,8 November 1993 (23),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172344.html,Koiranen Motorsport,Ralph Boschung,8 November 1989 (26),Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172347.html,DAMS,Kevin Joerg,8 January 1989 (27),Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172360.html,ROAL Motorsport,Tom Coronel,8 December 1995 (20),Netherlands
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172383.html,Münnich Motorsport,James Thompson,8 August 1984 (32),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172403.html,Freudenberg Racing Team,Karel Hanika,8 April 1993 (23),Czech Republic
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172466.html,Tech 3,Alex Lowes,7 November 1991 (24),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172476.html,Koiranen Motorsport,Mahaveer Raghunathan,7 May 1991 (25),India
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172478.html,Honda Team Asia,Hiroki Ono,7 March 1957 (59),Japan
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172507.html,Trident Racing,Philo Paz Armand,7 June 1993 (23),Indonesia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172529.html,Schmidt Peterson Motorsports,Mikhail Aleshin,7 July 1993 (23),Russia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172559.html,Russian Time,Artem Markelov,7 January 1985 (31),Russia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172564.html,Jenzer Motorsport,Richard Gonda,7 February 1997 (19),Slovakia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172582.html,Team Italia,Stefano Valtulini,7 February 1996 (20),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172623.html,Team Suzuki Ecstar,Aleix Espargaro,7 December 1981 (34),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172635.html,MS Amlin Andretti,Antonio Felix da Costa,7 August 1992 (24),Portugal
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172645.html,Van Amersfoort Racing,Harrison Newey,7 August 1991 (25),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172663.html,BMW Team RBM,Maxime Martin,7 August 1991,Belgium
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172670.html,BMW Team MTEK,Bruno Spengler,7 August 1990 (26),Canada
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172684.html,Dale Coyne Racing,Luca Filippi,6 September 1986 (30),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172711.html,Trident Racing,Sandy Stuvik,6 October 1999 (16),Thailand
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172729.html,Red Bull Racing,Daniel Ricciardo,6 October 1994 (21),Australia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172739.html,Rapax,Arthur Pic,6 October 1994 (21),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172759.html,Arden,Jake Dennis,6 October 1970 (45),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172762.html,Ajo Motorsport,Johann Zarco,6 November 1993 (22),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172792.html,Polestar Racing,Fredrik Ekblom,6 May 1990 (26),Sweden
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172885.html,Ed Carpenter Racing,Josef Newgarden,6 May 1977 (39),United States
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172892.html,Stop And Go Racing Team,Luis Salom,6 January 2000 (16),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172899.html,Renault,Nicholas Latifi,6 January 1990 (26),Canada
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172906.html,MP Motorsport,Oliver Rowland,6 February 1995 (21),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172913.html,ART Grand Prix,Charles Leclerc,6 April 1989 (27),Monaco
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172920.html,Arden,Tatiana Calderon,6 April 1989 (27),Colombia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172926.html,Husqvarna Factory Laglisse,Lorenzo Dalla Porta,5 October 1992 (23),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172928.html,Montaze Broz Racing Team,Anthony West,5 October 1992 (23),Australia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172933.html,Ambrogio Racing,Marcos Ramirez,5 October 1991 (24),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1172972.html,Interwetten Paddock,Dominique Aegerter,5 July 1986 (30),Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173000.html,Williams,Lance Stroll,5 December 1999 (16),Canada
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173010.html,HWA Team,Daniel Juncadella,5 August 1992 (24),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173019.html,Kiefer Racing,Danny Kent,5 August 1991 (25),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173034.html,Sky Racing Team VR46,Andrea Migno,5 April 1972 (44),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173035.html,Honda Racing Team JAS,Robert Huff,4 May 1987 (29),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173048.html,Interwetten Paddock,Iker Lecuona,4 March 1999 (17),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173059.html,Mücke Motorsport,Lucas Auer,4 January 1995 (21),Austria
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173068.html,Prema,Antonio Giovinazzi,4 January 1993 (23),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173075.html,Audi Sport Team Rosberg,Adrien Tambay,4 February 1986 (30),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173095.html,HP Tuenti 40,Alex Rins,4 August 1987 (29),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173101.html,KVSH Racing,Rubens Barrichello,4 April 1989 (27),Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173163.html,Marc VDS Racing Team,Alex Marquez,31 October 1988 (27),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173180.html,RW Racing GP,Livio Loi,31 October 1983 (32),Belgium
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173189.html,Campos Racing,Alex Palou,31 May 1998 (18),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173196.html,Estrella Galicia 0'0,Jorge Navarro,31 December 1994 (21),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173198.html,BMW Team MTEK,Augusto Farfus,31 August 1991 (25),Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173199.html,ART Grand Prix,Rene Binder,31 August 1989 (27),Austria
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173215.html,Chip Ganassi Racing,Max Chilton,30 September 1999 (16),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173268.html,Red Bull Racing,Max Verstappen,30 September 1997 (18),Netherlands
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173275.html,Prema Powerteam,Nick Cassidy,30 September 1990 (25),New Zealand
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173302.html,Mahindra Racing,Jorge Martin,30 November 1995 (20),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173318.html,Carlin,Sergio Canamasas,30 November 1994 (21),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173341.html,Renault,Heikki Kovalainen,30 November 1993 (22),Finland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173378.html,Gresini Racing,Enea Bastianini,30 May 1999 (17),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173393.html,ART Grand Prix,Nobuharu Matsushita,30 May 1994 (22),Japan
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173404.html,Scuderia Toro Rosso,Daniil Kvyat,30 June 1995 (21),Russia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173426.html,Arden International,Nabil Jeffri,30 July 1989 (27),Malaysia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173486.html,Tech 3 Racing,Xavi Vierge,30 December 1997 (18),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173515.html,Arginano Racing Team,Axel Pons,3 June 1986 (30),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173541.html,Prema Powerteam,Maximilian Günther,3 July 1998 (18),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173589.html,Zengo Motorsport,Ferenc Ficza,3 July 1987 (29),Hungary
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173596.html,Ferrari,Maurizio Arrivabene,3 February 1996 (20),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173608.html,Manor Racing,Pascal Wehrlein,3 February 1991 (25),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173624.html,Jaguar Formula E Team,Alex Lynn,3 December 1994 (21),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173644.html,Haas F1,Romain Grosjean,3 December 1992 (23),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173645.html,Petronas Malaysia,Hafizh Syarhin,3 August 1989 (27),Malaysia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173664.html,Lotus Racing Junior,Roy Nissany,3 August 1989,Israel
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173668.html,BMW Team RMG,Marco Wittmann,3 April 1987 (29),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173673.html,Motopark Academy,Sergio Sette Camara,3 April 1986 (30),Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173685.html,Octo Pramac Yakhnich,Scott Redding,29 September 1985 (30),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173733.html,DS Virgin Racing,Jose Maria López,29 October 1998 (17),Argentina
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173748.html,Mücke Motorsport,Mikkel Jensen,29 October 1985 (30),Denmark
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173749.html,Avintia Racing,Michele Pirro,29 November 1989 (26),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173753.html,Campos,Sean Gelael,29 June 1995 (21),Indonesia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173754.html,Audi Sport Team Abt Sportsline,Mattias Ekström,29 July 1981 (35),Sweden
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173758.html,Italtrans Racing Team,Federico Fuligni,29 April 1974 (42),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173771.html,Mahindra Racing,Marco Bezzecchi,28 November 1990 (25),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173773.html,"Estrella Galicia 0,0 Marc VDS",Esteve Rabat,28 June 1998 (18),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173785.html,Jenzer Motorsport,Oscar Tunjo,28 August 1990 (26),Colombia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173809.html,Leopard Racing,Joan Mir,28 August 1989 (27),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173811.html,Force India F1,Sergio Perez,28 April 1994 (22),Mexico
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173855.html,ART Grand Prix,Alex Albon,27 June 1985 (31),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173860.html,Caterham Moto Racing Team,Adam Norrodin,27 January 1992 (24),Malaysia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173879.html,JPM Malaysia,Ricard Cardus,27 January 1991 (25),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173888.html,Trident Racing,Luca Ghiotto,27 August 1995 (21),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173898.html,RP Motorsport,Artur Janosz,27 August 1976 (40),Poland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173899.html,Arden International,Jimmy Eriksson,27 April 2000 (16),Sweden
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173909.html,Zengo Motorsport,Daniel Nagy,27 April 1943 (73),Hungary
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173916.html,Russian Time,Raffaele Marciello,26 October 1982 (34),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173937.html,Aprilia Racing,Álvaro Bautista,26 March 1992 (24),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1173997.html,AV Formula,Tom Dillmann,26 January 1993 (23),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174006.html,Prema Powerteam,Ralf Aron,26 January 1991 (25),Estonia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174014.html,Idemitsu Honda Team Asia,Ratthapark Wilairot,26 January 1991 (25),Thailand
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174044.html,Red Bull Racing,Helmut Marko,26 December 1989 (26),Austria
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174079.html,Caterham Moto Racing Team,Jakub Kornfeil,26 April 1994 (22),Czech Republic
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174097.html,SaxoPrint-RTG,Albert Arenas,26 April 1990 (26),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174116.html,Freudenberg Racing Team,Tim Georgi,25 September 1992 (23),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174152.html,SaxoPrint-RTG,John McPhee,25 September 1991 (24),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174198.html,Carlin,Zhicong Li,25 November 1993 (22),China
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174244.html,Mücke Motorsport,David Beckmann,25 May 1989 (27),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174254.html,ART Grand Prix,Gary Paffett,25 July 1998 (18),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174260.html,Carlin,Weiron Tan,25 July 1988 (28),Malaysia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174344.html,Interwetten Paddock,Robin Mulhauser,25 January 1991 (25),Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174384.html,Avintia Racing,Loris Baz,25 February 1992 (24),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174410.html,Renault e.Dams,Sébastien Buemi,25 February 1991 (25),Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174415.html,Mahindra Racing Formula E Team,Bruno Senna,25 December 1979 (36),Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174427.html,Van Amersfoort Racing,Pedro Piquet,25 August 1993 (23),Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174437.html,Force India F1,Alfonso Celis,25 August 1983 (33),Mexico
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174445.html,Sky Racing Team VR46,Nicolò Bulega,25 April 1990 (26),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174460.html,Repsol Honda Team,Marc Marquez,25 April 1990 (26),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174465.html,Manor Racing,Alexander Rossi,25 April 1985 (31),United States
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174473.html,Ambrogio Racing,Darryn Binder,25 April 1981 (35),South Africa
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174507.html,MP Motorsport,Daniel de Jong,24 October 1993 (22),Netherlands
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174514.html,Audi Sport Team Phoenix,Timo Scheider,24 November 1991 (24),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174526.html,Estrella Galicia 0'0,Aron Canet,24 November 1989 (26),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174544.html,Force India F1,Nikita Mazepin,24 March 1981 (35),Russia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174554.html,Aprilia Racing,Stefan Bradl,24 June 1994 (22),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174593.html,Chip Ganassi Racing,Scott Dixon,24 July 1997 (19),New Zealand
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174595.html,Carlin,Raoul Hyman,24 July 1990 (26),South Africa
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174605.html,Audi Sport Team Abt Sportsline,Nico Muller,24 July 1976 (40),Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174619.html,Husqvarna Factory Laglisse,Maria Herrera,24 January 1997 (19),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174621.html,Mücke Motorsport,Christian Vietoris,24 January 1983 (33),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174625.html,CIP,Tatsuki Suzuki,24 February 1984 (32),Japan
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174629.html,Rapax,Gustav Malja,24 April 1990 (26),Sweden
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174633.html,HitechGP,George Russell,24 April 1987 (29),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174662.html,HWA Team,Maximillian Gotz,23 September 1997 (18),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174665.html,Italtrans Racing Team,Mattia Pasini,23 November 1991 (24),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174668.html,Gresini Racing,Fabio Di Giannantonio,23 May 1998 (18),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174745.html,Haas F1,Esteban Gutiérrez,23 May 1972 (44),Mexico
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174752.html,Ioda Racing Project,Efrén Vazquez Vazquez,23 March 1996 (20),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174758.html,Lada Sport,Nick Catsburg,23 March 1986 (30),Netherlands
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174771.html,Citroën Racing,Yvan Muller,23 February 1996 (20),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174788.html,Carlin,Marvin Kirchhofer,23 August 1990 (26),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174820.html,Sebastien Loeb Racing,Tom Chilton,23 August 1983 (33),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174821.html,Renault,Kevin Magnussen,23 April 1996 (20),Denmark
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174867.html,Williams,Paul di Resta,23 April 1993 (23),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174869.html,HWA Team,Robert Wickens,22 September 1996 (19),Canada
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174925.html,"Estrella Galicia 0,0 Marc VDS",Jack Miller,22 May 1987 (29),Australia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174934.html,SaxoPrint-RTG,Maximilian Kappler,22 March 1991 (25),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174943.html,Force India F1,Nico Hülkenberg,22 March 1991 (25),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174944.html,Marc VDS Racing Team,Franco Morbidelli,22 March 1991 (25),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174952.html,Mahindra Racing,Fabio Spiranelli,22 June 1997 (19),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174954.html,Ferrari,Jules Bianchi,22 July 1980 (36),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174967.html,Tech 3 Racing,Isaac Vinales,22 January 1993 (23),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174982.html,ART Grand Prix,Nyck de Vries,22 December 1990 (25),Netherlands
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1174996.html,Audi Sport Team Abt Sportsline,Edoardo Mortara,22 August 1988 (28),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175002.html,Jenzer Motorsport,Akash Nandy,21 November 1984 (31),Malaysia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175006.html,Caterham,Kamui Kobayashi,21 March 1998 (18),Japan
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175036.html,DAMS,Jake Hughes,21 February 1982 (34),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175040.html,Mahindra Racing Formula E Team,Felix Rosenqvist,21 August 1992 (24),Sweden
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175041.html,Italtrans Racing Team,Remy Gardner,21 April 1992 (24),Australia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175047.html,Koiranen Motorsport,Matt Parry,21 April 1991 (25),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175079.html,Carlin,Alessio Lorandi,20 September 1999 (16),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175081.html,Sauber,Felipe Nasr,20 September 1975 (40),Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175083.html,Honda Racing Team JAS,Norbert Michelisz,20 May 1996 (20),Hungary
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175109.html,QMMF Racing Team,Xavier Simeon,20 March 1986 (30),Belgium
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175115.html,Manor Racing,Esteban Ocon,20 January 1991 (25),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175123.html,BMW Team RBM,Tom Blomqvist,20 December 1996 (19),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175135.html,Arden,Jack Aitken,20 April 1999 (17),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175141.html,Tasca Racing,Alessandro Tonucci,20 April 1994 (22),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175147.html,TT Motion,Philipp Oettl,2 September 1990 (26),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175156.html,HitechGP,Ben Barnicoat,2 September 1986 (30),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175162.html,Leopard Racing,Andrea Locatelli,2 October 1993 (22),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175179.html,Koiranen Motorsport,Matevos Isaakyan,2 November 1986 (29),Russia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175193.html,Jaguar Formula E Team,Mitchell Evans,2 March 1999 (17),New Zealand
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175223.html,Ambrogio Racing,Danny Webb,2 March 1990 (26),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175246.html,Tech 3,Pol Espargaro,2 March 1962 (54),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175256.html,SaxoPrint-RTG,Alexis Masbou,2 June 1987 (29),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175315.html,Tech 3,Bradley Smith,2 January 1991 (25),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175324.html,Renault,Sergey Sirotkin,19 October 1981 (34),Russia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175337.html,Koiranen Motorsport,Niko Kari,19 November 1992 (23),Finland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175345.html,Motopark Academy,Guan Yu Zhou,19 May 1991 (25),China
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175351.html,Trident Racing,Giuliano Alesi,19 March 1994 (22),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175376.html,Ducati Team,Andrea Iannone,19 January 1980 (36),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175378.html,Dale Coyne Racing,Conor Daly,19 August 1994 (22),United States
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175382.html,ART Grand Prix,Nirei Fukuzumi,19 August 1994 (22),Japan
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175401.html,Audi Sport Team Abt Sportsline,Miguel Molina,19 August 1987 (29),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175403.html,Kiefer Racing,Miguel Oliveira,19 April 1991 (25),Portugal
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175404.html,Sauber,Marcus Ericsson,18 September 1996 (19),Sweden
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175431.html,Mahindra Racing,Lorenzo Petrarca,18 October 1994 (21),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175467.html,Stop And Go Racing Team,Jesko Raffin,18 March 1988 (28),Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175481.html,Movistar Yamaha MotoGP,Valentino Rossi,18 March 1982 (34),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175504.html,Manor Racing,Jordan King,17 September 1993 (22),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175550.html,Lada Sport,Hugo Valente,17 September 1992 (23),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175575.html,Intact GP,Jonas Folger,17 October 1979 (36),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175597.html,Sebastien Loeb Racing,Mehdi Bennani,17 March 1990 (26),Morocco
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175624.html,Campos Racing,Konstantin Tereschenko,17 June 1994 (22),Russia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175627.html,Van Amersfoort Racing,Callum Ilott,17 June 1992 (24),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175637.html,QMMF Racing Team,Julian Simon,17 July 1981 (35),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175666.html,Audi Sport Team Rosberg,Jamie Green,17 February 1993 (23),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175690.html,BMW Team Schnitzer,Martin Tomczyk,17 December 1991 (24),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175703.html,Interwetten Paddock,Thomas Luthi,17 April 1998 (18),Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175714.html,Polestar Racing,Thed Bjork,17 April 1986 (30),Sweden
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175727.html,Münnich Motorsport,Sabine Schmitz,16 October 1999 (16),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175771.html,Scuderia Toro Rosso,Carlos Sainz Jr.,16 October 1997 (18),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175773.html,Van Amersfoort Racing,Anthoine Hubert,16 October 1996 (19),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175776.html,Techeetah,Jean-Eric Vergne,16 July 1990 (26),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175779.html,Aspar Team MotoGP,Yonni Hernandez,16 February 1986 (30),Colombia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175785.html,Avintia Racing,Hector Barbera,16 February 1979 (37),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175801.html,Aspar Team MotoGP,Eugene Laverty,16 August 1969 (47),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175808.html,Racing Engineering,Norman Nato,16 April 1986 (30),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175809.html,Sebastien Loeb Racing,Gregoire Demoustier,15 October 1983 (32),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175863.html,Intact GP,Sandro Cortese,15 March 1988 (28),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175866.html,Carlin,Ryan Tveter,15 March 1985 (31),United States
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175899.html,Münnich Motorsport,Rene Munnich,15 January 1996 (20),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175928.html,Team Italia,Stefano Manzi,15 February 1998 (18),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175932.html,LCR Honda,Cal Crutchlow,15 February 1990 (26),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175937.html,Jenzer Motorsport,Arjun Maini,15 April 1993 (23),India
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175940.html,Manor Racing,Rio Haryanto,14 September 1990 (25),Indonesia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175948.html,Movistar Yamaha MotoGP,Jorge Lorenzo,14 September 1990 (25),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175968.html,Lada Sport,Gabriele Tarquini,14 May 1969 (47),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175991.html,Octo Pramac Yakhnich,Danilo Petrucci,14 March 1991 (25),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1175999.html,Forward Racing,Lorenzo Baldassarri,14 June 1982 (34),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176011.html,Forward Racing,Luca Marini,14 July 1978 (38),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176040.html,Ajo Motorsport,Brad Binder,14 February 1990 (26),South Africa
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176065.html,Arginano Racing Team,Marcel Schrotter,14 December 1993 (22),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176071.html,Speed Up,Simone Corsi,14 December 1980 (35),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176080.html,HP Tuenti 40,Edgar Pons,14 August 1993 (23),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176088.html,Repsol Honda Team,Dani Pedrosa,14 April 1996 (20),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176095.html,Team Suzuki Ecstar,Maverick Vinales,14 April 1989 (27),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176096.html,RP Motorsport,Johnny Cecotto Jr.,14 April 1988 (28),Venezuela
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176122.html,Honda Team Asia,Khairul Idham Pawi,13 September 1986 (29),Malaysia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176125.html,Gresini Racing,Sam Lowes,13 October 1993 (22),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176135.html,Williams,Kazuki Nakajima,13 May 1996 (20),Japan
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176137.html,RBA Racing Team,Juan Francisco Guevara,13 March 1989 (27),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176140.html,Campos Racing,John Filippi,13 June 1998 (18),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176184.html,Prema,Pierre Gasly,13 June 1989 (27),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176237.html,BMW Team RMG,Timo Glock,13 August 1993 (23),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176248.html,Motopark Academy,Joel Eriksson,13 August 1985 (31),Sweden
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176257.html,Trident Racing,Antonio Fuoco,12 November 1998 (17),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176279.html,Ongetta,Jules Danilo,12 May 1996 (20),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176285.html,Honda Racing Team JAS,Tiago Monteiro,12 May 1992 (24),Portugal
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176297.html,Leopard Racing,Fabio Quartararo,12 March 1996 (20),France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176340.html,Renault,Jolyon Palmer,12 June 1996 (20),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176381.html,Dale Coyne Racing,Gabriel Chaves,12 January 1995 (21),Colombia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176385.html,DAMS,Santino Ferrucci,12 January 1987 (29),United States
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176388.html,Williams,Felipe Massa,12 January 1972 (44),Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176393.html,McLaren,Stoffel Vandoorne,12 April 1994 (22),Belgium
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176408.html,Ajo Motorsport,Bo Bendsneyder,11 September 1994 (21),Netherlands
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176441.html,MS Amlin Andretti,Scott Speed,11 November 1998 (17),United States
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176773.html,Status Grand Prix,Richie Stanaway,11 November 1989 (26),New Zealand
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176774.html,Trident Racing,Giovanni Venturini,11 May 1990 (26),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176775.html,Carlin,William Buller,11 January 1988 (28),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176782.html,Arden,Kevin Ceccon,11 January 1985 (31),Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176789.html,Carlin,Daniel Morad,11 December 1996 (19),Canada
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1176793.html,Bamboo Engineering,Lewis Williamson,11 August 1995 (21),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177199.html,P1 Motorsport,Matias Laine,11 April 1995 (21),Finland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177233.html,RSC Mücke Motorsport,Michael Christensen,10 October 1998 (17),Denmark
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177234.html,Carlin,Callum MacLeod,10 November 1989 (27),Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177235.html,Threebond With T-Sport,Kevin Korjus,10 November 1978 (37),Estonia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177236.html,ART Grand Prix,Pedro Nunes,10 May 1994 (22),Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177237.html,BVM Target,Tamas Pal Kiss,10 March 1993 (23),Hungary
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177238.html,Arden,Emil Bernstorff,10 June 1991 (25),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177239.html,MotorSport Vision,Tobias Hegewald,10 January 1997 (19),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177240.html,Bamboo Engineering,Miki Monras,10 January 1996 (20),Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177241.html,Addax Team,Dean Smith,10 January 1990 (26),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177242.html,Carlin,Jann Mardenborough,10 December 1997 (18),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177243.html,Arden,Aleksander Bosak,10 August 1997 (19),Poland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177244.html,Addax Team,Oliver Oakes,10 August 1992 (24),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177245.html,Venezuela GP Lazarus,Zoël Amberg,1 September 1997 (19),Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177246.html,Manor Racing,Patrick Kujala,1 September 1994 (22),Finland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177247.html,Lotus Racing Junior,Marlon Stockinger,1 October 1997 (18),Philippines
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177248.html,Tech 1 Racing,Doru Sechelariu,1 June 1995 (21),Romania
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177249.html,Jenzer Motorsport,Maxim Zimin,1 July 1989 (27),Russia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177250.html,Carlin,Dean Stoneman,1 January 1992 (24),United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177251.html,ABT Schaeffler Audi Sport,Daniel Abt,1 April 1989 (27),Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177252.html,ART Grand Prix,Jack Harvey,,Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177253.html,ART Grand Prix,Alex Brundle,,United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177254.html,Rapax,Adrian Quaife-Hobbs,,United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177255.html,Manor Racing,Roberto Merhi,,Spain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177256.html,Carlin,Eric Liechtenstein,,Argentina
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177257.html,Carlin,Leonardo Cordeiro,,Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177258.html,Hilmer Motorsport,Simon Trummer,,Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177259.html,MP Motorsport,Vittorio Ghirelli,,Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177260.html,Italy,Mirko Bortolotti,,Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177261.html,Eurointernational,Facundo Regalia,,Argentina
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177262.html,Russian Time,Luciano Bacheta,,Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177263.html,Manor Racing,Fabiano Machado,,Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177264.html,Super Aguri,Stefano Coletti,,Monaco
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177265.html,Eurointernational,Ricciardo Agostini,,Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177266.html,Rapax,Robert Visoiu,,Romania
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177267.html,Force India F1,James Calado,,United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177268.html,Carlin Motorsport,Alice Powell,,United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177269.html,Lotus Racing Junior,Nick Yelloly,,Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177270.html,Status Grand Prix,Seb Morris,,United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177271.html,HitechGP,Alexander Sims,,United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177272.html,Pons Racing,Nelson Mason,,Canada
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177273.html,Venezuela GP Lazarus,Patrick Niederhauser,,Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177274.html,Jenzer Motorsport,Pal Varhaug,,Norway
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177275.html,Ocean Racing Technology,Andrea Caldarelli,,Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177276.html,Koiranen Motorsport,Aaro Vainio,,Finland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177277.html,Status Grand Prix,Ivan Lukashevich,,Russia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177278.html,Jenzer Motorsport,Matheo Tuscher,,Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177279.html,Persson Motorsport,Renger van der Zande,,Netherlands
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177280.html,ART Grand Prix,Dino Zamparelli,,Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177281.html,Carlin,Adderly Fong,,Hong Kong
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177282.html,Strakka Racing,Tio Ellinas,,Cyprus
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177283.html,Trident Racing,David Fumanelli,,Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177284.html,Double R Racing,Felipe Guimaraes,,Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177285.html,Comtec Racing,Lucas Foresti,,Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177286.html,Carlin,Mitchell Gilbert,,Australia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177287.html,Bamboo Engineering,Melville McKee,,Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177288.html,Pons Racing,Alex Fontana,,Switzerland
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177289.html,Hilmer Motorsport,Nigel Melker,,Netherlands
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177290.html,Schmidt Peterson Motorsports,James Jakes,,United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177291.html,Trident Racing,Roman De Beer,,South Africa
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177292.html,Bamboo Engineering,Fabio Gamberini,,Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1177293.html,Pons Racing,Luis Sa Silva,,Angola
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1181669.html,Motopark Academy,Markus Pommer,,Germany
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1181684.html,Carlin,Julián Leal,,Colombia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1181764.html,Scuderia Toro Rosso,Luiz Razia,,Brazil
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1181795.html,Addax,Jake Rosenzweig,,United States
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1181864.html,DAMS,Stephane Richelmi,,Monaco
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1181884.html,Scuderia Coloni,Fabio Onidi,,Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1181901.html,MS Amlin Andretti,Robin Frijns,,Netherlands
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1181916.html,Addax Team,Pablo Sanchez Lopez,,Mexico
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1181941.html,Rapax,Kevin Giovesi,,Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1181998.html,Panasonic Jaguar Racing,Adam Carroll,,United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1182108.html,A1 Team Monaco,Clivio Piccione,,Monaco
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1182645.html,NextEV NIO,Charles Pic,,France
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1182768.html,Haas F1,Guenther Steiner,,Italy
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1182769.html,Williams,Claire Williams,,United Kingdom
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1182779.html,Mücke Motorsport,Vitaly Petrov,,Russia
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1182780.html,Sauber,Giedo van der Garde,,Netherlands
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1182781.html,McLaren,Tim Goss,,Great Britain
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1182782.html,Mercedes Grand Prix,Brendon Hartley,,New Zealand
+/home/edimar/doutorado/doutorado04/bases/ORION/driver/gp_update/1182790.html,Mercedes Grand Prix,Toto Wolff,,Austria
